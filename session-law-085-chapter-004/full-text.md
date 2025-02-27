@@ -1,0 +1,22 @@
+<div><p style="margin-top: 0; margin-bottom: 0; text-align: center"><span>LAWS OF DELAWARE</span></p>
+<p style="margin-top: 0; margin-bottom: 0; text-align: center"><span>VOLUME 85</span></p>
+<p style="margin-top: 0; margin-bottom: 0; text-align: center"><span>CHAPTER 4</span></p>
+<p style="margin-top: 0; margin-bottom: 0; text-align: center"><span>153rd GENERAL ASSEMBLY</span></p>
+<p style="margin-top: 0; margin-bottom: 0; text-align: center"><span>FORMERLY</span></p>
+<p style="margin-top: 0; margin-bottom: 0; text-align: center"><span>HOUSE BILL NO. 30</span></p>
+<p style="margin-top: 0; margin-bottom: 0"><span> </span></p>
+<p style="margin-top: 0; margin-bottom: 0; text-align: justify"><span>AN ACT TO AMEND CHAPTER 299, VOLUME 84 OF THE LAWS OF DELAWARE RELATING TO THE AFFORDABLE HOUSING PRODUCTION TASK FORCE.</span></p>
+<p style="margin-top: 0; margin-bottom: 0"><span> </span></p>
+<p style="margin-top: 0; margin-bottom: 6pt; text-align: justify"><span>BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF DELAWARE:</span></p>
+<p style="margin-top: 0; margin-bottom: 0; text-indent: 36pt; text-align: justify; line-height: 18pt"><span style="color: rgba(34, 34, 34, 1)">Section 1. Amend Section 1, Chapter 299, Volume 84 of the Laws of Delaware by making deletions as shown by strike through and insertions as shown by underline as follows: </span></p>
+<p style="margin-top: 0; margin-bottom: 0; text-indent: 36pt; text-align: justify; line-height: 18pt"><span style="color: rgba(34, 34, 34, 1)">(e) Duties and responsibilities of Task Force Co-Chairs.</span></p>
+<p style="margin-top: 0; margin-bottom: 0; text-indent: 36pt; text-align: justify; line-height: 18pt"><span style="color: rgba(34, 34, 34, 1)">The Co-Chairs of the Task Force shall be responsible for coordinating the administration of the Task Force by, at a minimum, performing the following tasks:</span></p>
+<p style="margin-top: 0; margin-left: 18pt; margin-bottom: 0; text-indent: 36pt; text-align: justify; line-height: 18pt"><span style="color: rgba(34, 34, 34, 1)">(1) Setting a date, time, and place for the initial organizational meeting.</span></p>
+<p style="margin-top: 0; margin-left: 18pt; margin-bottom: 0; text-indent: 36pt; text-align: justify; line-height: 18pt"><span style="color: rgba(34, 34, 34, 1)">(2) Supervising the preparation and distribution of the </span><span style="text-decoration: line-through; color: rgba(34, 34, 34, 1)">Tsk </span><span style="text-decoration: underline; color: rgba(34, 34, 34, 1)">Task </span><span style="color: rgba(34, 34, 34, 1)">Force meeting notices, agendas, minutes, correspondence, and reports.</span></p>
+<p style="margin-top: 0; margin-left: 18pt; margin-bottom: 0; text-indent: 36pt; text-align: justify; line-height: 18pt"><span style="color: rgba(34, 34, 34, 1)">(3) Sending to the Speaker of the House of Representatives, President Pro Tempore of the Senate, and the Director of the Division of Research of Legislative Council, after the first meeting of the Task Force, a list of the members of the Task Force and who appointed them.</span></p>
+<p style="margin-top: 0; margin-left: 18pt; margin-bottom: 0; text-indent: 36pt; text-align: justify; line-height: 18pt"><span style="color: rgba(34, 34, 34, 1)">(4) Providing meeting notices, agendas, and minutes to the Director of the Division of Research of Legislative Council.</span></p>
+<p style="margin-top: 0; margin-left: 18pt; margin-bottom: 0; text-indent: 36pt; text-align: justify; line-height: 18pt"><span style="color: rgba(34, 34, 34, 1)">(5) Ensuring that the final report of the Task Force is submitted to the President Pro Tempore of the Senate and the Speaker of the House of Representatives, with copies to all members of the General Assembly, the Governor, the Director and the Librarian of the Division of Research of Legislative Council, and the Delaware Archives no later than</span><span style="text-decoration: line-through; color: rgba(34, 34, 34, 1)"> March</span><span style="color: rgba(34, 34, 34, 1)"> </span><span style="text-decoration: line-through; color: rgba(34, 34, 34, 1)">1,2025.</span><span style="text-decoration: underline; color: rgba(34, 34, 34, 1)"> April 7, 2025.</span></p>
+<p style="margin-top: 0; margin-bottom: 0"><span> </span></p>
+<p style="margin-top: 0; margin-left: 21.6pt; margin-bottom: 0; text-indent: -21.6pt"><span>Approved February 27, 2025</span></p>
+<p style="margin-top: 0; margin-bottom: 0"><span> </span></p>
+</div>
