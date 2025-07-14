@@ -1,0 +1,20 @@
+<div><p style="margin-top: 0; margin-bottom: 0; text-align: center"><span>LAWS OF DELAWARE</span></p>
+<p style="margin-top: 0; margin-bottom: 0; text-align: center"><span>VOLUME 85</span></p>
+<p style="margin-top: 0; margin-bottom: 0; text-align: center"><span>CHAPTER 72</span></p>
+<p style="margin-top: 0; margin-bottom: 0; text-align: center"><span>153rd GENERAL ASSEMBLY</span></p>
+<p style="margin-top: 0; margin-bottom: 0; text-align: center"><span>FORMERLY</span></p>
+<p style="margin-top: 0; margin-bottom: 0; text-align: center"><span>HOUSE BILL NO. 142</span></p>
+<p style="margin-top: 0; margin-bottom: 0"><span> </span></p>
+<p style="margin-top: 0; margin-bottom: 0; text-align: justify"><span>AN ACT TO AMEND TITLE 11 OF THE DELAWARE CODE RELATING TO ARRESTS.</span></p>
+<p style="margin-top: 0; margin-bottom: 0"><span> </span></p>
+<p style="margin-top: 0; margin-bottom: 6pt; text-align: justify"><span>BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF DELAWARE:</span></p>
+<p style="margin-top: 0; margin-bottom: 0; text-indent: 36pt; text-align: justify; line-height: 18pt"><span style="color: rgba(34, 34, 34, 1)">Section 1. Amend § 2509, Title 11 of the Delaware Code by making deletions as shown by strike through and insertions as shown by underline as follows:</span></p>
+<p style="margin-top: 0; margin-bottom: 0; text-indent: 36pt; text-align: justify; line-height: 18pt"><span style="color: rgba(34, 34, 34, 1)">§ 2509. </span><span style="text-decoration: line-through; color: rgba(34, 34, 34, 1)">Authority of arresting officer to command assistance.</span><span style="color: rgba(34, 34, 34, 1)"> </span><span style="text-decoration: underline; color: rgba(34, 34, 34, 1)">[Repealed.]</span></p>
+<p style="margin-top: 0; margin-bottom: 0; text-indent: 36pt; text-align: justify; line-height: 18pt"><span style="text-decoration: line-through; color: rgba(34, 34, 34, 1)">Every peace officer or other person empowered to make the arrest under this subchapter shall have the same authority, in arresting the accused, to command assistance therein, as peace officers have by law in the execution of any criminal process directed to them, with like penalties against those who refuse their assistance.</span></p>
+<p style="margin-top: 0; margin-bottom: 0; text-indent: 36pt; text-align: justify; line-height: 18pt"><span style="color: rgba(34, 34, 34, 1)">Section 2. Amend § 2514, Title 11 of the Delaware Code by making deletions as shown by strike through and insertions as shown by underline as follows:</span></p>
+<p style="margin-top: 0; margin-bottom: 0; text-indent: 36pt; text-align: justify; line-height: 18pt"><span style="color: rgba(34, 34, 34, 1)">§ 2514. Arrest without warrant.</span></p>
+<p style="margin-top: 0; margin-bottom: 0; text-indent: 36pt; text-align: justify; line-height: 18pt"><span style="color: rgba(34, 34, 34, 1)">The arrest of a person may be lawfully made by any peace </span><span style="text-decoration: line-through; color: rgba(34, 34, 34, 1)">officer or a private person, </span><span style="text-decoration: underline; color: rgba(34, 34, 34, 1)">officer, </span><span style="color: rgba(34, 34, 34, 1)">without a warrant, upon reasonable information that the accused stands charged in the courts of a state with a crime punishable by death or imprisonment for a term exceeding 1 year, but when so arrested the accused shall be taken before a judge or justice of the peace with all practicable speed and complaint shall be made against the accused under oath setting forth the ground for the arrest as in §</span><span style="color: rgba(34, 34, 34, 1)"> </span><span style="color: rgba(34, 34, 34, 1)">2513 of this title, and thereafter the accused’s answer shall be heard as if the accused had been arrested on a warrant.</span></p>
+<p style="margin-top: 0; margin-bottom: 0"><span> </span></p>
+<p style="margin-top: 0; margin-left: 21.6pt; margin-bottom: 0; text-indent: -21.6pt"><span>Approved July 14, 2025</span></p>
+<p style="margin-top: 0; margin-bottom: 0"><span> </span></p>
+</div>
