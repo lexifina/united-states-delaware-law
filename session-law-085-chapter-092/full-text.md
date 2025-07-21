@@ -1,0 +1,26 @@
+<div><p style="margin-top: 0; margin-bottom: 0; text-align: center"><span>LAWS OF DELAWARE</span></p>
+<p style="margin-top: 0; margin-bottom: 0; text-align: center"><span>VOLUME 85</span></p>
+<p style="margin-top: 0; margin-bottom: 0; text-align: center"><span>CHAPTER 92</span></p>
+<p style="margin-top: 0; margin-bottom: 0; text-align: center"><span>153rd GENERAL ASSEMBLY</span></p>
+<p style="margin-top: 0; margin-bottom: 0; text-align: center"><span>FORMERLY</span></p>
+<p style="margin-top: 0; margin-bottom: 0; text-align: center"><span>SENATE SUBSTITUTE NO. 1</span></p>
+<p style="margin-top: 0; margin-bottom: 0; text-align: center"><span>FOR</span></p>
+<p style="margin-top: 0; margin-bottom: 0; text-align: center"><span>SENATE BILL NO. 101</span></p>
+<p style="margin-top: 0; margin-bottom: 0"><span> </span></p>
+<p style="margin-top: 0; margin-bottom: 0; text-align: justify"><span>AN ACT TO AMEND TITLE 16 OF THE DELAWARE CODE RELATING TO THE DEFINITION OF THE PATIENT-PRACTITIONER RELATIONSHIP.</span></p>
+<p style="margin-top: 0; margin-bottom: 0"><span> </span></p>
+<p style="margin-top: 0; margin-bottom: 6pt; text-align: justify"><span>BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF DELAWARE:</span></p>
+<p style="margin-top: 0; margin-bottom: 0; text-indent: 36pt; text-align: justify; line-height: 18pt"><span>Section 1. Amend Chapter 47, Title 16 of the Delaware Code by making deletions as shown by strike through and insertions as shown by underline as follows: </span></p>
+<p style="margin-top: 0; margin-bottom: 0; text-indent: 36pt; text-align: justify; line-height: 18pt"><span>§ 4701. Definitions.</span></p>
+<p style="margin-top: 0; margin-bottom: 0; text-indent: 36pt; text-align: justify; line-height: 18pt"><span>(34) “Patient-practitioner relationship” means, with respect to prescribing drugs for a patient, that the practitioner is a licensed practitioner </span><span style="text-decoration: line-through">who:</span><span> </span><span style="text-decoration: underline">who meets one or more of the following:</span><span> </span><span> </span></p>
+<p style="margin-top: 0; margin-left: 36pt; margin-bottom: 0; text-indent: 36pt; text-align: justify; line-height: 18pt"><span>a. Has conducted at least 1 in-person medical evaluation of the patient and performed a medical history and physical examination sufficient to establish a diagnosis and to identify underlying conditions of, or contraindications to, the treatment recommended or </span><span style="text-decoration: line-through">provided; or</span><span> </span><span style="text-decoration: underline">provided.</span></p>
+<p style="margin-top: 0; margin-left: 36pt; margin-bottom: 0; text-indent: 36pt; text-align: justify; line-height: 18pt"><span>b. Personally knows the patient and the patient’s general health status through an existing patient-practitioner </span><span style="text-decoration: line-through">relationship; or</span><span> </span><span style="text-decoration: underline">relationship.</span></p>
+<p style="margin-top: 0; margin-left: 36pt; margin-bottom: 0; text-indent: 36pt; text-align: justify; line-height: 18pt"><span>c. Provides treatment in consultation with or upon referral of another practitioner who has an existing patient-practitioner relationship with the patient and who has agreed to supervise the patient’s treatment, including follow-up care and use of the prescribed </span><span style="text-decoration: line-through">medications; or</span><span> </span><span style="text-decoration: underline">medications.</span></p>
+<p style="margin-top: 0; margin-left: 36pt; margin-bottom: 0; text-indent: 36pt; text-align: justify; line-height: 18pt"><span>d. Provides treatment to the patient through an on-call or cross-coverage situation for another practitioner who has an existing patient-practitioner relationship with the </span><span style="text-decoration: line-through">patient; or</span><span> </span><span style="text-decoration: underline">patient.</span></p>
+<p style="margin-top: 0; margin-left: 36pt; margin-bottom: 0; text-indent: 36pt; text-align: justify; line-height: 18pt"><span>e. Provides continuing medications on a short-term basis for a new patient prior to the first </span><span style="text-decoration: line-through">appointment; or</span><span> </span><span style="text-decoration: underline">appointment.</span></p>
+<p style="margin-top: 0; margin-left: 36pt; margin-bottom: 0; text-indent: 36pt; text-align: justify; line-height: 18pt"><span>f. Provides treatment based upon admission orders for a newly hospitalized patient.</span></p>
+<p style="margin-top: 0; margin-left: 36pt; margin-bottom: 0; text-indent: 36pt; text-align: justify; line-height: 18pt"><span style="text-decoration: underline">g. Provides treatment for opioid use disorder under a properly established provider-patient relationship as provided by § 6003 of Title 24 for Schedule III through V medications approved by the Federal Drug Administration for such treatment.</span></p>
+<p style="margin-top: 0; margin-bottom: 0"><span> </span></p>
+<p style="margin-top: 0; margin-left: 21.6pt; margin-bottom: 0; text-indent: -21.6pt"><span>Approved July 21, 2025</span></p>
+<p style="margin-top: 0; margin-bottom: 0"><span> </span></p>
+</div>
