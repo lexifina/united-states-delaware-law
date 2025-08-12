@@ -1,0 +1,21 @@
+<div><p style="margin-top: 0; margin-bottom: 0; text-align: center"><span>LAWS OF DELAWARE</span></p>
+<p style="margin-top: 0; margin-bottom: 0; text-align: center"><span>VOLUME 85</span></p>
+<p style="margin-top: 0; margin-bottom: 0; text-align: center"><span>CHAPTER 130</span></p>
+<p style="margin-top: 0; margin-bottom: 0; text-align: center"><span>153rd GENERAL ASSEMBLY</span></p>
+<p style="margin-top: 0; margin-bottom: 0; text-align: center"><span>FORMERLY</span></p>
+<p style="margin-top: 0; margin-bottom: 0; text-align: center"><span>HOUSE BILL NO. 167</span></p>
+<p style="margin-top: 0; margin-bottom: 0"><span> </span></p>
+<p style="margin-top: 0; margin-bottom: 0; text-align: justify"><span>AN ACT TO AMEND TITLE 11 OF THE DELAWARE CODE RELATING TO THE FAMILY JUSTICE CENTER COUNCIL.</span></p>
+<p style="margin-top: 0; margin-bottom: 0"><span> </span></p>
+<p style="margin-top: 0; margin-bottom: 6pt; text-align: justify"><span>BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF DELAWARE:</span></p>
+<p style="margin-top: 0; margin-bottom: 0; text-indent: 36pt; text-align: justify; line-height: 18pt"><span style="color: rgba(34, 34, 34, 1)">Section 1. Amend § 9906, Title 11 of the Delaware Code by making deletions as shown by strike through and insertions as shown by underline as follows:</span></p>
+<p style="margin-top: 0; margin-bottom: 0; text-indent: 36pt; text-align: justify; line-height: 18pt"><span style="color: rgba(34, 34, 34, 1)">§ 9906. Family Justice Center Council [For application of this section, see 84 Del. Laws, c. 508, § 2].</span></p>
+<p style="margin-top: 0; margin-bottom: 0; text-indent: 36pt; text-align: justify; line-height: 18pt"><span style="color: rgba(34, 34, 34, 1)">(c) The Council consists of the following members:</span></p>
+<p style="margin-top: 0; margin-left: 18pt; margin-bottom: 0; text-indent: 36pt; text-align: justify; line-height: 18pt"><span style="color: rgba(34, 34, 34, 1)">(10) </span><span style="text-decoration: line-through; color: rgba(34, 34, 34, 1)">Ten </span><span style="text-decoration: underline; color: rgba(34, 34, 34, 1)">Twelve </span><span style="color: rgba(34, 34, 34, 1)">at-large members who are selected by Council members under paragraphs (c)(1) through </span><span style="text-decoration: line-through; color: rgba(34, 34, 34, 1)">(c)(7) </span><span style="text-decoration: underline; color: rgba(34, 34, 34, 1)">(c)(9) </span><span style="color: rgba(34, 34, 34, 1)">of this section. The Council members selecting the at-large members must consider geographic diversity and ensure representation of each county when selecting an at-large member. An at-large member is a full member of the Council. The at-large members must be comprised of the following: </span></p>
+<p style="margin-top: 0; margin-left: 36pt; margin-bottom: 0; text-indent: 36pt; text-align: justify; line-height: 18pt"><span style="color: rgba(34, 34, 34, 1)">f. One member representing the </span><span style="text-decoration: line-through; color: rgba(34, 34, 34, 1)">health-care community including </span><span style="color: rgba(34, 34, 34, 1)">mental health</span><span style="text-decoration: line-through; color: rgba(34, 34, 34, 1)"> providers and sexual assault nurse examiners.</span><span style="text-decoration: underline; color: rgba(34, 34, 34, 1)"> care provider community.</span></p>
+<p style="margin-top: 0; margin-left: 36pt; margin-bottom: 0; text-indent: 36pt; text-align: justify; line-height: 18pt"><span style="text-decoration: underline">k. One member representing the sexual assault nurse examiner or forensic nurse examiner community.</span></p>
+<p style="margin-top: 0; margin-left: 36pt; margin-bottom: 0; text-indent: 36pt; text-align: justify; line-height: 18pt"><span style="font-style: italic; text-decoration: underline">l</span><span style="text-decoration: underline">. One member representing system-based police or prosecution victim service specialists.</span></p>
+<p style="margin-top: 0; margin-bottom: 0; text-align: justify; line-height: 18pt"><span> </span></p>
+<p style="margin-top: 0; margin-left: 21.6pt; margin-bottom: 0; text-indent: -21.6pt; text-align: justify; line-height: 18pt"><span>Approved August 12, 2025</span></p>
+<p style="margin-top: 0; margin-bottom: 0"><span> </span></p>
+</div>
