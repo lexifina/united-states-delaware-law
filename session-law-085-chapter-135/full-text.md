@@ -1,0 +1,22 @@
+<div><p style="margin-top: 0; margin-bottom: 0; text-align: center"><span>LAWS OF DELAWARE</span></p>
+<p style="margin-top: 0; margin-bottom: 0; text-align: center"><span>VOLUME 85</span></p>
+<p style="margin-top: 0; margin-bottom: 0; text-align: center"><span>CHAPTER 135</span></p>
+<p style="margin-top: 0; margin-bottom: 0; text-align: center"><span>153rd GENERAL ASSEMBLY</span></p>
+<p style="margin-top: 0; margin-bottom: 0; text-align: center"><span>FORMERLY</span></p>
+<p style="margin-top: 0; margin-bottom: 0; text-align: center"><span>HOUSE BILL NO. 242</span></p>
+<p style="margin-top: 0; margin-bottom: 0; text-align: center"><span>AS AMENDED BY</span></p>
+<p style="margin-top: 0; margin-bottom: 0; text-align: center"><span>HOUSE AMENDMENT NO. 1</span></p>
+<p style="margin-top: 0; margin-bottom: 0"><span> </span></p>
+<p style="margin-top: 0; margin-bottom: 0; text-align: justify"><span>AN ACT RELATING TO LOCAL SCHOOL TAXES IN THE 2025-2026 TAX YEAR.</span></p>
+<p style="margin-top: 0; margin-bottom: 0"><span> </span></p>
+<p style="margin-top: 0; margin-bottom: 6pt; text-align: justify"><span>BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF DELAWARE:</span></p>
+<p style="margin-top: 0; margin-bottom: 0; text-indent: 36pt; text-align: justify; line-height: 21pt"><span>Section 1. Notwithstanding any provision of law to the contrary, on enactment of this Act:</span><span></span></p>
+<p style="margin-top: 0; margin-left: 18pt; margin-bottom: 0; text-indent: 36pt; text-align: justify; line-height: 21pt"><span>(1) The school board of a school district located entirely in New Castle County may, for the 2025-2026 school tax year, reset the local school tax rate using a residential and a non-residential tax rate. The non-residential tax rate must be at least equal to the residential tax rate and may not be more than 2 times the residential tax rate. The total amount of revenue projected to be collected through use of the residential and non-residential tax rates </span><span>may not exceed the total amount of revenue the district was projected to collect under its original 2025-2026 tax warrant.</span></p>
+<p style="margin-top: 0; margin-left: 18pt; margin-bottom: 0; text-indent: 36pt; text-align: justify; line-height: 21pt"><span>(2) New tax rates approved by a school district under this Act must be reported to the County and delivered with a new warrant not later than 10 business days from the effective date of this Act. </span></p>
+<p style="margin-top: 0; margin-left: 18pt; margin-bottom: 0; text-indent: 36pt; text-align: justify; line-height: 21pt"><span>(3) Upon receipt of a new warrant under paragraph (2) of this Act, New Castle County shall supplement any tax bill already issued to taxpayers in that district for the 2025-2026 tax year and adjust initial billing using the new local school tax rates set by the district. New Castle County shall extend the deadline for payment of property tax bills for the 2025-2026 tax year that are supplemented or adjusted under this Act to November 30, 2025. </span><span></span></p>
+<p style="margin-top: 0; margin-left: 18pt; margin-bottom: 0; text-indent: 36pt; text-align: justify; line-height: 21pt"><span>(4) If a taxpayer submits payment prior to an adjustment in billing under paragraph (3) of this Act, and the taxpayer’s school tax bill is adjusted downward, New Castle County shall credit the overpayment against future school tax liability, unless a taxpayer submits a written request for refund of overpayment to New Castle County, in which case New Castle County shall issue a refund.</span></p>
+<p style="margin-top: 0; margin-left: 18pt; margin-bottom: 0; text-indent: 36pt; text-align: justify; line-height: 21pt"><span>(5) If a school district resets the school district’s tax rates in accordance with this Act and a cash flow shortfall of local school funds occurs due to the extension of the deadline for tax payments for the 2025-2026 school tax year, the school district may request, and the State may advance, monies from State Division I funds.</span></p>
+<p style="margin-top: 0; margin-bottom: 0"><span> </span></p>
+<p style="margin-top: 0; margin-left: 21.6pt; margin-bottom: 0; text-indent: -21.6pt"><span>Approved August 12, 2025</span></p>
+<p style="margin-top: 0; margin-bottom: 0"><span> </span></p>
+</div>
