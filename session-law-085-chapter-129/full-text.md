@@ -1,0 +1,29 @@
+<div><p style="margin-top: 0; margin-bottom: 0; text-align: center"><span>LAWS OF DELAWARE</span></p>
+<p style="margin-top: 0; margin-bottom: 0; text-align: center"><span>VOLUME 85</span></p>
+<p style="margin-top: 0; margin-bottom: 0; text-align: center"><span>CHAPTER 129</span></p>
+<p style="margin-top: 0; margin-bottom: 0; text-align: center"><span>153rd GENERAL ASSEMBLY</span></p>
+<p style="margin-top: 0; margin-bottom: 0; text-align: center"><span>FORMERLY</span></p>
+<p style="margin-top: 0; margin-bottom: 0; text-align: center"><span>HOUSE BILL NO. 87</span></p>
+<p style="margin-top: 0; margin-bottom: 0"><span> </span></p>
+<p style="margin-top: 0; margin-bottom: 0; text-align: justify"><span>AN ACT TO AMEND TITLE 16 OF THE DELAWARE CODE RELATING TO THE SUICIDE PREVENTION COALITION.</span></p>
+<p style="margin-top: 0; margin-bottom: 0"><span> </span></p>
+<p style="margin-top: 0; margin-bottom: 6pt; text-align: justify"><span>BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF DELAWARE:</span></p>
+<p style="margin-top: 0; margin-bottom: 0; text-indent: 36pt; text-align: justify; line-height: 18pt"><span style="color: rgba(34, 34, 34, 1)">Section 1. Amend § 6201, Title 16 of the Delaware Code by making deletions as shown by strike through and insertions as shown by underline as follows:</span></p>
+<p style="margin-top: 0; margin-bottom: 0; text-indent: 36pt; text-align: justify; line-height: 18pt"><span style="color: rgba(34, 34, 34, 1)">§ 6201. The Delaware Suicide Prevention Coalition; mission, composition, organization, and reporting.</span></p>
+<p style="margin-top: 0; margin-bottom: 0; text-indent: 36pt; text-align: justify; line-height: 18pt"><span style="color: rgba(34, 34, 34, 1)">(c) The Coalition shall consist of the following members:</span></p>
+<p style="margin-top: 0; margin-left: 18pt; margin-bottom: 0; text-indent: 36pt; text-align: justify; line-height: 18pt"><span style="color: rgba(34, 34, 34, 1)">(1) One representative of the Division of Substance Abuse and Mental Health, to be appointed by the Secretary of the Department of Health and Social Services;</span></p>
+<p style="margin-top: 0; margin-left: 18pt; margin-bottom: 0; text-indent: 36pt; text-align: justify; line-height: 18pt"><span style="color: rgba(34, 34, 34, 1)">(2) One representative of the Division of Prevention and Behavioral Health Services, to be appointed by the Secretary of the Department of Services for Children, Youth and their Families;</span></p>
+<p style="margin-top: 0; margin-left: 18pt; margin-bottom: 0; text-indent: 36pt; text-align: justify; line-height: 18pt"><span style="color: rgba(34, 34, 34, 1)">(3) One representative of the Division of Public Health, to be appointed by the Secretary of the Department of Health and Social Services;</span></p>
+<p style="margin-top: 0; margin-left: 18pt; margin-bottom: 0; text-indent: 36pt; text-align: justify; line-height: 18pt"><span style="color: rgba(34, 34, 34, 1)">(4) One representative of the Department of Correction, to be appointed by the Commissioner of the department;</span></p>
+<p style="margin-top: 0; margin-left: 18pt; margin-bottom: 0; text-indent: 36pt; text-align: justify; line-height: 18pt"><span style="color: rgba(34, 34, 34, 1)">(5) One representative of the Department of Education, to be appointed by the Secretary of the department;</span></p>
+<p style="margin-top: 0; margin-left: 18pt; margin-bottom: 0; text-indent: 36pt; text-align: justify; line-height: 18pt"><span style="color: rgba(34, 34, 34, 1)">(6) One representative of the Delaware Commission of Veterans Affairs, to be appointed by the Chairman of the Commission;</span></p>
+<p style="margin-top: 0; margin-left: 18pt; margin-bottom: 0; text-indent: 36pt; text-align: justify; line-height: 18pt"><span style="color: rgba(34, 34, 34, 1)">(7) One representative of the Delaware National Guard, to be appointed by the Adjutant General;</span></p>
+<p style="margin-top: 0; margin-left: 18pt; margin-bottom: 0; text-indent: 36pt; text-align: justify; line-height: 18pt"><span style="color: rgba(34, 34, 34, 1)">(8) One representative of the Mental Health Association of Delaware, to be appointed by the Executive Director;</span></p>
+<p style="margin-top: 0; margin-left: 18pt; margin-bottom: 0; text-indent: 36pt; text-align: justify; line-height: 18pt"><span style="color: rgba(34, 34, 34, 1)">(9) One representative of a private psychiatric facility, appointed by the Governor;</span></p>
+<p style="margin-top: 0; margin-left: 18pt; margin-bottom: 0; text-indent: 36pt; text-align: justify; line-height: 18pt"><span style="color: rgba(34, 34, 34, 1)">(10) One representative to be appointed by the </span><span style="text-decoration: line-through; color: rgba(34, 34, 34, 1)">Governor.</span><span style="color: rgba(34, 34, 34, 1)"> </span><span style="text-decoration: underline; color: rgba(34, 34, 34, 1)">Governor;</span></p>
+<p style="margin-top: 0; margin-left: 18pt; margin-bottom: 0; text-indent: 36pt; text-align: justify; line-height: 18pt"><span style="text-decoration: underline; color: rgba(34, 34, 34, 1)">(11) One representative who has experienced suicide ideation or survived a suicide attempt, appointed by the Governor;</span></p>
+<p style="margin-top: 0; margin-left: 18pt; margin-bottom: 0; text-indent: 36pt; text-align: justify; line-height: 18pt"><span style="text-decoration: underline; color: rgba(34, 34, 34, 1)">(12) One representative who has lost a loved one to suicide, appointed by the Governor.</span></p>
+<p style="margin-top: 0; margin-bottom: 0; text-align: justify; line-height: 18pt"><span> </span></p>
+<p style="margin-top: 0; margin-left: 21.6pt; margin-bottom: 0; text-indent: -21.6pt; text-align: justify; line-height: 18pt"><span>Approved August 12, 2025</span></p>
+<p style="margin-top: 0; margin-bottom: 0"><span> </span></p>
+</div>
