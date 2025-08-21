@@ -1,0 +1,46 @@
+<div><p style="margin-top: 0; margin-bottom: 0; text-align: center"><span>LAWS OF DELAWARE</span></p>
+<p style="margin-top: 0; margin-bottom: 0; text-align: center"><span>VOLUME 85</span></p>
+<p style="margin-top: 0; margin-bottom: 0; text-align: center"><span>CHAPTER 164</span></p>
+<p style="margin-top: 0; margin-bottom: 0; text-align: center"><span>153rd GENERAL ASSEMBLY</span></p>
+<p style="margin-top: 0; margin-bottom: 0; text-align: center"><span>FORMERLY</span></p>
+<p style="margin-top: 0; margin-bottom: 0; text-align: center"><span>SENATE BILL NO. 70</span></p>
+<p style="margin-top: 0; margin-bottom: 0; text-align: center"><span>AS AMENDED BY</span></p>
+<p style="margin-top: 0; margin-bottom: 0; text-align: center"><span>SENATE AMENDMENT NO. 1</span></p>
+<p style="margin-top: 0; margin-bottom: 0"><span> </span></p>
+<p style="margin-top: 0; margin-bottom: 0; text-align: justify"><span>AN ACT TO AMEND TITLE 24 OF THE DELAWARE CODE RELATING TO GENETIC COUNSELORS.</span></p>
+<p style="margin-top: 0; margin-bottom: 0"><span> </span></p>
+<p style="margin-top: 0; margin-bottom: 6pt; text-align: justify"><span>BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF DELAWARE:</span></p>
+<p style="margin-top: 0; margin-bottom: 0; text-indent: 36pt; text-align: justify; line-height: 200%"><span>Section 1. Amend Subchapter XI, Chapter 17, Title 24 of the Delaware Code by making deletions as shown by strike through and insertions as shown by underline as follows and by redesignating accordingly:</span><span>  </span></p>
+<p style="margin-top: 0; margin-bottom: 0; text-indent: 36pt; text-align: justify; line-height: 200%"><span>§ 1799H. Definitions.</span></p>
+<p style="margin-top: 0; margin-bottom: 0; text-indent: 36pt; text-align: justify; line-height: 200%"><span>As used in this subchapter:</span></p>
+<p style="margin-top: 0; margin-bottom: 0; text-indent: 36pt; text-align: justify; line-height: 200%"><span>(1) “ABGC” shall mean the American Board of Genetic Counseling or an organization that is recognized as equivalent.</span></p>
+<p style="margin-top: 0; margin-bottom: 0; text-indent: 36pt; text-align: justify; line-height: 200%"><span>(2) “ABMG</span><span style="text-decoration: underline">G</span><span>” shall mean the American Board of Medical Genetics </span><span style="text-decoration: underline">and Genomics </span><span>or an organization that is recognized as equivalent.</span></p>
+<p style="margin-top: 0; margin-bottom: 0; text-indent: 36pt; text-align: justify; line-height: 200%"><span>(3) “Active candidate status” or “ACS” shall be conveyed by the ABGC.</span></p>
+<p style="margin-top: 0; margin-bottom: 0; text-indent: 36pt; text-align: justify; line-height: 200%"><span>(4) “Board” shall mean the Board of Medical Licensure and Discipline.</span></p>
+<p style="margin-top: 0; margin-bottom: 0; text-indent: 36pt; text-align: justify; line-height: 200%"><span>(5) “Genetic counselor” means an individual who engages in the competent practice of genetic counseling.</span></p>
+<p style="margin-top: 0; margin-bottom: 0; text-indent: 36pt; text-align: justify; line-height: 200%"><span style="text-decoration: underline">(6) “Genetic tests" means as defined in § 1201 of Title 16.</span></p>
+<p style="margin-top: 0; margin-bottom: 0; text-indent: 36pt; text-align: justify; line-height: 200%"><span style="text-decoration: line-through">(6)</span><span style="text-decoration: underline">(7)</span><span> “L.G.C.” shall be the abbreviation for the title “licensed genetic counselor”.</span></p>
+<p style="margin-top: 0; margin-bottom: 0; text-indent: 36pt; text-align: justify; line-height: 200%"><span style="text-decoration: line-through">(7)</span><span style="text-decoration: underline">(8)</span><span> “License” shall mean any document which indicates that a person is currently licensed by the Board of Medical Licensure and Discipline to practice genetic counseling.</span></p>
+<p style="margin-top: 0; margin-bottom: 0; text-indent: 36pt; text-align: justify; line-height: 200%"><span style="text-decoration: line-through">(8)</span><span style="text-decoration: underline">(9)</span><span> “NSGC” means the National Society of Genetic Counselors or an organization that is recognized as equivalent</span><span style="text-decoration: underline">.</span></p>
+<p style="margin-top: 0; margin-bottom: 0; text-indent: 36pt; text-align: justify; line-height: 200%"><span style="text-decoration: line-through">(9)</span><span style="text-decoration: underline">(10)</span><span> The “practice of genetic counseling” shall include any or all of the following activities:</span></p>
+<p style="margin-top: 0; margin-left: 36pt; margin-bottom: 0; text-indent: 36pt; text-align: justify; line-height: 200%"><span>a. Obtaining and interpreting individual, family and medical development histories;</span></p>
+<p style="margin-top: 0; margin-left: 36pt; margin-bottom: 0; text-indent: 36pt; text-align: justify; line-height: 200%"><span>b. Determining the mode of inheritance and risk of transmission of genetic conditions;</span></p>
+<p style="margin-top: 0; margin-left: 36pt; margin-bottom: 0; text-indent: 36pt; text-align: justify; line-height: 200%"><span>c. Discussing the inheritance, features, natural history, means of diagnosis;</span></p>
+<p style="margin-top: 0; margin-left: 36pt; margin-bottom: 0; text-indent: 36pt; text-align: justify; line-height: 200%"><span>d. Identifying, coordinating</span><span style="text-decoration: underline">, and ordering of genetic tests,</span><span> and explaining genetic laboratory tests and other diagnostic studies; provided however, that if in the course of providing a genetic counseling service to any client, a genetic counselor finds any indication of disease or condition that requires medical assessment, the genetic counselor shall refer a client to a physician licensed to practice medicine;</span></p>
+<p style="margin-top: 0; margin-left: 36pt; margin-bottom: 0; text-indent: 36pt; text-align: justify; line-height: 200%"><span>e. Assessing psychosocial factors, recognizing social, educational, and cultural issues;</span></p>
+<p style="margin-top: 0; margin-left: 36pt; margin-bottom: 0; text-indent: 36pt; text-align: justify; line-height: 200%"><span>f. Evaluating the client’s or family’s responses to the condition or risk of recurrence and provide client-centered counseling and anticipatory guidance;</span></p>
+<p style="margin-top: 0; margin-left: 36pt; margin-bottom: 0; text-indent: 36pt; text-align: justify; line-height: 200%"><span>g. Communicating genetic information to clients in an understandable manner;</span></p>
+<p style="margin-top: 0; margin-left: 36pt; margin-bottom: 0; text-indent: 36pt; text-align: justify; line-height: 200%"><span>h. Facilitating informed decision making about testing and management alternatives;</span></p>
+<p style="margin-top: 0; margin-left: 36pt; margin-bottom: 0; text-indent: 36pt; text-align: justify; line-height: 200%"><span>i. Identifying and effectively utilizing community resources that provide medical, educational, financial, and psychosocial support and advocacy;</span></p>
+<p style="margin-top: 0; margin-left: 36pt; margin-bottom: 0; text-indent: 36pt; text-align: justify; line-height: 200%"><span>j. Providing accurate written documentation of medical, genetic, and counseling information for families and health care professionals; and</span></p>
+<p style="margin-top: 0; margin-left: 36pt; margin-bottom: 0; text-indent: 36pt; text-align: justify; line-height: 200%"><span>k. The use of telemedicine as defined in this chapter and, as further described in regulation, the use of and participation in telehealth.</span></p>
+<p style="margin-top: 0; margin-bottom: 0; text-indent: 36pt; text-align: justify; line-height: 200%"><span>Section 2.</span><span> </span><span> Amend § 1799J, Subchapter XI, Chapter 17, Title 24 of the Delaware Code by making deletions as shown by strike through and insertions as shown by underline as follows:</span></p>
+<p style="margin-top: 0; margin-bottom: 0; text-indent: 36pt; text-align: justify; line-height: 200%"><span>§ 1799J. Licensure.</span></p>
+<p style="margin-top: 0; margin-bottom: 0; text-indent: 36pt; text-align: justify; line-height: 200%"><span>(a) An applicant who is applying for licensure under this subchapter shall:</span></p>
+<p style="margin-top: 0; margin-left: 18pt; margin-bottom: 0; text-indent: 36pt; text-align: justify; line-height: 200%"><span>(1) Provide satisfactory evidence of having certification as a:</span></p>
+<p style="margin-top: 0; margin-left: 36pt; margin-bottom: 0; text-indent: 36pt; text-align: justify; line-height: 200%"><span>a. Genetic counselor by the ABGC or ABMG</span><span style="text-decoration: underline">G</span><span>; or</span></p>
+<p style="margin-top: 0; margin-left: 36pt; margin-bottom: 0; text-indent: 36pt; text-align: justify; line-height: 200%"><span>b. Medical geneticist by the ABMG</span><span style="text-decoration: underline">G.</span></p>
+<p style="margin-top: 0; margin-bottom: 0"><span> </span></p>
+<p style="margin-top: 0; margin-left: 21.6pt; margin-bottom: 0; text-indent: -21.6pt"><span>Approved August 21, 2025</span></p>
+<p style="margin-top: 0; margin-bottom: 0"><span> </span></p>
+</div>
