@@ -1,0 +1,23 @@
+<div><p style="margin-top: 0; margin-bottom: 0; text-align: center"><span>LAWS OF DELAWARE</span></p>
+<p style="margin-top: 0; margin-bottom: 0; text-align: center"><span>VOLUME 85</span></p>
+<p style="margin-top: 0; margin-bottom: 0; text-align: center"><span>CHAPTER 208</span></p>
+<p style="margin-top: 0; margin-bottom: 0; text-align: center"><span>153rd GENERAL ASSEMBLY</span></p>
+<p style="margin-top: 0; margin-bottom: 0; text-align: center"><span>FORMERLY</span></p>
+<p style="margin-top: 0; margin-bottom: 0; text-align: center"><span>SENATE BILL NO. 144</span></p>
+<p style="margin-top: 0; margin-bottom: 0"><span> </span></p>
+<p style="margin-top: 0; margin-bottom: 0; text-align: justify"><span>AN ACT TO AMEND TITLE 25 OF THE DELAWARE CODE RELATING TO THE DELAWARE MANUFACTURED HOME RELOCATION TRUST FUND.</span></p>
+<p style="margin-top: 0; margin-bottom: 0"><span> </span></p>
+<p style="margin-top: 0; margin-bottom: 6pt; text-align: justify"><span>BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF DELAWARE:</span></p>
+<p style="margin-top: 0; margin-bottom: 0; text-indent: 36pt; text-align: justify; line-height: 18pt"><span style="color: rgba(34, 34, 34, 1)">Section 1. Amend Subchapter V, Chapter 70, Title 25 of the Delaware Code by making deletions as shown by strike through and insertions as shown by underline as follows:</span></p>
+<p style="margin-top: 0; margin-bottom: 0; text-indent: 36pt; text-align: justify; line-height: 18pt"><span style="color: rgba(34, 34, 34, 1)">§ 7041. Delaware Manufactured Home Relocation Authority [For application of this section, see 79 Del. Laws, c. 304, §</span><span style="color: rgba(34, 34, 34, 1)"> </span><span style="color: rgba(34, 34, 34, 1)">7].</span><span style="color: rgba(34, 34, 34, 1)"> </span></p>
+<p style="margin-top: 0; margin-bottom: 0; text-indent: 36pt; text-align: justify; line-height: 18pt"><span style="color: rgba(34, 34, 34, 1)">(c) The Board shall do all of the following:</span></p>
+<p style="margin-top: 0; margin-left: 18pt; margin-bottom: 0; text-indent: 36pt; line-height: 18pt"><span>(3) </span><span style="text-decoration: line-through">Authorize payments and adjust, eliminate, or reinstate the Trust Fund assessment established under § 7042 of this title only if</span><span> </span><span style="text-decoration: underline">With the affirmative vote of</span><span> at least 3 of the 5 members of the </span><span style="text-decoration: line-through">Board approve the payments or assessments.</span><span> </span><span style="text-decoration: underline">Board, authorize any of the following regarding the Trust Fund under § 7042 of this title:</span></p>
+<p style="margin-top: 0; margin-left: 36pt; margin-bottom: 0; text-indent: 36pt; line-height: 18pt"><span style="text-decoration: underline">a. Payments.</span></p>
+<p style="margin-top: 0; margin-left: 36pt; margin-bottom: 0; text-indent: 36pt; line-height: 18pt"><span style="text-decoration: underline">b. Adjust, eliminate, or reinstate the Trust Fund assessment.</span></p>
+<p style="margin-top: 0; margin-left: 36pt; margin-bottom: 0; text-indent: 36pt; line-height: 18pt"><span style="text-decoration: underline">c. Adjust, eliminate, or reinstate the cap on the Trust Fund.</span></p>
+<p style="margin-top: 0; margin-bottom: 0; text-indent: 36pt; text-align: justify; line-height: 18pt"><span style="color: rgba(34, 34, 34, 1)">§ 7042. Delaware Manufactured Home Relocation Trust Fund [Expires July 1, 2029, pursuant to subsection (d) of this section].</span></p>
+<p style="margin-top: 0; margin-bottom: 0; text-indent: 36pt; text-align: justify; line-height: 18pt"><span style="color: rgba(34, 34, 34, 1)">(e) The </span><span style="text-decoration: underline; color: rgba(34, 34, 34, 1)">DMHRA Board may establish and adjust the</span><span style="color: rgba(34, 34, 34, 1)"> cap on the Trust Fund </span><span style="text-decoration: line-through; color: rgba(34, 34, 34, 1)">is $15 million. The cap may be adjusted, eliminated, or reinstated by the Board at any time, subject to the voting requirements under § 7041(c)(3) of this title.</span><span style="color: rgba(34, 34, 34, 1)"> </span><span style="text-decoration: underline">based on the costs reasonably necessary to carry out the purposes of the Trust Fund under subsection (b) of this section. </span></p>
+<p style="margin-top: 0; margin-bottom: 0"><span> </span></p>
+<p style="margin-top: 0; margin-left: 21.6pt; margin-bottom: 0; text-indent: -21.6pt"><span>Approved September 3, 2025</span></p>
+<p style="margin-top: 0; margin-bottom: 0"><span> </span></p>
+</div>
