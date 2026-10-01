@@ -1,0 +1,4 @@
+# § 528. Service of notice and processes; duties of the peace officer [Effective July 17, 2028].
+(a) All notices required to be given, warrants, petitions, processes issued and orders entered pursuant to this subchapter shall be served by a peace officer of proper jurisdiction.
+(b) The Director, in ordering directly observed therapy, hospitalization or isolation pursuant to this subchapter, shall when necessary direct the peace officer to take the person into their custody and immediately deliver them to the director of the facility named on the order. The Division shall consult with the peace officer concerning any necessary infection control procedures to be taken.
+69 Del. Laws, c. 305, § 1; 84 Del. Laws, c. 92, § 1; 84 Del. Laws, c. 92, § 9;
