@@ -1,0 +1,4 @@
+# § 1306. Individuals under age 21; prohibitions [Effective Oct. 21, 2026].
+(a) Nothing in this chapter is intended to permit the transfer of marijuana, marijuana products, or infused beverages, with or without remuneration, to an individual under the age of 21 or to allow an individual under the age of 21 to purchase, possess, use, transport, or consume marijuana, marijuana products, or infused beverages. Nothing in this subsection prohibits a package store from employing a person who has reached the age of 18 years under such conditions as the Alcoholic Beverage Control Commissioner may prescribe by rule or regulation.
+(b) It is unlawful for an individual under the age of 21 years to knowingly enter or remain in an establishment licensed under this chapter. A violation of this subsection is a civil offense punishable by a civil penalty of $50.
+84 Del. Laws, c. 24, § 4; 85 Del. Laws, c. 394, § 1;
