@@ -1,0 +1,14 @@
+# § 6903. Permits for public display of fireworks and sale of fireworks; actions by injured persons [Effective Jan. 1, 2027].
+(a) Permit for public display of fireworks. -
+(1) Any association or company desiring to hold a public display of fireworks may apply to the Office of the State Fire Marshal for a permit to hold such display if application is made 30 days prior to the date of holding the display.
+(2) The application for a permit shall set forth the date, hour and place of holding such display and place of storing fireworks prior to display, also the name of the person holding the display and name of person in charge of igniting the fireworks.
+(3) The application shall be accompanied by a certificate of insurance issued by a bona fide insurance company licensed by the State Insurance Commissioner showing a minimum of $1,000,000 liability insurance per event for those persons who suffer injuries as a result of any discharge of the fireworks by the applicant or anyone acting for or on the applicant's behalf.
+(4) If the State Fire Marshal is satisfied that the holding of the display is supervised by a competent and experienced person and that the display will not be a detriment to the community or area in which the display is held, the Marshal may grant a permit for the display. The place of storage of fireworks prior to the display shall be subject to the approval of the State Fire Marshal.
+(b) Permit for sale of fireworks. -
+(1) Any person seeking to sell fireworks or related products under § 6901 of this title must apply to the Office of the State Fire Marshal for a permit to sell such products 60 days prior to the 30-day sales period prior to and including July 4, the third day of Diwali, December 31, and January 1 of each year.
+(2) A separate application is required for each retail location for which a person seeks authorization to sell fireworks or related products.
+(3) A separate application is required for each 30-day sales period for which a person seeks to sell fireworks or related products.
+(4) A permit fee of $100 must accompany each application or otherwise be paid before the Office of the State Fire Marshal may grant a permit.
+(5) For retail locations that consist of temporary structures, including tents, stands, or other structures, an inspection fee of $25 is required for inspection of the physical structure, and a separate inspection fee of $25 for inspection of the fireworks inventory.
+(c) Any person who fails to obtain a permit required under this section is subject to a penalty of $1,000 for a first violation, $5,000 for a second violation, and $10,000 for any subsequent violation.
+42 Del. Laws, c. 180, § 3; 16 Del. C. 1953, § 6903; 58 Del. Laws, c. 227, §§ 1-3; 61 Del. Laws, c. 301, §§ 1-3; 70 Del. Laws, c. 186, § 1; 71 Del. Laws, c. 447, § 1; 85 Del. Laws, c. 525, § 2;
