@@ -1,0 +1,7 @@
+# § 2109. Failure to provide a conditions of release bond, whether guaranteed by financial terms or not, or consent to conditions; contact with victim or victim's family [Effective Feb. 1, 2027].
+(a) If the defendant does not provide the form of conditions of release bond required by the court, or if the defendant does not agree to meet the conditions for release, the defendant shall be held in the custody of the Department of Correction until the defendant cures such failure or until the court otherwise orders.
+(b) If the defendant is committed in lieu of bail, the court may require such defendant, while in custody, to have no contact with the victim or the victim's family.
+(c) If the defendant is committed in lieu of bail, and knowingly breaches any conditions imposed in connection with that bail, each breach is a separate crime and, on conviction for the breach, is punished as follows:
+(1) If the defendant was held in connection with 1 or more charges of a felony before trial, or while awaiting sentence or pending appeal or certiorari after conviction of 1 or more felonies or misdemeanors, the defendant is guilty of a class E felony.
+(2) If the defendant was held in connection with 1 or more charges of misdemeanor before trial, the defendant is guilty of a class A misdemeanor.
+11 Del. C. 1953, § 2109; 56 Del. Laws, c. 231, § 1; 66 Del. Laws, c. 300, § 7; 70 Del. Laws, c. 186, § 1; 77 Del. Laws, c. 143; 80 Del. Laws, c. 51, § 1; 81 Del. Laws, c. 200, § 1; 84 Del. Laws, c. 473, § 8; 85 Del. Laws, c. 61, § 1; 85 Del. Laws, c. 62, § 106;, § 49;

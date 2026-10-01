@@ -1,0 +1,5 @@
+# § 2115. Forfeiture and default of bail bonds [Effective Feb. 1, 2027].
+(a) If the defendant fails to appear as required or is found in breach of a material condition of release imposed by any court while under a bond, and the court under this chapter or court rule finds the defendant in default and forfeits the bond, the proceeds must be forwarded to the State Treasurer and deposited in the General Fund.
+(b) All funds held by the State in any depository derived from forfeiture or default of bonds from any court, except the House Sergeant of the Wilmington City Police, shall immediately be forwarded to the State Treasurer and deposited in the General Fund.
+(c) The proceeds of any bond forfeited for the defendant's failure to appear in any child support proceeding shall be paid over to the payee of the child support order and applied to the child support account.
+59 Del. Laws, c. 360, § 1; 70 Del. Laws, c. 449, § 3; 71 Del. Laws, c. 176, § 15; 79 Del. Laws, c. 36, § 1; 81 Del. Laws, c. 200, § 1; 84 Del. Laws, c. 473, § 13; 85 Del. Laws, c. 61, § 1; 85 Del. Laws, c. 62, § 106; 85 Del. Laws, c. 324, § 49;

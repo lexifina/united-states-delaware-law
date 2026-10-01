@@ -1,0 +1,3 @@
+# § 2112. Bail after transfer to another court or after conviction [Effective Feb. 1, 2027].
+Once bail has been given and a charge is pending or is thereafter filed in or transferred to a court of competent jurisdiction, the latter court may continue the original bail in that court. After conviction, the court may order that the original bail stand as bail pending imposition of sentence or appeal, modify conditions of release, or issue an order detaining any defendant convicted of any offense.
+11 Del. C. 1953, § 2112; 56 Del. Laws, c. 231, § 1; 81 Del. Laws, c. 200, § 1; 84 Del. Laws, c. 473, § 10; 85 Del. Laws, c. 61, § 1; 85 Del. Laws, c. 62, § 106; 85 Del. Laws, c. ___, § 49;
