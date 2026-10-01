@@ -1,0 +1,3 @@
+# § 525. Spirits, wine, and beer tasting [Effective Oct. 21, 2026].
+A license to permit spirits, wine, and beer tasting may be granted by the Commissioner to any person holding a package store license as a package store under § 516 of this title. Spirits, wine, and beer tasting may take place only in a separate portion of a licensee's premises where alcoholic beverages and infused beverages are not sold. The separate portion of the premises must be an area designated for spirits, wine, and beer tasting by the Commissioner. There may not be a charge made for the spirits, wine, and beer tasting.
+65 Del. Laws, c. 283, § 2; 70 Del. Laws, c. 353, § 2; 72 Del. Laws, c. 486, § 9; 85 Del. Laws, c. 269, § 15; 85 Del. Laws, c. 394, § 1;
