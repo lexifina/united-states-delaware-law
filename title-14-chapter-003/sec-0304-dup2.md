@@ -1,0 +1,9 @@
+# § 304. Other duties, powers, and authority [Effective upon implementation of the contingency in 85 Del. Laws, c. 404, § 3].
+The Board has the duties, powers, and authority necessary for the enforcement of this chapter and the regulations adopted under this chapter. Regulations under this chapter must do at least all of the following:
+(1) Establish annual membership fees.
+(2) Establish standing committees.
+(3) Establish procedures to determine the existence of a violation of the regulations by a member school, athlete, coach, administrator, official, or spectator and penalize a violation by official reprimand, placement on probation, fine, suspension, or other action as the Board deems appropriate.
+(4) Establish procedures to investigate, conduct a hearing on, and take action on an alleged violation of a regulation under this chapter that a member school, athlete, coach, administrator, official, or spectator commits.
+(5) Establish procedures to interpret regulations made under this chapter, and conduct hearings and take action on requests for a waiver of the regulations.
+(6) Establish the fee for officiating a contest or competition.
+73 Del. Laws, c. 374, § 3; 81 Del. Laws, c. 329, § 1; 83 Del. Laws, c. 518, § 4; 84 Del. Laws, c. 344, § 3; 85 Del. Laws, c. 404, § 2;
