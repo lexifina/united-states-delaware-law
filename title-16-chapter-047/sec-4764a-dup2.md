@@ -1,0 +1,18 @@
+# § 4764A. Legal marijuana-related activity [Effective Oct. 21, 2026].
+(a) For purposes of this section, "adult sharing" means transferring marijuana, marijuana products, or infused beverages between persons who are 21 years of age or older without remuneration. "Adult sharing" does not include instances in which:
+(1) Marijuana is given away contemporaneously with another reciprocal transaction between the same parties.
+(2) A gift of marijuana is offered or advertised in conjunction with an offer for the sale of goods or services.
+(3) A gift of marijuana is contingent upon a separate reciprocal transaction for goods or services.
+(b) Notwithstanding any other provision of this chapter, no civil or criminal penalty may be imposed, nor may criminal or civil asset forfeiture be pursued, for any of the following activities by an individual 21 years of age or older:
+(1) Adult sharing of a personal use quantity or less of marijuana, marijuana products, or infused beverages.
+(2) Possessing, using, displaying, purchasing, or transporting marijuana accessories or a personal use quantity or less of marijuana, marijuana products, or infused beverages outside of a motor vehicle.
+(3) Possessing and transporting marijuana accessories or a personal use quantity or less of marijuana, marijuana products, or infused beverages inside of a motor vehicle as long as each marijuana accessory, quantity of marijuana, marijuana product, or infused beverage is in a closed container or is not readily accessible to anyone inside the motor vehicle.
+(4) Assisting another individual who is 21 years of age or older in any of the acts described in paragraphs (b)(1), (b)(2), and (b)(3) of this section.
+(c) The following acts remain unlawful and an offense under the law of this State:
+(1) Consuming marijuana, marijuana products, or infused beverages in an area accessible to the public or in a moving vehicle, as defined and punished under § 4764(d) of this title.
+(2) Growing, manufacturing, selling, or cultivating marijuana without a license granted under Chapter 49A of this title or other provision of Delaware law, as defined and punished under this chapter.
+(3) Unlawfully using a license or identification card as defined and punished under § 2751 of Title 21.
+(4) Selling marijuana, marijuana products, or infused beverages without an active license or endorsement under Title 4, as defined and punished under Delaware law, including under this chapter.
+(d) (1) A person or entity in the business of, or employed or contracted by an entity in the business of, receiving deposits, extending credit, processing funds transfers, transporting cash or financial instruments, or providing accounting or other financial services is not subject to criminal prosecution under Delaware law solely by virtue of providing any such service in compliance with Delaware law to a marijuana establishment licensed under Chapter 13 of Title 4 or to a compassion center or safety compliance facility registered under Chapter 49A of this title.
+(2) For the purposes of this section, "person or entity" includes a state or federally-chartered bank or credit union, an armored car or other money transporter service operating under a license issued by the State Bank Commissioner under Chapter 32 of Title 5, a person or entity lending money under a license issued under Chapter 22 of Title 5, a certified public accountant or certified public accounting firm permitted or performing services under a practice privilege under Chapter 1 of Title 24, or a public accountant or public accounting firm permitted under Chapter 1 of Title 24.
+84 Del. Laws, c. 15, § 1; 84 Del. Laws, c. 485, § 1; 85 Del. Laws, c. 394, § 2;
