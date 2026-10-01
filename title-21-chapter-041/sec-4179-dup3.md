@@ -1,0 +1,32 @@
+# § 4179. Stopping, standing, or parking [Effective Mar. 6, 2027].
+(a) Upon any highway outside of a business or residential district, no person shall stop, park or leave standing any vehicle, whether attended or unattended, upon the roadway, except when necessary to avoid conflict with other traffic or where it is necessary for public utility vehicles to temporarily stop along the highway to make alterations in or repairs to utility facilities, so long as proper traffic-control devices are posted or where it is in compliance with the directions of a police officer or traffic-control device.
+(b) Whenever any person authorized to issue a summons under this title finds a vehicle standing upon the highway in violation of subsection (a), (e) or (f) of this section, the authorized person may move such vehicle or require the driver or other person in charge of the vehicle to move same to a position off the highway.
+(c) Any person authorized to issue a summons under this title is hereby authorized to remove or cause to be removed any unattended vehicle illegally left standing upon any highway, bridge, causeway, or in any tunnel in such a position or under such circumstances as to obstruct the normal movement of traffic.
+(d) Subsections (a) and (b) of this section shall not apply to the driver of any vehicle which is disabled while on the roadway in such a manner and to such an extent that it is impossible to avoid stopping and temporarily leaving such vehicle in such position.
+(e) No person may stop, stand, or park a vehicle, except when necessary to avoid conflict with other traffic or in compliance with the directions of a police officer or traffic-control device, including all state-owned and state leased property, in any of the following places:
+(1) On a sidewalk;
+(2) In front of a public or private driveway;
+(3) Within an intersection;
+(4) Within 15 feet of a fire hydrant;
+(5) On a crosswalk;
+(6) Within 20 feet of a crosswalk;
+(7) Within 30 feet upon the approach to any flashing beacon, stop sign or traffic-control signal;
+(8) Between a safety zone or island and the adjacent curb or within 30 feet of points on the curb immediately opposite the ends of a safety zone or island, unless a different length is indicated by traffic-control devices;
+(9) Within 50 feet of the nearest rail or railroad crossing, unless a different length is indicated by traffic-control devices;
+(10) Within 20 feet of the driveway entrance to any fire station and on the side of a street opposite the entrance to any fire station within 75 feet of the entrance when properly designated by traffic-control devices;
+(11) Alongside or opposite any street excavation or obstruction when such stopping, standing or parking would obstruct traffic;
+(12) Upon the roadway of any highway when it is practical to stop, stand or park off the roadway;
+(13) On the roadway side of any vehicle stopped or parked on the shoulder or at the edge or curb of a highway;
+(14) Upon any bridge or other elevated structure upon a highway or within a highway tunnel;
+(15) At any place where official traffic-control devices prohibit stopping, standing or parking;
+(16) At any place where such parking, standing or stopping obstructs the free passage of other traffic;
+(17) Wherever a curb is marked yellow or a yellow line is placed at the edge of a roadway or shoulder;
+(18) In the area between roadways of a divided highway, including crossovers;
+(19) In any area owned by, leased by or under the control of the State, when such area has been designated by the Director of the Office of Management and Budget as a reserved parking space for members of the General Assembly, their staff, state-owned vehicles, specific state offices, or state employees, unless the person is the person or in the class of persons for whom the parking space is reserved. Such parking spaces will be conspicuously marked as such;
+(20) In any area designated by the Director of the Office of Management and Budget as a reserved parking space under § 6309A or § 6310A of Title 29, unless the person is the person or in the class of persons for whom the parking space is reserved;
+(21) In any area which in any manner restricts access to or ingress or egress from the areas defined in paragraph (e)(19) or (20) of this section.
+(f) No person shall move a vehicle not lawfully under the person's control into such prohibited area or away from a curb such distance as is unlawful.
+(g) The Superintendent of the State Police is hereby authorized to appoint cadets who shall have authority to enforce violations of the section within the unincorporated areas of each county. Cadets appointed pursuant to this section must be at least 18 years of age. The Superintendent may establish such other qualifications as are deemed necessary or desirable.
+(h) A summons issued by a cadet appointed by the Superintendent pursuant to this section shall have the same force and effect as a summons issued by the State Police.
+(i) A violation of paragraph (e)(20) or (21) of this section, with respect to paragraph (e)(20) of this section, is not subject to a civil penalty under § 4178 of this title.
+21 Del. C. 1953, § 4178; 54 Del. Laws, c. 160, § 1; 56 Del. Laws, c. 74; 57 Del. Laws, c. 541; 57 Del. Laws, c. 670, § 13A; 58 Del. Laws, c. 462; 60 Del. Laws, c. 701, § 51; 66 Del. Laws, c. 384, § 1; 70 Del. Laws, c. 186, § 1; 75 Del. Laws, c. 88, § 16(4); 75 Del. Laws, c. 405, §§ 8-10; 79 Del. Laws, c. 96; 85 Del. Laws, c. 476, § 1;
