@@ -1,0 +1,3 @@
+# § 1301. Legitimating child conceived out of wedlock [Effective Dec. 6, 2026].
+A child conceived out of wedlock shall be legitimate if the parents shall marry before the birth of the child or if they shall marry after adjudication or acknowledgment of parentage after the birth of the child, or upon an acknowledgment of parentage made in writing by the parents, if both are living or by the living parent if the mother is not living, and filed in the Office of Vital Statistics according to § 8-302 of this title or § 3121 of Title 16.
+11 Del. Laws, c. 243, § 1; 24 Del. Laws, c. 224, § 1; Code 1915, § 3087; 32 Del. Laws, c. 184, § 7; Code 1935, § 3573; 13 Del. C. 1953, § 1301; 69 Del. Laws, c. 296, § 21; 70 Del. Laws, c. 186, § 1; 85 Del. Laws, c. 276, § 120;
