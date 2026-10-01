@@ -1,0 +1,26 @@
+# § 1106. Consent requirements [Effective Dec. 6, 2026].
+(a) In a proceeding under § 1103(a)(1) of this title, consent is required from all of the following:
+(1) The parent or parents, and, if applicable, presumed parent of the child.
+a. An admission of parentage is not required for an alleged genetic parent's or presumed parent's consent. If the alleged genetic parent or presumed parent denies parentage, the petition must include, in lieu of a consent, an affidavit denying parentage that the alleged genetic parent or presumed parent signed.
+b. If the individual who gave birth to the child was married when the child was conceived or born, but the individual's spouse at conception or birth is not the child's parent, the spouse's notarized statement that the spouse is not the child's parent is prima facie proof that the spouse is not a parent, absent evidence to the contrary. If the spouse's notarized statement cannot be obtained, a notice of hearing must be sent to the spouse under § 1107 of this title.
+c. If a petition contains a statement under § 1105(a)(5)a.1., 2., or 3. of this title and the Court finds, after a hearing and in consideration of the social report, that the child's parents are not living together openly as a married couple and they have not done so and have not married since the child's birth, the Court may waive the requirement of the other parent's consent.
+(2) One parent alone, if the other is deceased.
+(3) Another person or organization holding parental rights.
+(4) One parent alone if the termination of the other parent's rights is sought on another ground.
+(b) If the person in whom the right to consent exists is under the age of 18, this fact is not a bar to the giving of consent and does not render the consent invalid when given, if the requirements under subsections (d) and (e) of this section are met.
+(c) An individual who gave birth to the child whose consent to the termination of parental rights is required may execute a consent only after the child is born. An alleged genetic parent or presumed parent may execute a consent either before or after the child is born.
+(d) A consent by a parent, agency, or organization holding parental rights must be executed in at least 1 of the following ways:
+(1) Signed or confirmed in the presence of at least 1 of the following:
+a. A judge or commissioner of a court of record.
+b. An individual that a judge has designated to take a consent.
+c. An employee that an agency has designated to take a consent.
+d. A lawyer other than the lawyer representing an adoptive parent or the agency to which parental rights will be transferred.
+e. A commissioned officer on active duty in the military service of the United States, if the individual executing the consent is in military service.
+f. An officer of the foreign service or a consular officer of the United States in another country, if the individual executing the consent is in that country.
+(2) Made orally and accepted by the Court after a review on the record of the information required under § 1106A of this title.
+(e) An individual before whom a consent is signed or confirmed under subsection (d) of this section shall certify in writing or orally before the Court that the individual explained the contents and consequences of the consent and, to the best of the individual's knowledge or belief, the individual executing the consent did all of the following:
+(1) Read or was read the consent and understood it.
+(2) Entered into the consent voluntarily.
+(3) If the individual executing the consent is a parent who is a minor, was advised by a lawyer who is not representing an adoptive parent or agency to which parental rights are being transferred.
+(f) Once the requirements under subsections (d) and (e) of this section have been met, the consent to termination and transfer of parental rights is irrevocable unless the requirements under § 1106B(a) of this title have been met.
+48 Del. Laws, c. 135, § 6; 13 Del. C. 1953, § 1106; 50 Del. Laws, c. 17, § 1; 59 Del. Laws, c. 466, §§ 20, 21; 61 Del. Laws, c. 178, § 3; 68 Del. Laws, c. 276, § 1; 70 Del. Laws, c. 186, § 1; 73 Del. Laws, c. 171, §§ 8, 9; 83 Del. Laws, c. 226, § 6; 85 Del. Laws, c. 276, § 117;

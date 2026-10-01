@@ -1,0 +1,28 @@
+# § 1107A. Notice of hearing to terminate and transfer parental rights [Effective Dec. 6, 2026].
+(a) Notice of the time, place, and purpose of the hearing must be served upon the parent, person, or organization holding parental rights at the respondent's last known address or to the address recited in the petition, unless the respondent has waived the notice under § 1106A(b) of this title. The Court may require notice to be served on another person.
+(b) If a petition is filed under § 1103(a)(6) of this title, notice must include both of the following:
+(1) Information from the detailed statement required under § 1105(a)(8) of this title sufficient to put the respondent on notice of the allegations made against the respondent.
+(2) A statement that the respondent has an opportunity to cure the alleged dependency or neglect through conduct subsequent to the filing of the petition.
+(c) If, at any time in a proceeding for termination of parental rights, the Court finds that an unknown parent of the child may not have received notice, the Court shall determine whether the parent can be identified. The determination must be based on a review of all of the following:
+(1) The information required under § 1105(a)(5)c. of this title.
+(2) If another parent has filed for or received payments or promises of support, other than from a governmental agency, with respect to the child or because of the pregnancy.
+(3) If an individual has formally acknowledged or claimed parentage of the child.
+(d) If inquiry under subsection (c) of this section identifies a parent of the child who has not received notice of the proceeding, the Court shall require notice to be served on the parent under this section.
+(e) If, in an inquiry under this section, the individual who gave birth to the child and who is consenting to the termination of the individual's parental rights fails to disclose the identity of an alleged genetic parent or reveal the alleged genetic parent's whereabouts, the petitioner must advise the individual who gave birth to the child of both of the following:
+(1) The proceeding for adoption under Chapter 9 of this title may be delayed or subject to challenge if an alleged genetic parent is not given notice of the proceeding.
+(2) The lack of information about the alleged genetic parent's medical and genetic history may be detrimental to the child.
+(f) (1) If the Court finds that personal service within the State cannot be accomplished upon the parent or parents, person or persons, or organization holding parental rights, the Court shall then cause notice of the time, place, and purpose of the hearing to be published in at least 1 of the following methods:
+a. On a legal notices website established by the Court, for at least 3 successive weeks.
+b. In a newspaper of 1 or more counties, as the Court may judge best for giving the parent or parents, or person or persons, or organization holding parental rights notice. The notice must be published once per week, for 3 successive weeks.
+(2) The formal wording of a notice under this section must be approved by the Court.
+(3) Publication shall also be made in the locality in which the parent or parents, person or persons, or organization holding parental rights is believed to be located if different from the county where the publication just described has been caused.
+(4) The Court may, upon the petitioner's request, order that personal service and publication occur simultaneously.
+(g) If the Court orders publication under subsection (f) of this section, the Court shall order the Clerk of Court to send a copy of the notice, or a similar notice, of the time, place, and purpose of the hearing to each parent or organization holding parental rights of the child. The notice must be sent meeting all of the following criteria:
+(1) By regular and registered or certified mail.
+(2) At least 3 weeks prior to the hearing.
+(3) At all addresses in the petition given for the parent or organization.
+(h) Personal service any time before the hearing is sufficient to give jurisdiction.
+(i) Notice provided under this section constitutes conclusive evidence of service and a hearing may proceed at the time and date set, with or without the appearance of the parent, person, or organization so notified.
+(j) The Budget Act shall provide Dscyf with appropriated special fund (ASF) authority to provide public notice of court action involving a minor in DSCYF's custody whose parents' whereabouts are unknown, under Family Court rules. The Court may not impose upon DSCYF another fee, cost, or financial obligation for the issuance or service of subpoenas or summons by court rule, regulation, or administrative procedure. Other costs associated with the procedures under this section are the Court's financial responsibility.
+(k) A hearing under this chapter must be held privately before the Court, unless the Court determines that sufficient reason exists to hold the hearing publicly.
+73 Del. Laws, c. 171, § 13; 70 Del. Laws, c. 186, § 1; 73 Del. Laws, c. 319, § 1; 83 Del. Laws, c. 96, § 2; 83 Del. Laws, c. 226, §§ 10, 20; 85 Del. Laws, c. 276, § 118;

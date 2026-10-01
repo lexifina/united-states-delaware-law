@@ -1,0 +1,69 @@
+# § 1103. Grounds for termination of parental rights [Effective Dec. 6, 2026].
+(a) The procedure for termination of parental rights for the purpose of adoption or, if a suitable adoption plan cannot be effected, for the purpose of providing for the care of a child by another plan which may or may not contemplate the continued possibility of eventual adoption, may be initiated when it appears to be in the child's best interest and 1 or more of the following grounds exist:
+(1) Consent. -
+A parent of the child, or a person or organization holding parental rights over the child desires to relinquish parental rights for the purpose of adoption, and the Court, in its discretion, accepts the consent or the parent has satisfied the requirements under § 907A of Title 16.
+(2) Intentional abandonment. -
+The Court finds that the respondent abandoned the child and the abandonment was intentional. The respondent's subsequent conduct does not cure the abandonment. Intentional abandonment is evidenced by at least 1 of the following:
+a. When the petition for termination of parental rights is filed, the child is under 6 months old and the respondent has failed to do all of the following:
+1. Pay reasonable prenatal, natal, and postnatal expenses for the child.
+2. Visit regularly with the child or file a petition for visitation with the Court.
+3. Manifest an ability and willingness to assume legal and physical custody of the child, if the child was not in the physical custody of the other parent during this time.
+b. When the petition for termination of parental rights is filed, the child is at least 6 months old and, for at least 6 consecutive months of the 12 months preceding the filing of the petition, the respondent failed to do all of the following:
+1. Communicate or visit regularly with the child.
+2. Manifest an ability and willingness to assume legal and physical custody of the child, if the child was not in the physical custody of the other parent during this time.
+c. When the petition for termination of parental rights is filed, the child is under 6 years old and the respondent has manifested unwillingness to exercise parental rights and responsibilities over the child, as evidenced by the respondent having placed the child in circumstances in which the child was at substantial risk of injury or death.
+(3) Unintentional abandonment. -
+The Court finds that the respondent abandoned the child and the abandonment was unintentional. The respondent's subsequent conduct does not cure the abandonment. Unintentional abandonment is evidenced by both of the following:
+a. For at least 12 consecutive months of the 18 months preceding the filing of the petition, the respondent has failed to do all of the following:
+1. Communicate or visit regularly with the child.
+2. File or pursue a pending petition to establish parentage or to establish a right to have contact or visitation with the child.
+3. Manifest an ability and willingness to assume legal and physical custody of the child, if the child was not in the physical custody of the other parent during this time.
+b. One or more of the following grounds exists:
+1. The child is not in the other parent's legal and physical custody and the respondent is not able or willing to promptly assume legal and physical custody of the child and pay reasonable support for the child.
+2. The child is in the legal and physical custody of the other parent and a stepparent, and all of the following apply:
+A. The stepparent is the prospective adoptive parent.
+B. The respondent is not able or willing to promptly establish and maintain contact with the child and pay reasonable support for the child.
+3. Placing the child in the respondent's legal and physical custody would pose a risk of substantial harm to the child's physical or psychological well-being because the respondent is unfit to maintain a relationship of parent and child with the child, as indicated by at least 1 of the following:
+A. The circumstances of the child's conception.
+B. The respondent's behavior during the other parent's pregnancy or since the child's birth.
+C. The respondent's behavior with respect to another child.
+4. Failure to terminate the respondent's parental rights would be detrimental to the child. -
+In determining whether this ground exists, the Court shall consider all relevant factors, including all of the following:
+A. The respondent's efforts to obtain or maintain legal and physical custody of the child.
+B. The role of another person in thwarting the respondent's efforts to assert parental rights.
+C. The respondent's ability to care for the child.
+D. The child's age.
+E. The quality of a previous relationship between the respondent and child, and between the respondent and another child.
+F. The duration and suitability of the child's current custodial environment.
+G. The effect on the child of a change of physical custody.
+(4) Conviction or adjudication of delinquency. -
+The respondent has had a conviction or has been adjudicated as a delinquent child relating to any of the following offenses or substantially similar offenses of another jurisdiction:
+a. A felony level offense against the person under subchapter II of Chapter 5 of Title 11, in which the victim is a child.
+b. Aiding, abetting, attempting, conspiring, or soliciting to commit a felony level offense against the person under subchapter II of Chapter 5 of Title 11, in which the victim is a child.
+c. Dealing in children or attempting to deal in children, under § 1100A of Title 11.
+d. Felony level endangering the welfare of a child, under § 1102 of Title 11.
+e. Murder or manslaughter of the other parent of the child who is the subject of the petition.
+f. Aiding, abetting, attempting, conspiring, or soliciting to commit murder or manslaughter of the other parent of the child who is the subject of the petition.
+(5) Failure to plan, DSCYF or licensed agency. -
+A child is in DSCYF custody or placed by a licensed agency and the respondent is not able or has failed to plan adequately for the child's physical needs or mental and emotional health and development, and at least 1 of the following conditions are met:
+a. The child has been in DSCYF custody or placed by a licensed agency for at least 1 year.
+b. The child has been in DSCYF custody or placed by a licensed agency for at least 6 months and the child came into care as an infant.
+c. DSCYF previously had custody of the child or another child of the respondent.
+d. The respondent has a history of dependency, neglect, abuse, or lack of care of the child or another child.
+e. The respondent is incapable of discharging parental responsibilities due to extended or repeated incarceration, but the Court may consider the respondent's postconviction conduct.
+(6) Failure to plan, private. -
+The child is a dependent child or neglected child in the respondent's care at the time of the hearing and the Court finds that all of the following exist:
+a. The petitioner is the child's parent, guardian, permanent guardian, or relative.
+b. The child has resided in the petitioner's home for at least 1 year.
+c. The respondent failed to discharge parental responsibilities for at least 12 of the 18 months preceding the filing of the petition.
+d. The respondent is unlikely to be able to remedy the dependency or neglect in the near future. In making this determination, the Court shall consider the respondent's efforts to remedy the dependency or neglect.
+(7) Prior involuntary termination. -
+The respondent's parental rights over another child have been involuntarily terminated.
+(8) Abuse. -
+The respondent has subjected a child to torture, chronic abuse, sexual abuse, or life-threatening abuse.
+(9) Unexplained serious injury or death. -
+A child has suffered unexplained serious physical injury, near death, or death under circumstances indicating that the injuries, near death, or death resulted from the respondent's intentional or reckless conduct or wilful neglect.
+(b) Unless adoption is contemplated, the termination of 1 parent's rights may not be granted if the effect will be to leave only 1 parent holding parental rights, unless the Court finds that continuing the rights to be terminated will cause the child serious physical or emotional harm.
+(c) Nothing in this chapter may be construed to authorize a court to terminate the rights of a parent solely because the parent provides for the child, in good faith and in lieu of medical treatment, treatment by spiritual means alone through prayer under the tenets and practice of a recognized church or religious denomination. However, nothing under this chapter prevents a court from immediately assuming custody of a child and ordering whatever action may be necessary, including medical treatment, to protect the child's health and welfare.
+(d) DSCYF is not required to perform reunification or related services under Chapter 90 of Title 29 when the Court finds by clear and convincing evidence that a ground for termination of a parent's rights exists under paragraphs (a)(2), (4), (7), (8), or (9) of this section. Notwithstanding the Court's finding, DSCYF may elect, in its sole discretion, to perform reunification or related services under Chapter 90 of Title 29.
+48 Del. Laws, c. 135, § 2; 13 Del. C. 1953, § 1103; 50 Del. Laws, c. 17, § 1; 50 Del. Laws, c. 534, § 2; 53 Del. Laws, c. 102, § 3; 56 Del. Laws, c. 301, § 2; 59 Del. Laws, c. 466, § 16; 60 Del. Laws, c. 241, § 9; 62 Del. Laws, c. 420, § 7; 68 Del. Laws, c. 276, § 1; 70 Del. Laws, c. 186, § 1; 71 Del. Laws, c. 317, §§ 2-5; 72 Del. Laws, c. 179, §§ 1, 2; 72 Del. Laws, c. 431, §§ 2-4; 73 Del. Laws, c. 171, § 4; 73 Del. Laws, c. 187, §§ 6, 8; 75 Del. Laws, c. 376, § 1; 77 Del. Laws, c. 23, §§ 1-5; 77 Del. Laws, c. 32, § 3; 78 Del. Laws, c. 406, § 1; 83 Del. Laws, c. 226, § 3; 85 Del. Laws, c. 276, § 114;
