@@ -1,0 +1,13 @@
+# § 9806. EMS medical directors [Effective July 17, 2028].
+(a) There shall be 5 part time EMS Medical Directors: 1 State EMS Medical Director, 3 county EMS medical directors and 1 Basic Life Support EMS Director. Each county EMS medical director shall practice emergency medicine in the county in which the county director serves as a director, unless otherwise approved by the Office of Emergency Medical Services. The State EMS Medical Director shall supervise all EMS Medical Directors. The Basic Life Support EMS Medical Director shall serve as an advisor for basic life support to the State Fire Prevention Commission. An EMS Medical Director shall be available at all times to advise supervising physicians, EMS providers and EMS provider agencies.
+(b) As part of their responsibilities, the EMS medical directors shall:
+(1) Provide medical oversight and prospective, concurrent and retrospective medical quality control of advanced life support, basic life support and emergency medical dispatch;
+(2) Establish and ensure compliance with standing orders and treatment protocols;
+(3) Provide review and evaluate the medical interventions of the EMS providers;
+(4) Coordinate with and advise the Office of EMS, State Fire Prevention Commission and provider agencies of any deficiencies within the system with suggested remedies;
+(5) Monitor the EMS providers for skill degradation and recommend appropriate remedies to the Office of EMS, the State Fire Prevention Commission and the provider agencies;
+(6) Offer technical assistance to all EMS providers and assist in the provision of patient care while functioning as an EMS Medical Director; and
+(7) Have authority to suspend EMS providers immediately from patient treatment for a period not to exceed 30 days, if they determine that it is necessary in order to prevent a clear and immediate danger to the public health.
+(c) Each EMS medical director shall be employed by the State, by contract or otherwise, and shall be a board certified emergency physician actually involved in the practice of emergency medicine.
+(d) The EMS medical directors shall be appointed by the Director of the Division of Public Health who shall consult with the Board of Medical Licensure and Discipline as part of the selection process.
+67 Del. Laws, c. 152, § 6; 70 Del. Laws, c. 186, § 1; 70 Del. Laws, c. 192, § 9; 70 Del. Laws, c. 341, § 2; 71 Del. Laws, c. 300, § 4; 72 Del. Laws, c. 137, § 19; 73 Del. Laws, c. 368, § 3; 74 Del. Laws, c. 101, §§ 1-4; 77 Del. Laws, c. 319, § 1; 84 Del. Laws, c. 92, § 5; 84 Del. Laws, c. 92, § 9;
