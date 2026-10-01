@@ -1,0 +1,21 @@
+# § 904A. Background checks for sales between unlicensed persons [Effective upon fulfillment of the contingency in 85 Del. Laws, c. 371, § 3].
+(a) For purposes of this section:
+(1) "Dealer" means any person licensed as a deadly weapons dealer under this chapter and 18 U.S.C. § 921 et seq. or a person licensed under Chapter 9B of this title.
+(2) "Firearm" means as defined under § 8571 of Title 11.
+(3) "Prospective buyer" includes a prospective transferee.
+(4) "Prospective seller" includes a prospective transferor.
+(5) "Transfer" means as defined under § 1448B of Title 11.
+(6) "Unlicensed person" means as defined under § 1448B of Title 11.
+(b) As a condition of its license, any dealer holding a license under this chapter shall facilitate the transfer of a firearm from any unlicensed person on the request of the unlicensed person, through the following procedure:
+(1) The prospective buyer and prospective seller shall jointly appear at the place of business of the dealer, during the dealer's regular hours of business, and shall inform the dealer of their desire to avail themselves of this subsection.
+(2) The dealer shall do all of the following:
+a. Subject the prospective buyer to a background check under § 1448A of Title 11.
+b. Require the prospective buyer to sign a form acknowledging receipt of the Firearm Responsibilities Notice as published by the Department of Safety and Homeland Security under § 907 of this title.
+c. Provide the prospective buyer a copy of the Firearm Responsibilities Notice.
+(3) If the background check under paragraph (b)(2) of this section reveals that the prospective buyer is prohibited from possessing, purchasing, or owning a firearm under § 1448 of Title 11, the dealer shall inform the prospective buyer and prospective seller of that fact and the transfer may not take place.
+(4) The dealer shall securely maintain a record of all background checks conducted and all signed forms acknowledging receipt of the Firearm Responsibilities Notice under this section in accordance with § 904 of this title.
+(5) Any dealer who is asked to facilitate the transfer of a firearm under this section, may charge a reasonable fee for the service, which may not exceed $30 per background check performed under this section. Notwithstanding the foregoing, a fee may not be charged for the return of a firearm to its owner if the proposed transaction may not be immediately and legally completed as the result, or lack thereof, of a background check under this subsection.
+(6) Failure or refusal on the part of the dealer to facilitate the transfer of a firearm under this subsection is adequate cause to suspend the license of the dealer for a period not to exceed 30 days per occurrence.
+(7) Subject to subchapter IV of Chapter 101 of Title 29, a dealer's license may not be restricted, suspended, or revoked until the dealer has been given notice and an opportunity to be heard in accordance with the Administrative Procedures Act (Chapter 101 of Title 29).
+(c) Nothing in this section, or any other section of this Code, authorizes or permits this State or any agency, department, or instrumentality thereof to establish any system for the registration of firearm owners, except with respect to persons prohibited from receiving a firearm under Chapter 5 of Title 11. Any such system of registration is expressly prohibited. Firearm owner information in the custody of a firearm dealer does not constitute a registry under this subsection.
+69 Del. Laws, c. 324, § 1; 79 Del. Laws, c. 20, § 9; 83 Del. Laws, c. 330, § 6; 85 Del. Laws, c. 467, § 5; 85 Del. Laws, c. 371, § 2;
