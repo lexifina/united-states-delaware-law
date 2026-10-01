@@ -1,0 +1,21 @@
+# § 7202. Definitions [Effective Jan. 1, 2027].
+As used in this chapter:
+(1) "Firearm" means as defined in § 222 of Title 11.
+(2) "Law-enforcement officer" means as defined in § 222 of Title 11.
+(3) "Military protective order" means a protection order issued pursuant to 10 U.S.C. § 1567, as amended, by a commanding officer in the armed forces of the United States, the Delaware National Guard, or the National Guard of any other state against a person under such officer's command.
+(4) "Non-consensual" means "without consent" as defined under § 761 of Title 11.
+(5) "Non-physical contact" means telephone calls, mail, e-mail, fax, texts or other written, verbal, or digital communication.
+(6) "Petitioner" means the person named in a petition seeking a sexual violence protective order, or any named victim of non-consensual sexual conduct or non-consensual sexual penetration on whose behalf the petition is brought, and who is not a member of a protected class under § 1041(2)a. or (2)b. of this title.
+(7) "Physical injury" means, with respect to an adult petitioner, as defined in § 222 of Title 11. With respect to a minor petitioner, "physical injury" means any impairment of physical condition or pain.
+(8) "Projectile weapon" means as defined in § 222 of Title 11.
+(9) "Respondent" means the person alleged to have engaged in the conduct giving rise to the petitioner's desire to seek a sexual violence protective order.
+(10) "Sexual conduct" means any of the following:
+a. Any intentional or knowing touching or fondling of the genitals, anus, or breasts, directly or indirectly, including through clothing.
+b. Any intentional or knowing display of the genitals, anus, or breasts for the purpose of arousal or sexual gratification of the respondent.
+c. Any intentional or knowing touching or fondling of the genitals, anus, or breasts, directly or indirectly, including through clothing, that the petitioner is forced to perform by the respondent or another person.
+d. Any forced display of the petitioner's genitals, anus, or breasts for the purposes of arousal or sexual gratification of the respondent or others.
+e. Any intentional or knowing touching of the clothed or unclothed body of a child under the age of 12, or of age 16 if the respondent is more than 4 years older than the child, if done for the purpose of sexual gratification or arousal of the respondent or others.
+f. Any coerced or forced touching or fondling by a child under the age of 12, or of age 16 if the respondent is more than 4 years older than the child, directly or indirectly, including through the clothing, of the genitals, anus, or breast of the respondent or others.
+(11) "Sexual penetration" means any contact, however slight, between the sex organ or anus of 1 person by an object, the sex organ, mouth, or anus of another person, or any intrusion, however slight, of any part of the body of 1 person, or of any animal, or object into the sex organ or anus of another person, including cunnilingus, fellatio, or anal penetration. Evidence of emission of semen is not required for an act of sexual penetration.
+(12) "Sexual violence protective order" means an ex parte temporary order or final order granted under this chapter which includes a remedy specified by § 7204 or § 7205 of this title.
+83 Del. Laws, c. 449, § 1; 84 Del. Laws, c. 525, § 34; 85 Del. Laws, c. 512, § 4;
