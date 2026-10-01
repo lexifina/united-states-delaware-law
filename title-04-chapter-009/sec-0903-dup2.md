@@ -1,0 +1,22 @@
+# § 903. Offenses carrying penalty of fine of not more than $100 or imprisonment for 1 month on failure to pay fine [Effective Oct. 21, 2026].
+(a) In addition to the payment of costs, whoever does any of the following is subject to a fine of not more than $100: An individual who does any of the following is subject to a fine of not less than $100, in addition to the payment of costs:
+(1) Being the holder of a license, sells beer to which wine, spirits, or alcohol has been added; sells wine to which spirits or alcohol has been added, other than an addition of spirits or alcohol to render possible transportation or to secure the customary fortifying thereof; or sells any alcoholic liquor to which has been added any adulterating or deleterious substances or liquid.
+(2) Being the holder of a license, sells any alcoholic liquor in any place, in any manner, or in any quantity other than as authorized by the license.
+(3) Being the holder of a license to sell spirits, wine, or beer in a dining room or bedroom, has not furnished, fitted, or equipped the dining room or bedroom in the manner or to the extent indicated by the the Commissioner, the Division, or both.
+(4) Being the holder of a license to sell spirits, wine, or beer, as the case may be, does not comply with any requirement or provision of §§ 512 through 520 or § 706 of this title.
+(5) Being the holder of a license, sells any alcoholic liquor that the holder is authorized by the license to sell, at any time forbidden by § 709 of this title.
+(6) [Repealed.]
+(7) Being the holder of a license to sell alcoholic liquor in a package store, allows any alcoholic liquor sold in the package store to be consumed in the package store or its dependencies, either by the purchaser or by any other person.
+(8) Being the holder of a license to sell alcoholic liquor in the dining room of any hotel, restaurant, club, or steamboat, or in a dining car, does not keep the license constantly posted conspicuously in view of the public in the dining room or dining car.
+(9) Being the holder of a license, keeps or transports any alcoholic liquor in contravention of this title.
+(10) Having acquired any liquid or solid containing alcoholic liquor for the purpose of resale, sells it as a medicine or preparation after having been notified by the Commissioner, the Division, or both, in accordance with § 725 of this title.
+(11) Not being the holder of a license, leads the public or travelers to believe, by means of signs, inscriptions, advertisements, or circulars, that the person is authorized to sell alcoholic liquor.
+(12) Buys or receives any alcoholic liquor from any person not authorized to sell that variety of alcoholic liquor or keeps such alcoholic liquor in the person's possession.
+(13) Obtains, even gratuitously, any alcoholic liquor from any holder of a license for the sale of the alcoholic liquor during the time when the sale of the alcoholic liquor is forbidden.
+(14) Causes any disturbance in any place or brings into the place or drinks in the place any alcoholic liquor prohibited in the place.
+(15) Buys, for any remuneration whatsoever, any alcoholic liquors for another person.
+(16) Being the holder of a license to sell alcoholic liquor, fails to post in a conspicuous place a sign that clearly reads, "According to the Surgeon General, women should not drink alcoholic beverages during pregnancy because of the risk of birth defects."
+(17) Manufactures, distributes, sells, offers for sale, possesses, purchases, or uses a powdered alcoholic beverage.
+(b) If a person an individual fails to pay fines and costs assessed under subsection (a) of this section, the person individual is subject to imprisonment for 30 days.
+(c) Justices of the Peace have original jurisdiction to hear, try, and finally determine alleged violations of this section.
+38 Del. Laws, c. 18, § 46; Code 1935, § 6174; 41 Del. Laws, c. 254, § 2; 45 Del. Laws, c. 263, § 1; 4 Del. C. 1953, § 903; 58 Del. Laws, c. 239, § 45; 67 Del. Laws, c. 23, §§ 1, 2; 67 Del. Laws, c. 109, § 29; 70 Del. Laws, c. 186, § 1; 72 Del. Laws, c. 486, § 10; 81 Del. Laws, c. 372, § 2; 84 Del. Laws, c. 42, § 1; 85 Del. Laws, c. 269, § 21; 85 Del. Laws, c. 394, § 1;
