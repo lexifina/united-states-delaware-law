@@ -1,0 +1,34 @@
+# § 3571FF. Coverage for pre-exposure prophylaxis treatment and post-exposure prophylaxis treatment.
+(a) As used in this section:
+(1) "Cost-sharing requirement" includes a deductible, coinsurance, copayment, and out-of-pocket expense.
+(2) "Essential support services" include all of the following:
+a. HIV testing.
+b. Hepatitis B and C testing.
+c. Kidney function assessment through creatinine testing and calculated estimated creatinine clearance or glomerular filtration rate.
+d. Pregnancy testing.
+e. Sexually transmitted infection screening and counseling.
+f. Adherence counseling.
+(3) "FDA" means the United States Food and Drug Administration.
+(4) "HIV" means the human immunodeficiency virus.
+(5) "Medically necessary" means as defined in § 3581 of this title.
+(6) "PEP" means post-exposure prophylaxis medication for preventing HIV infection after possible HIV exposure.
+(7) "PrEP" means pre-exposure prophylaxis medication for preventing HIV infection before possible HIV exposure.
+(8) "Therapeutic equivalent" means a PrEP or a PEP that is all of the following:
+a. Approved as safe and effective.
+b. Pharmaceutically equivalent to another PrEP or another PEP because it contains an identical amount of the same active drug ingredient in the same dosage form and route of administration and meets compendial or other applicable standards of strength, quality, purity, and identity.
+c. Assigned, by the FDA, the same therapeutic equivalence code as another PrEP or another PEP.
+(b) (1) All group and blanket health insurance policies, contracts, or certificates that are delivered, issued for delivery, renewed, extended, or modified in this State must provide coverage for all of the following:
+a. Medically necessary PrEP.
+b. Medically necessary PEP.
+c. Medically necessary essential support services.
+(2) Except as otherwise provided in paragraph (b)(3) of this section, the coverage required under paragraph (b)(1) of this section must be provided without any of the following:
+a. Cost-sharing requirements.
+b. Prior authorization or step therapy requirements.
+c. Unreasonable delay in coverage determination.
+(3) a. If the FDA has approved 1 or more therapeutic equivalents of a PrEP or a PEP, a health benefit plan is not required to cover all of the therapeutic equivalent versions of that PrEP or that PEP, so long as at least 1 therapeutic equivalent version of that PrEP and at least 1 therapeutic equivalent version of that PEP are covered without cost-sharing, prior authorization, or step therapy requirements. For purposes of this section, a long-acting version of a PrEP or a PEP is not therapeutically equivalent to another long-acting version of a PrEP or a PEP with a different duration.
+b. If there is a therapeutic equivalent of a PrEP or a PEP, a health benefit plan may provide coverage for more than 1 version of that PrEP or that PEP and may impose cost-sharing, prior authorization, or step therapy requirements, so long as at least 1 version of that PrEP and at least 1 version of that PEP in the same method of administration is covered without cost-sharing, prior authorization, or step therapy requirements. But a health benefit plan must provide coverage for a particular PrEP or a particular PEP without cost-sharing, prior authorization, or step therapy requirements, regardless of whether the PrEP or the PEP has a therapeutic equivalent, if a covered individual's treating health-care provider recommends that particular PrEP or that particular PEP based on a medical determination regarding that covered individual.
+(c) Except as otherwise provided in subsection (b) of this section, nothing in this section prevents the operation of a policy provision required by this section as a deductible, coinsurance, allowable charge limitation, coordination of benefits, or a provision restricting coverage to services by a licensed, certified, or carrier-approved provider or facility.
+(d) (1) This section does not apply to accident-only, specified disease, hospital indemnity, Medicare supplement, long-term care, disability income, or other limited health insurance policies.
+(2) a. The cost-sharing limitation under paragraph (b)(2) of this section does not apply to a high deductible health plan to the extent this cost-sharing limitation would cause the plan to fail to be treated as a high deductible health plan under § 223(c)(2) of the Internal Revenue Code[26 U.S.C. § 223(c)(2)].
+b. If the cost-sharing limitation under paragraph (b)(2) of this section would result in an enrollee becoming ineligible for a health savings account under federal law, the cost-sharing limitation only applies to a qualified high deductible plan after the enrollee's deductible has been met.
+85 Del. Laws, c. 452, § 2;

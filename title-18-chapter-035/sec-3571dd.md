@@ -1,0 +1,22 @@
+# § 3571DD. Developmentally-delayed speech coverage [For application of this section, see 84 Del. Laws, c. 520, § 3].
+(a) For the purpose of this section "child" means a child from birth to age 18.
+(b) All group and blanket health insurance policies or contracts which are delivered, issued for delivery, or renewed in this State after December 31, 2024, shall provide coverage for any therapy or services to treat a child diagnosed with any of the following speech-language disorders classified in the International Classification of Diseases (ICD-10):
+(1) Childhood onset fluency disorder.
+(2) Developmental disorder of speech and language, unspecified.
+(3) Expressive language disorder.
+(4) Mixed receptive-expressive disorder.
+(5) Phonological disorder.
+(6) Receptive language disorder.
+(7) Social pragmatic communication disorder.
+(c) This section does not apply to insurance coverage providing benefits exclusively for:
+(1) Hospital confinement indemnity.
+(2) Disability income.
+(3) Accident only.
+(4) Long-term care.
+(5) Medicare supplement.
+(6) Limited benefit health.
+(7) Specified disease indemnity.
+(8) Sickness or bodily injury or death by accident, or both.
+(9) Other limited benefit policies.
+(d) Nothing in this section prevents the operation of a policy provision required by this section as a deductible, coinsurance, allowable charge limitation, coordination of benefits, or a provision restricting coverage to services by a licensed, certified, or carrier-approved provider or facility.
+84 Del. Laws, c. 520, § 2;
