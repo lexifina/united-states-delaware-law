@@ -1,0 +1,23 @@
+# § 8728. Division of the Arts - The Delaware State Arts Council [Effective upon fulfillment of the contingency in 84 Del. Laws, c. 114, § 3].
+(a) Establishment and purpose. -
+The Delaware State Arts Council is established to promote and encourage the arts in this State. The Council shall provide guidance to the Director on matters of arts policy and shall consider such other matters as may be referred to it by the Governor, the Secretary of the Department of State, or the Director. The Council may study, research, plan, and advise the Director, the Secretary, and the Governor on matters it deems appropriate to enable the Division to function in the best possible manner.
+(b) Members. -
+The Council is composed of 15 members, who the Governor appoints. Membership must meet all of the following qualifications:
+(1) Each member is a Delaware citizen.
+(2) Membership broadly represents all fields of the performing and fine arts.
+(3) Each member is known for the member's interest in a field of the performing or fine arts.
+(c) Term of office. -
+Each member serves for a term of 3 years and may not serve more than 2 consecutive terms. Each term of office expires on the date specified in the appointment, but a member remains eligible to participate in Council proceedings until the Governor replaces that member. The Governor may appoint a member for a term of less than 3 years to ensure that no more than ⅓ of membership expires annually.
+(d) Compensation. -
+A member receives no compensation but may be reimbursed for the member's actual and necessary expenses incurred in the performance of the member's official duties.
+(e) The Council shall elect a chair from among its members every 3 years. A member may not serve more than 2 consecutive terms as a chair.
+(f) Removal. -
+The Governor may remove a member for gross inefficiency, misfeasance, nonfeasance, malfeasance, or neglect of duty. A member is deemed in neglect of duty if the member is absent from 3 consecutive, regular council meetings or 4 out of 12 regular meetings. The Governor may consider the member to have resigned and may accept the member's resignation.
+(g) Quorum. -
+A majority of members must be present at a council meeting in order to have quorum and conduct official business. A vacancy on the Council is not counted for quorum.
+(h) Staffing. -
+The Division shall provide reasonable staff support to assist the Council in performing its duties under this section.
+(i) Subcommittees. -
+The Council may form subcommittees to assist the Council in performing its duties under this section.
+(j) A Council member may participate in the Division's grant review process, as requested by the Division.
+67 Del. Laws, c. 128, § 2; 70 Del. Laws, c. 186, § 1; 75 Del. Laws, c. 258, §§ 1, 2; 84 Del. Laws, c. 114, § 2; 84 Del. Laws, c. 114, § 3;
