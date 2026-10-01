@@ -1,0 +1,20 @@
+# § 1134. Powers and duties of the Registrar in preparation and maintenance of the Register of Regulations [Effective July 1, 2027].
+(a) The Registrar, in the course of compiling and maintaining the Register of Regulations, shall do all of the following:
+(1) Notify each agency authorized to make regulations that the agency is to submit to the Division copies of each proposed regulation and each subsequent amendment, repeal, or addition, and a statement of purpose of each.
+(2) Direct each agency as to the form and style of the regulations and, to the extent practicable, the classification into categories of substance, procedure, and organization.
+(3) Make, as needed, revisions to both proposed and existing regulations that do not alter the sense, meaning, or effect of the regulations, including all of the following:
+a. Renumbering and rearranging sections or parts of sections.
+b. Transferring sections or dividing sections to give to distinct subject matters a separate section number, but without changing the meaning.
+c. Inserting or changing the wording of headnotes.
+d. Changing reference numbers to agree with renumbered regulations or renumbered sections or subsections of regulations.
+e. Substituting the proper section or regulation number for the terms "this regulation," "the preceding section," and the like.
+f. Striking out figures where the figures are merely a repetition of written words or vice versa.
+g. Changing capitalization for the purpose of uniformity.
+h. Applying gender silent language when there is no ambiguity regarding the noun which a pronoun is meant to replace.
+i. Correcting manifest typographical and grammatical errors.
+j. Making other purely formal or clerical changes in keeping with the purpose of the revision.
+(4) Adopt rules and regulations.
+(5) Publish the full text or a summary of each proposed, final, or emergency regulation.
+(6) Publish the fifteenth of the month a Register of Regulations containing the regulations received by the first of that month that comply with Chapters 101 and 104 of this title and rules or regulations that the Registrar adopts under this section.
+(b) The Registrar may include in the Register of Regulations other governmental information as the Registrar deems appropriate.
+69 Del. Laws, c. 107, § 4; 70 Del. Laws, c. 186, § 1; 71 Del. Laws, c. 48, §§ 4, 12; 72 Del. Laws, c. 88, § 3; 85 Del. Laws, c. 386, § 5;
