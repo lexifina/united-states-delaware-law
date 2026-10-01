@@ -1,0 +1,48 @@
+# § 8044. Tardy reports [Effective July 1, 2027].
+(a) (1) The Commissioner may issue a citation to a reporting party when a report required under this chapter is tardy.
+(2) For the purposes of this section, "tardy" and "tardiness" means a report that is not filed, not filed on time, or is filed on time but incomplete.
+(3) Notwithstanding paragraph (a)(1) of this section, a reporting party is entitled to an automatic, 1-time 48-hour extension to file a report required under this chapter if the reporting party notifies the Commissioner in writing no later than 11:59 p.m. on the date the report is due.
+(4) a. The penalty for a citation issued under paragraph (a)(1) of this section is as follows:
+1. An administrative penalty of $50 for each day that the report is tardy in delivery to the Commissioner, up to a maximum of 100 days.
+2. An order requiring the completion of training on the Department's electronic campaign finance reporting system.
+b. The penalty under this paragraph (a)(4) is in addition to any other sanction provided by this chapter.
+(5) a. A reporting party named in a citation is responsible for the administrative penalty assessed under paragraph (a)(4)a.1. of this section.
+b. Notwithstanding paragraph (a)(5)a. of this section, the administrative penalty may be paid by a political committee or political action committee for which a reporting party named in a citation is responsible for filing a report required under this chapter.
+(6) The Commissioner may do the following:
+a. If a reporting party has filed or corrected the tardy report, permit the reporting party to enter a payment plan to pay an administrative penalty assessed against the reporting party.
+b. If an administrative penalty assessed against a reporting party totals less than $500 and the reporting party has filed or corrected the tardy report, waive the administrative penalty assessed against the reporting party, in whole or part.
+c. If a reporting party has filed or corrected the tardy report, negotiate with the reporting party to reach a settlement as to the total administrative penalty due.
+(7) Once a citation is issued under this subsection, the reporting party has 30 days in which to file and correct the tardy report and pay all fines. After this time, the political committee, for which the reporting party is responsible for, is prohibited from engaging in any campaign finance activities until the tardy report is correctly filed and all fines have been paid.
+(b) (1) If the Commissioner issues a citation under subsection (a) of this section, the citation must include all of the following:
+a. The name and address of the reporting party charged.
+b. A statement explaining why the Commissioner has determined the report to be tardy.
+c. A statement that a penalty for a tardy report is an administrative penalty under paragraph (a)(4) of this section and that the penalty is being assessed for each late day that the report is tardy.
+d. Information on how to complete the training required under paragraph (a)(4)a.2. of this section.
+e. A statement that the reporting party receiving the citation may appeal the Commissioner's determination to the Reports Appeals Subcommittee of the State Board of Elections under § 220 of this title ("Subcommittee") within the time prescribed under subsection (c) of this section.
+f. The consequences of failing to do 1 of the following:
+1. File the tardy report, pay the penalty due, and complete training on the Department's electronic campaign finance reporting system.
+2. Demand an appeal in the time prescribed under subsection (c) of this section.
+(2) The Commissioner shall serve a citation on a reporting party by 1 of the following:
+a. Personal service on the reporting party.
+b. Certified mail, return receipt requested, to the reporting party's last known address and by electronic means to the reporting party's last known e-mail address.
+(c) On receipt of a citation under subsection (b) of this section, a reporting party has 30 days to appeal the citation in writing to the Subcommittee.
+(d) (1) When an appeal is timely filed under subsection (c) of this section, the Subcommittee shall do all of the following:
+a. Meet and conduct an appeal hearing not later than 45 days after the filing of the appeal. The Subcommittee Chair shall schedule the meeting and give notice of the meeting to the members and the reporting party that filed the appeal.
+b. Take testimony.
+c. Keep records of all evidence taken at a hearing under this section, including a recording of the hearing by electronic or any other means standard to recording judicial or quasi-judicial hearings.
+d. Make and put into writing factual findings and conclusions regarding the appeal.
+e. Notify the reporting party of the Subcommittee's factual findings and conclusions regarding the appeal by mail to the reporting party's last known address and by electronic means to the reporting party's last known e-mail address not later than 10 business days after the hearing on the appeal. The notice must include a statement on the consequences of failing to file the tardy report, pay the penalty due, and complete training on the Department's electronic campaign finance reporting system.
+(2) The accrual and payment of the administrative penalty due and mandatory training required under paragraph (a)(4) of this section is stayed pending a validly filed appeal.
+(3) The prohibition on campaign finance activities under paragraph (a)(7) of this section is stayed pending a validly filed appeal.
+(e) The reporting party has the opportunity and burden of proof to show the Subcommittee, by a preponderance of the evidence, that the reporting party's tardiness in filing a report required under this chapter is due to reasonable cause and not wilful neglect.
+(f) (1) If the Subcommittee determines that a reporting party's tardiness in filing a report required under this chapter is not due to reasonable cause, or the reporting party fails to timely file an appeal, the administrative penalty under paragraph (a)(4) of this section constitutes a debt due and owing the State, assessable by the Commissioner and recoverable against the reporting party.
+(2) If the Subcommittee determines that a reporting party's tardiness in filing a report required under this chapter is not due to reasonable cause, the stay on the accrual and payment of the administrative penalty due under paragraph (a)(4) of this section is immediately lifted and penalty continues to accrue until the tardy report is filed or the maximum period under paragraph (a)(4)a.1. of this section is met.
+(3) If the Subcommittee determines that a reporting party's tardiness in filing a report required under this chapter is not due to reasonable cause, the stay on the prohibition on campaign finance activities under paragraph (d)(3) of this section is lifted and all campaign finance activities by the committee are prohibited until all reports are correctly filed and all penalties are paid.
+(g) The Commissioner shall notify the Division of Civil Rights and Public Trust that the reporting party has failed to file a report if a tardy report is not filed or corrected not later than 30 days after 1 of the following:
+(1) A determination by the Subcommittee that the tardiness is not due to reasonable cause.
+(2) The expiration of the appeal period set forth in subsection (c) of this section.
+(h) On receipt of the notice under subsection (g) of this section, the Division of Civil Rights and Public Trust may file charges based on the reporting party's failure to file the report that is the subject of the citation.
+(i) The Commissioner shall publish all of the following information on the Department of Elections website:
+(1) The name of a candidate who the Subcommittee determines has failed to file or correct a report without reasonable cause.
+(2) The name of a candidate against whom the Commissioner has assessed an administrative penalty for failing to file or correct a report required by this chapter, along with the total amount of the penalty.
+67 Del. Laws, c. 449, § 1; 78 Del. Laws, c. 399, § 2; 80 Del. Laws, c. 394, § 4; 83 Del. Laws, c. 209, § 1; 84 Del. Laws, c. 233, § 34; 85 Del. Laws, c. 429, § 7;
