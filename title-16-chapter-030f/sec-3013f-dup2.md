@@ -1,0 +1,16 @@
+# § 3013F. Definitions [Effective Jan. 1, 2027].
+As used in this subchapter:
+(1) "Animal shelter" means as defined in § 3000F of this title.
+(2) "Cat" means a member of the genus and species known as felis catus.
+(3) "Committee" means the Spay/Neuter Advisory Committee.
+(4) "Department" means the Department of Health and Social Services.
+(5) "Dog" means a member of the genus and species known as canis familiaris.
+(6) "Feral cat" means a cat that is either of the following:
+a. Born in the wild or the offspring of an owned or feral cat and which may not be socialized.
+b. A formerly owned cat that has been abandoned and is no longer socialized.
+(7) "Free-roaming-cat caretaker" means a person who provides shelter, medical care, or food to 1 or more feral or free-roaming cats lacking discernible owner identification and works to reduce colony numbers by working to spay and neuter the animals within their specific colony or colonies. Free-roaming-cat caretakers are not owners.
+(8) "Intake" means the number of live animals for which an animal shelter assumes custody and are admitted for temporary shelter and care. Intake includes all animals admitted to the shelter, foster care, or a satellite location.
+(9) "Owner" means any person, firm, partnership, association, or corporation owning, keeping, or harboring a cat, dog or other animal.
+(10) "Program" means the Animal Population Control Program established by and set forth in this subchapter for cats and dogs.
+(11) "Spay/neuter" means to sterilize a female animal by removing the ovaries or to castrate a male animal by removing the testicles or by FDA-approved pharmaceutical sterilization.
+75 Del. Laws, c. 326, § 1; 76 Del. Laws, c. 284, § 1; 79 Del. Laws, c. 377, § 2; 81 Del. Laws, c. 450, § 2; 84 Del. Laws, c. 477, § 1; 85 Del. Laws, c. 483, § 5;

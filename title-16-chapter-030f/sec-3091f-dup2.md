@@ -1,0 +1,10 @@
+# § 3091F. Definitions [Effective Jan. 1, 2027].
+For purposes of this subchapter:
+(1) "Animal rescue organization" means any nonprofit organization whose purpose is rescuing animals that are unwanted, abandoned, abused, or stray and finding permanent, adoptive homes for the animals.
+(2) "Animal shelter" means as defined in § 3000F of this title.
+(3) "Private placement" means an arrangement between the research facility and an individual seeking to adopt the retired animal.
+(4) "Research facility" means a facility that does both of the following:
+a. Conducts experiments on dogs or cats for research, education, testing, or other scientific purposes.
+b. Receives public money, including a higher education research facility; or a facility that provides research in collaboration with a higher education facility; or has tax-exempt status.
+(5) "Retired animal" means a cat or dog that has been previously used for research, education, testing, or other scientific purposes and is no longer required by the facility and has no substantial medical conditions or safety risks preventing successful integration into an adoptive home.
+85 Del. Laws, c. 483, § 7;

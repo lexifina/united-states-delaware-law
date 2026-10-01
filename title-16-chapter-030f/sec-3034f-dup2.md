@@ -1,0 +1,3 @@
+# § 3034F. Service of process [Effective Jan. 23, 2027].
+Any warrant, subpoena, summons, or other process issued in relation to animal cruelty and fighting, dog control, retail pet store, or dangerous animal laws may be directed to and executed by any trained and certified animal welfare officer of the Office of Animal Welfare.
+18 Del. Laws, c. 246; Code 1915, § 2249; Code 1935, § 2573; 3 Del. C. 1953, § 7906; 60 Del. Laws, c. 209, §§ 5, 6; 70 Del. Laws, c. 283, § 11; 77 Del. Laws, c. 393, § 1; 80 Del. Laws, c. 200, § 2; 81 Del. Laws, c. 96, § 1; 85 Del. Laws, c. 369, § 4;
