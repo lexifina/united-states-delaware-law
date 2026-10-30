@@ -1,0 +1,1587 @@
+{
+ "country": "US-DE",
+ "acts": [
+  {
+   "slug": "constitution-preamble",
+   "short": "Del. Const. preamble",
+   "title": "Delaware Constitution of 1897, PREAMBLE",
+   "url": "https://delcode.delaware.gov/constitution/constitution-01.shtml",
+   "versions": [
+    {
+     "from": "2025-07-01",
+     "units": 1,
+     "source_url": "https://delcode.delaware.gov/constitution/constitution-01.shtml",
+     "sha256": "1931f2f716adb54c15d0c96294136d3551886283cf69ec178fcfaec885fe5e06"
+    }
+   ]
+  },
+  {
+   "slug": "constitution-art-01",
+   "short": "Del. Const. art. I",
+   "title": "Delaware Constitution of 1897, ARTICLE I. BILL OF RIGHTS",
+   "url": "https://delcode.delaware.gov/constitution/constitution-02.shtml",
+   "versions": [
+    {
+     "from": "2025-07-01",
+     "units": 21,
+     "source_url": "https://delcode.delaware.gov/constitution/constitution-02.shtml",
+     "sha256": "39bf6702de2a1c1b9e0b3defaf3fea782a0ca80ea9d65014385083663abc3783"
+    }
+   ]
+  },
+  {
+   "slug": "constitution-art-02",
+   "short": "Del. Const. art. II",
+   "title": "Delaware Constitution of 1897, ARTICLE II. LEGISLATURE",
+   "url": "https://delcode.delaware.gov/constitution/constitution-03.shtml",
+   "versions": [
+    {
+     "from": "2025-07-01",
+     "units": 29,
+     "source_url": "https://delcode.delaware.gov/constitution/constitution-03.shtml",
+     "sha256": "f7920b5fbae62dfb17e353d1bc088b044b1d370c5426919c9dff7f88c067dbb6"
+    }
+   ]
+  },
+  {
+   "slug": "constitution-art-03",
+   "short": "Del. Const. art. III",
+   "title": "Delaware Constitution of 1897, ARTICLE III. EXECUTIVE",
+   "url": "https://delcode.delaware.gov/constitution/constitution-04.shtml",
+   "versions": [
+    {
+     "from": "2025-07-01",
+     "units": 24,
+     "source_url": "https://delcode.delaware.gov/constitution/constitution-04.shtml",
+     "sha256": "4c5fa1a5a0074e6b849380ab11f69bc8b5aa93e377bce6fd42386e87c08685bb"
+    }
+   ]
+  },
+  {
+   "slug": "constitution-art-04",
+   "short": "Del. Const. art. IV",
+   "title": "Delaware Constitution of 1897, ARTICLE IV. JUDICIARY",
+   "url": "https://delcode.delaware.gov/constitution/constitution-05.shtml",
+   "versions": [
+    {
+     "from": "2025-07-01",
+     "units": 42,
+     "source_url": "https://delcode.delaware.gov/constitution/constitution-05.shtml",
+     "sha256": "186d49140573a6966892842285a06798c7dc944ea5ace6ea274b3b147ad948e2"
+    }
+   ]
+  },
+  {
+   "slug": "constitution-art-05",
+   "short": "Del. Const. art. V",
+   "title": "Delaware Constitution of 1897, ARTICLE V. ELECTIONS",
+   "url": "https://delcode.delaware.gov/constitution/constitution-06.shtml",
+   "versions": [
+    {
+     "from": "2025-07-01",
+     "units": 13,
+     "source_url": "https://delcode.delaware.gov/constitution/constitution-06.shtml",
+     "sha256": "33e4a613ac7945b03ce94044b38c0af5b2373c51899e8bd60eb4e359ffd3a152"
+    }
+   ]
+  },
+  {
+   "slug": "constitution-art-06",
+   "short": "Del. Const. art. VI",
+   "title": "Delaware Constitution of 1897, ARTICLE VI. IMPEACHMENT AND TREASON",
+   "url": "https://delcode.delaware.gov/constitution/constitution-07.shtml",
+   "versions": [
+    {
+     "from": "2025-07-01",
+     "units": 3,
+     "source_url": "https://delcode.delaware.gov/constitution/constitution-07.shtml",
+     "sha256": "5c38cd38a5f628b9dd6c40ce62f5086803a62a7647ebd74f3043b8c857eec9d0"
+    }
+   ]
+  },
+  {
+   "slug": "constitution-art-07",
+   "short": "Del. Const. art. VII",
+   "title": "Delaware Constitution of 1897, ARTICLE VII. PARDONS",
+   "url": "https://delcode.delaware.gov/constitution/constitution-08.shtml",
+   "versions": [
+    {
+     "from": "2025-07-01",
+     "units": 3,
+     "source_url": "https://delcode.delaware.gov/constitution/constitution-08.shtml",
+     "sha256": "cded588d78e6da89ecf3c3884d4e8917817f064b89892b313e3cd7eea099ad81"
+    }
+   ]
+  },
+  {
+   "slug": "constitution-art-08",
+   "short": "Del. Const. art. VIII",
+   "title": "Delaware Constitution of 1897, ARTICLE VIII. REVENUE AND TAXATION",
+   "url": "https://delcode.delaware.gov/constitution/constitution-09.shtml",
+   "versions": [
+    {
+     "from": "2025-07-01",
+     "units": 12,
+     "source_url": "https://delcode.delaware.gov/constitution/constitution-09.shtml",
+     "sha256": "3214f1e18c3276d4e5d79cba2bbf371758c6cc206fdc8fee2b0154623058abaf"
+    }
+   ]
+  },
+  {
+   "slug": "constitution-art-09",
+   "short": "Del. Const. art. IX",
+   "title": "Delaware Constitution of 1897, ARTICLE IX. CORPORATIONS",
+   "url": "https://delcode.delaware.gov/constitution/constitution-10.shtml",
+   "versions": [
+    {
+     "from": "2025-07-01",
+     "units": 6,
+     "source_url": "https://delcode.delaware.gov/constitution/constitution-10.shtml",
+     "sha256": "a53c581b440f623dda93bce2cd9e151e65ef53845954d0df86e0be471850f708"
+    }
+   ]
+  },
+  {
+   "slug": "constitution-art-10",
+   "short": "Del. Const. art. X",
+   "title": "Delaware Constitution of 1897, ARTICLE X. EDUCATION",
+   "url": "https://delcode.delaware.gov/constitution/constitution-11.shtml",
+   "versions": [
+    {
+     "from": "2025-07-01",
+     "units": 6,
+     "source_url": "https://delcode.delaware.gov/constitution/constitution-11.shtml",
+     "sha256": "43bfde79bb7d972f446f45e7beffd18ffacf7af14fb6bf52fc87056e059f65b8"
+    }
+   ]
+  },
+  {
+   "slug": "constitution-art-11",
+   "short": "Del. Const. art. XI",
+   "title": "Delaware Constitution of 1897, ARTICLE XI. AGRICULTURE",
+   "url": "https://delcode.delaware.gov/constitution/constitution-12.shtml",
+   "versions": [
+    {
+     "from": "2025-07-01",
+     "units": 7,
+     "source_url": "https://delcode.delaware.gov/constitution/constitution-12.shtml",
+     "sha256": "1107413ca5a2acf77f1816641637415d87e22b7f7759f53363cac8de1c876816"
+    }
+   ]
+  },
+  {
+   "slug": "constitution-art-12",
+   "short": "Del. Const. art. XII",
+   "title": "Delaware Constitution of 1897, ARTICLE XII.",
+   "url": "https://delcode.delaware.gov/constitution/constitution-13.shtml",
+   "versions": [
+    {
+     "from": "2025-07-01",
+     "units": 1,
+     "source_url": "https://delcode.delaware.gov/constitution/constitution-13.shtml",
+     "sha256": "05381ff629155f0e740b217c1599d45fbb0384d7badde2ed76d185163d18aab4"
+    }
+   ]
+  },
+  {
+   "slug": "constitution-art-13",
+   "short": "Del. Const. art. XIII",
+   "title": "Delaware Constitution of 1897, ARTICLE XIII. LOCAL OPTION",
+   "url": "https://delcode.delaware.gov/constitution/constitution-14.shtml",
+   "versions": [
+    {
+     "from": "2025-07-01",
+     "units": 3,
+     "source_url": "https://delcode.delaware.gov/constitution/constitution-14.shtml",
+     "sha256": "766f9a6dd499592030816b0f670cca72b44b080c8e4ab7d94773412a5a12100a"
+    }
+   ]
+  },
+  {
+   "slug": "constitution-art-14",
+   "short": "Del. Const. art. XIV",
+   "title": "Delaware Constitution of 1897, ARTICLE XIV. OATH OF OFFICE",
+   "url": "https://delcode.delaware.gov/constitution/constitution-15.shtml",
+   "versions": [
+    {
+     "from": "2025-07-01",
+     "units": 1,
+     "source_url": "https://delcode.delaware.gov/constitution/constitution-15.shtml",
+     "sha256": "df7f9124818c6208b334eec73c88f1d85342f6942e499c697c5e9a652557374e"
+    }
+   ]
+  },
+  {
+   "slug": "constitution-art-15",
+   "short": "Del. Const. art. XV",
+   "title": "Delaware Constitution of 1897, ARTICLE XV. MISCELLANEOUS",
+   "url": "https://delcode.delaware.gov/constitution/constitution-16.shtml",
+   "versions": [
+    {
+     "from": "2025-07-01",
+     "units": 10,
+     "source_url": "https://delcode.delaware.gov/constitution/constitution-16.shtml",
+     "sha256": "1e1176785c9b6f5ab181e7e06cb4ad97de5a8833545de02543ebde16c5c6d390"
+    }
+   ]
+  },
+  {
+   "slug": "constitution-art-16",
+   "short": "Del. Const. art. XVI",
+   "title": "Delaware Constitution of 1897, ARTICLE XVI. AMENDMENTS AND CONVENTIONS",
+   "url": "https://delcode.delaware.gov/constitution/constitution-17.shtml",
+   "versions": [
+    {
+     "from": "2025-07-01",
+     "units": 5,
+     "source_url": "https://delcode.delaware.gov/constitution/constitution-17.shtml",
+     "sha256": "256e6d92d6976de986332ce58fca1d9e6d5944770a690e3868f87ffb53446387"
+    }
+   ]
+  },
+  {
+   "slug": "constitution-art-17",
+   "short": "Del. Const. art. XVII",
+   "title": "Delaware Constitution of 1897, ARTICLE XVII. CONTINUITY OF GOVERNMENTAL OPERATIONS",
+   "url": "https://delcode.delaware.gov/constitution/constitution-18.shtml",
+   "versions": [
+    {
+     "from": "2025-07-01",
+     "units": 1,
+     "source_url": "https://delcode.delaware.gov/constitution/constitution-18.shtml",
+     "sha256": "047aa975aa39bdd1b13867bb68e294ce95cda5fe1fa4375497d957f2d349520a"
+    }
+   ]
+  },
+  {
+   "slug": "constitution-art-19",
+   "short": "Del. Const. art. 19",
+   "title": "Delaware Constitution of 1897, SCHEDULE",
+   "url": "https://delcode.delaware.gov/constitution/constitution-19.shtml",
+   "versions": [
+    {
+     "from": "2025-07-01",
+     "units": 19,
+     "source_url": "https://delcode.delaware.gov/constitution/constitution-19.shtml",
+     "sha256": "6b7d9f056065ef57c53c4d8fce57fae42c9e7c0ae0abdef2c0f9b3007f30de12"
+    }
+   ]
+  },
+  {
+   "slug": "title-11-chapter-001",
+   "short": "11 Del. C. ch. 1",
+   "title": "Delaware Code, Title 11, Chapter 1: Delaware Criminal Code",
+   "url": "https://delcode.delaware.gov/title11/c001/index.html",
+   "versions": [
+    {
+     "from": "2026-10-01",
+     "units": 3,
+     "source_url": "https://delcode.delaware.gov/title11/c001/index.html",
+     "sha256": "259fec59287ddd45f9dabec3d2ca2c4e1253a8960b3a66bbdfe9a9159e3ccaaf"
+    }
+   ]
+  },
+  {
+   "slug": "title-11-chapter-002",
+   "short": "11 Del. C. ch. 2",
+   "title": "Delaware Code, Title 11, Chapter 2: Delaware Criminal Code",
+   "url": "https://delcode.delaware.gov/title11/c002/index.html",
+   "versions": [
+    {
+     "from": "2026-10-01",
+     "units": 47,
+     "source_url": "https://delcode.delaware.gov/title11/c002/index.html",
+     "sha256": "b27d7db76d6966e0bdfd3905b964a7f0cccbc2bd6b395bd1b45629ca27c6bc02"
+    }
+   ]
+  },
+  {
+   "slug": "title-11-chapter-003",
+   "short": "11 Del. C. ch. 3",
+   "title": "Delaware Code, Title 11, Chapter 3: Delaware Criminal Code",
+   "url": "https://delcode.delaware.gov/title11/c003/index.html",
+   "versions": [
+    {
+     "from": "2026-10-01",
+     "units": 8,
+     "source_url": "https://delcode.delaware.gov/title11/c003/index.html",
+     "sha256": "6a09635cdf1300624a3ce6aefab263a035ce5b23cb9b2a6e575502cebcbfb466"
+    }
+   ]
+  },
+  {
+   "slug": "title-11-chapter-004",
+   "short": "11 Del. C. ch. 4",
+   "title": "Delaware Code, Title 11, Chapter 4: Delaware Criminal Code",
+   "url": "https://delcode.delaware.gov/title11/c004/index.html",
+   "versions": [
+    {
+     "from": "2026-10-01",
+     "units": 40,
+     "source_url": "https://delcode.delaware.gov/title11/c004/index.html",
+     "sha256": "d57aa287331b004ac38bc501bdfc9f877e5383f7572495ea230d78d0a65ed7f3"
+    }
+   ]
+  },
+  {
+   "slug": "title-11-chapter-005",
+   "short": "11 Del. C. ch. 5",
+   "title": "Delaware Code, Title 11, Chapter 5: SPECIFIC OFFENSES",
+   "url": "https://delcode.delaware.gov/title11/c005/index.html",
+   "versions": [
+    {
+     "from": "2026-10-01",
+     "units": 473,
+     "source_url": "https://delcode.delaware.gov/title11/c005/index.html",
+     "sha256": "a1bfda762cc2c326ed03363ceb8e1adca3780860a678133169ee4d8ab77cb94f"
+    }
+   ]
+  },
+  {
+   "slug": "title-11-chapter-015",
+   "short": "11 Del. C. ch. 15",
+   "title": "Delaware Code, Title 11, Chapter 15: Delaware Criminal Code",
+   "url": "https://delcode.delaware.gov/title11/c015/index.html",
+   "versions": [
+    {
+     "from": "2026-10-01",
+     "units": 11,
+     "source_url": "https://delcode.delaware.gov/title11/c015/index.html",
+     "sha256": "3c9e139bce7856a4ea5c36060c345d17d8df0e69202b10f9e8085c25dbf2645e"
+    }
+   ]
+  },
+  {
+   "slug": "title-11-chapter-017",
+   "short": "11 Del. C. ch. 17",
+   "title": "Delaware Code, Title 11, Chapter 17: Criminal Procedure Generally",
+   "url": "https://delcode.delaware.gov/title11/c017/index.html",
+   "versions": [
+    {
+     "from": "2026-10-01",
+     "units": 3,
+     "source_url": "https://delcode.delaware.gov/title11/c017/index.html",
+     "sha256": "d8d51dc6b1f508d7663476df67d9bdae0241a3a1d5253689f0aaf4de8b847373"
+    }
+   ]
+  },
+  {
+   "slug": "title-11-chapter-019",
+   "short": "11 Del. C. ch. 19",
+   "title": "Delaware Code, Title 11, Chapter 19: ARREST AND COMMITMENT; FRESH PURSUIT",
+   "url": "https://delcode.delaware.gov/title11/c019/index.html",
+   "versions": [
+    {
+     "from": "2026-10-01",
+     "units": 27,
+     "source_url": "https://delcode.delaware.gov/title11/c019/index.html",
+     "sha256": "84913e23937fdd9cfa099dcc2c9e38484b4a29c42528565f528cc9c1eaded6fd"
+    }
+   ]
+  },
+  {
+   "slug": "title-11-chapter-020",
+   "short": "11 Del. C. ch. 20",
+   "title": "Delaware Code, Title 11, Chapter 20: Custodial Interrogations",
+   "url": "https://delcode.delaware.gov/title11/c020/index.html",
+   "versions": [
+    {
+     "from": "2026-10-01",
+     "units": 19,
+     "source_url": "https://delcode.delaware.gov/title11/c020/index.html",
+     "sha256": "a6cdd379a0481c45ebfe8333d0b0ba99f1f6073ce5f11a4c0cf27b760e27ad90"
+    }
+   ]
+  },
+  {
+   "slug": "title-11-chapter-021",
+   "short": "11 Del. C. ch. 21",
+   "title": "Delaware Code, Title 11, Chapter 21: Criminal Procedure Generally",
+   "url": "https://delcode.delaware.gov/title11/c021/index.html",
+   "versions": [
+    {
+     "from": "2026-10-01",
+     "units": 31,
+     "source_url": "https://delcode.delaware.gov/title11/c021/index.html",
+     "sha256": "6c8e6d292017c927f29f9d9b957a0f3dfb4e92484a59b11c0f4a37367c00d0b3"
+    }
+   ]
+  },
+  {
+   "slug": "title-11-chapter-023",
+   "short": "11 Del. C. ch. 23",
+   "title": "Delaware Code, Title 11, Chapter 23: SEARCH AND SEIZURE",
+   "url": "https://delcode.delaware.gov/title11/c023/index.html",
+   "versions": [
+    {
+     "from": "2026-10-01",
+     "units": 20,
+     "source_url": "https://delcode.delaware.gov/title11/c023/index.html",
+     "sha256": "4bc79be104b962f8cec37d9b2b1541a6a97e94d6fc34b71807f98100e098167a"
+    }
+   ]
+  },
+  {
+   "slug": "title-11-chapter-024",
+   "short": "11 Del. C. ch. 24",
+   "title": "Delaware Code, Title 11, Chapter 24: WIRETAPPING, ELECTRONIC SURVEILLANCE AND INTERCEPTION OF COMMUNICATIONS",
+   "url": "https://delcode.delaware.gov/title11/c024/index.html",
+   "versions": [
+    {
+     "from": "2026-10-01",
+     "units": 24,
+     "source_url": "https://delcode.delaware.gov/title11/c024/index.html",
+     "sha256": "75abc38f976f17fdfff1bc4cd717b8318f4b4557623c592bde672ac483b88c43"
+    }
+   ]
+  },
+  {
+   "slug": "title-11-chapter-025",
+   "short": "11 Del. C. ch. 25",
+   "title": "Delaware Code, Title 11, Chapter 25: EXTRADITION AND DETAINERS",
+   "url": "https://delcode.delaware.gov/title11/c025/index.html",
+   "versions": [
+    {
+     "from": "2026-10-01",
+     "units": 41,
+     "source_url": "https://delcode.delaware.gov/title11/c025/index.html",
+     "sha256": "d23cf4d352e7466e037c2618e38bf1a92d116681dc40ba25942a87192a4a4dcb"
+    }
+   ]
+  },
+  {
+   "slug": "title-11-chapter-027",
+   "short": "11 Del. C. ch. 27",
+   "title": "Delaware Code, Title 11, Chapter 27: JURISDICTION AND VENUE",
+   "url": "https://delcode.delaware.gov/title11/c027/index.html",
+   "versions": [
+    {
+     "from": "2026-10-01",
+     "units": 10,
+     "source_url": "https://delcode.delaware.gov/title11/c027/index.html",
+     "sha256": "b6f3332066f9b42a77ff66a19b963e8cd47600a5050d62725ac4609a9ff9f9f8"
+    }
+   ]
+  },
+  {
+   "slug": "title-11-chapter-031",
+   "short": "11 Del. C. ch. 31",
+   "title": "Delaware Code, Title 11, Chapter 31: Criminal Procedure Generally",
+   "url": "https://delcode.delaware.gov/title11/c031/index.html",
+   "versions": [
+    {
+     "from": "2026-10-01",
+     "units": 7,
+     "source_url": "https://delcode.delaware.gov/title11/c031/index.html",
+     "sha256": "a50044a8115936c6d3d24be3abcc68e365fac63917618a05f8c63a5310a6cc4b"
+    }
+   ]
+  },
+  {
+   "slug": "title-11-chapter-033",
+   "short": "11 Del. C. ch. 33",
+   "title": "Delaware Code, Title 11, Chapter 33: Criminal Procedure Generally",
+   "url": "https://delcode.delaware.gov/title11/c033/index.html",
+   "versions": [
+    {
+     "from": "2026-10-01",
+     "units": 1,
+     "source_url": "https://delcode.delaware.gov/title11/c033/index.html",
+     "sha256": "71f80ec53e897e75ed62712aa0037d1f9d993a9005a32fa8271569db37bcfd67"
+    }
+   ]
+  },
+  {
+   "slug": "title-11-chapter-035",
+   "short": "11 Del. C. ch. 35",
+   "title": "Delaware Code, Title 11, Chapter 35: WITNESSES AND EVIDENCE",
+   "url": "https://delcode.delaware.gov/title11/c035/index.html",
+   "versions": [
+    {
+     "from": "2026-10-01",
+     "units": 29,
+     "source_url": "https://delcode.delaware.gov/title11/c035/index.html",
+     "sha256": "0204b36414e912122b20b193a76e3150b9e087969bb8b72139ca172b0ee698f7"
+    }
+   ]
+  },
+  {
+   "slug": "title-11-chapter-039",
+   "short": "11 Del. C. ch. 39",
+   "title": "Delaware Code, Title 11, Chapter 39: SENTENCE, JUDGMENT, EXECUTION AND MANDATORY TESTING",
+   "url": "https://delcode.delaware.gov/title11/c039/index.html",
+   "versions": [
+    {
+     "from": "2026-10-01",
+     "units": 15,
+     "source_url": "https://delcode.delaware.gov/title11/c039/index.html",
+     "sha256": "fa478bdeb8bcc42d752244af89228694f9f8134982f8d2d1b31df6596dc20b47"
+    }
+   ]
+  },
+  {
+   "slug": "title-11-chapter-041",
+   "short": "11 Del. C. ch. 41",
+   "title": "Delaware Code, Title 11, Chapter 41: FINES, COSTS, PENALTIES AND FORFEITURES",
+   "url": "https://delcode.delaware.gov/title11/c041/index.html",
+   "versions": [
+    {
+     "from": "2026-10-01",
+     "units": 28,
+     "source_url": "https://delcode.delaware.gov/title11/c041/index.html",
+     "sha256": "dd72fd3a220ad27f1f0b30b6e5d508c9d3508082dc1d12ce32e8d9fe9954da29"
+    }
+   ]
+  },
+  {
+   "slug": "title-11-chapter-042",
+   "short": "11 Del. C. ch. 42",
+   "title": "Delaware Code, Title 11, Chapter 42: Criminal Procedure Generally",
+   "url": "https://delcode.delaware.gov/title11/c042/index.html",
+   "versions": [
+    {
+     "from": "2026-10-01",
+     "units": 25,
+     "source_url": "https://delcode.delaware.gov/title11/c042/index.html",
+     "sha256": "ed34ef00a77bb5f1255fc724461b4fa56e5fa7edb3131eba15fb6fbc4b9d2785"
+    }
+   ]
+  },
+  {
+   "slug": "title-11-chapter-043",
+   "short": "11 Del. C. ch. 43",
+   "title": "Delaware Code, Title 11, Chapter 43: SENTENCING, PROBATION, PAROLE AND PARDONS",
+   "url": "https://delcode.delaware.gov/title11/c043/index.html",
+   "versions": [
+    {
+     "from": "2026-10-01",
+     "units": 50,
+     "source_url": "https://delcode.delaware.gov/title11/c043/index.html",
+     "sha256": "657c64f312049d2ff9654f9c42b7ff5e4e6fb5a67a0769ee47ff6b57bde49f33"
+    }
+   ]
+  },
+  {
+   "slug": "title-11-chapter-045",
+   "short": "11 Del. C. ch. 45",
+   "title": "Delaware Code, Title 11, Chapter 45: Criminal Procedure Generally",
+   "url": "https://delcode.delaware.gov/title11/c045/index.html",
+   "versions": [
+    {
+     "from": "2026-10-01",
+     "units": 4,
+     "source_url": "https://delcode.delaware.gov/title11/c045/index.html",
+     "sha256": "648a4fef84d508d38635177ef7e5a0a59e29e9a4048b03022d7139f8d78ac080"
+    }
+   ]
+  },
+  {
+   "slug": "title-11-chapter-051",
+   "short": "11 Del. C. ch. 51",
+   "title": "Delaware Code, Title 11, Chapter 51: SUPERIOR COURT",
+   "url": "https://delcode.delaware.gov/title11/c051/index.html",
+   "versions": [
+    {
+     "from": "2026-10-01",
+     "units": 12,
+     "source_url": "https://delcode.delaware.gov/title11/c051/index.html",
+     "sha256": "d1bcb485c1bda16e6924e0195d5872568fcccc467ac12e0457d363c513ecd8de"
+    }
+   ]
+  },
+  {
+   "slug": "title-11-chapter-053",
+   "short": "11 Del. C. ch. 53",
+   "title": "Delaware Code, Title 11, Chapter 53: Procedure in Particular Courts",
+   "url": "https://delcode.delaware.gov/title11/c053/index.html",
+   "versions": [
+    {
+     "from": "2026-10-01",
+     "units": 8,
+     "source_url": "https://delcode.delaware.gov/title11/c053/index.html",
+     "sha256": "9964bc740848aeba539ee64f70a8fcd4e311322f46b6c0be2ff49729ccc65a1a"
+    }
+   ]
+  },
+  {
+   "slug": "title-11-chapter-059",
+   "short": "11 Del. C. ch. 59",
+   "title": "Delaware Code, Title 11, Chapter 59: Procedure in Particular Courts",
+   "url": "https://delcode.delaware.gov/title11/c059/index.html",
+   "versions": [
+    {
+     "from": "2026-10-01",
+     "units": 19,
+     "source_url": "https://delcode.delaware.gov/title11/c059/index.html",
+     "sha256": "42309c52e3e91a527300936963e8dd1cace1537f8e00099131da936f3c76a72c"
+    }
+   ]
+  },
+  {
+   "slug": "title-11-chapter-065",
+   "short": "11 Del. C. ch. 65",
+   "title": "Delaware Code, Title 11, Chapter 65: DEPARTMENT OF CORRECTION",
+   "url": "https://delcode.delaware.gov/title11/c065/index.html",
+   "versions": [
+    {
+     "from": "2026-10-01",
+     "units": 72,
+     "source_url": "https://delcode.delaware.gov/title11/c065/index.html",
+     "sha256": "45be3866a0f51ab953d4ac7b1e73f72619243cdc8115123807c3b51b3342c87d"
+    }
+   ]
+  },
+  {
+   "slug": "title-11-chapter-066",
+   "short": "11 Del. C. ch. 66",
+   "title": "Delaware Code, Title 11, Chapter 66: Prisons and Prisoners",
+   "url": "https://delcode.delaware.gov/title11/c066/index.html",
+   "versions": [
+    {
+     "from": "2026-10-01",
+     "units": 5,
+     "source_url": "https://delcode.delaware.gov/title11/c066/index.html",
+     "sha256": "f0a027632055c6563a3afac013b1fbca80084090f98d36d73a37872d547e397d"
+    }
+   ]
+  },
+  {
+   "slug": "title-11-chapter-067",
+   "short": "11 Del. C. ch. 67",
+   "title": "Delaware Code, Title 11, Chapter 67: Prisons and Prisoners",
+   "url": "https://delcode.delaware.gov/title11/c067/index.html",
+   "versions": [
+    {
+     "from": "2026-10-01",
+     "units": 12,
+     "source_url": "https://delcode.delaware.gov/title11/c067/index.html",
+     "sha256": "c2aada1dcd63b9a2a906fa50bc2cb55bf67b98332c637b547290c5689e13babe"
+    }
+   ]
+  },
+  {
+   "slug": "title-11-chapter-081",
+   "short": "11 Del. C. ch. 81",
+   "title": "Delaware Code, Title 11, Chapter 81: Law-Enforcement Administration",
+   "url": "https://delcode.delaware.gov/title11/c081/index.html",
+   "versions": [
+    {
+     "from": "2026-10-01",
+     "units": 2,
+     "source_url": "https://delcode.delaware.gov/title11/c081/index.html",
+     "sha256": "10f78793176173664772b4326b8072ce912c8b769fa0b8c7e3f8c53fade84fef"
+    }
+   ]
+  },
+  {
+   "slug": "title-11-chapter-082",
+   "short": "11 Del. C. ch. 82",
+   "title": "Delaware Code, Title 11, Chapter 82: Law-Enforcement Administration",
+   "url": "https://delcode.delaware.gov/title11/c082/index.html",
+   "versions": [
+    {
+     "from": "2026-10-01",
+     "units": 5,
+     "source_url": "https://delcode.delaware.gov/title11/c082/index.html",
+     "sha256": "269597b7c3fef52497481d1bdaff854a14c977064682f75f7ed15f5570c32553"
+    }
+   ]
+  },
+  {
+   "slug": "title-11-chapter-083",
+   "short": "11 Del. C. ch. 83",
+   "title": "Delaware Code, Title 11, Chapter 83: STATE POLICE",
+   "url": "https://delcode.delaware.gov/title11/c083/index.html",
+   "versions": [
+    {
+     "from": "2026-10-01",
+     "units": 50,
+     "source_url": "https://delcode.delaware.gov/title11/c083/index.html",
+     "sha256": "afb6b890b76e03d8710589f06ef90d93e809a3d390c725cbc2b1b6a4c6e57491"
+    }
+   ]
+  },
+  {
+   "slug": "title-11-chapter-084",
+   "short": "11 Del. C. ch. 84",
+   "title": "Delaware Code, Title 11, Chapter 84: Law-Enforcement Administration",
+   "url": "https://delcode.delaware.gov/title11/c084/index.html",
+   "versions": [
+    {
+     "from": "2026-10-01",
+     "units": 13,
+     "source_url": "https://delcode.delaware.gov/title11/c084/index.html",
+     "sha256": "f38dd32327a6b4081fadfb3ee81b345b4270489e997f50fb5b14a709c1ed5dd9"
+    }
+   ]
+  },
+  {
+   "slug": "title-11-chapter-085",
+   "short": "11 Del. C. ch. 85",
+   "title": "Delaware Code, Title 11, Chapter 85: STATE BUREAU OF IDENTIFICATION",
+   "url": "https://delcode.delaware.gov/title11/c085/index.html",
+   "versions": [
+    {
+     "from": "2026-10-01",
+     "units": 81,
+     "source_url": "https://delcode.delaware.gov/title11/c085/index.html",
+     "sha256": "f5a5ce3ce89ecf9acaa95d4fb2a5e6da9a266e1a7a19051e74a15fce20dfb2b0"
+    }
+   ]
+  },
+  {
+   "slug": "title-11-chapter-086",
+   "short": "11 Del. C. ch. 86",
+   "title": "Delaware Code, Title 11, Chapter 86: Law-Enforcement Administration",
+   "url": "https://delcode.delaware.gov/title11/c086/index.html",
+   "versions": [
+    {
+     "from": "2026-10-01",
+     "units": 11,
+     "source_url": "https://delcode.delaware.gov/title11/c086/index.html",
+     "sha256": "04a77a1619a65bef235c94da7bc51e1526b5208077b1ec572d461fc0e1bfebdb"
+    }
+   ]
+  },
+  {
+   "slug": "title-11-chapter-087",
+   "short": "11 Del. C. ch. 87",
+   "title": "Delaware Code, Title 11, Chapter 87: Law-Enforcement Administration",
+   "url": "https://delcode.delaware.gov/title11/c087/index.html",
+   "versions": [
+    {
+     "from": "2026-10-01",
+     "units": 10,
+     "source_url": "https://delcode.delaware.gov/title11/c087/index.html",
+     "sha256": "74ae8fbe9f7da38ad2fd18191335fd425464ec12a3411a2dc72e09a986562d2a"
+    }
+   ]
+  },
+  {
+   "slug": "title-11-chapter-088",
+   "short": "11 Del. C. ch. 88",
+   "title": "Delaware Code, Title 11, Chapter 88: Law-Enforcement Administration",
+   "url": "https://delcode.delaware.gov/title11/c088/index.html",
+   "versions": [
+    {
+     "from": "2026-10-01",
+     "units": 30,
+     "source_url": "https://delcode.delaware.gov/title11/c088/index.html",
+     "sha256": "dc5fd9c3fb7c065f07a307d5fb62409f4cd185dee47316dca726e99aa3b61743"
+    }
+   ]
+  },
+  {
+   "slug": "title-11-chapter-089",
+   "short": "11 Del. C. ch. 89",
+   "title": "Delaware Code, Title 11, Chapter 89: Law-Enforcement Administration",
+   "url": "https://delcode.delaware.gov/title11/c089/index.html",
+   "versions": [
+    {
+     "from": "2026-10-01",
+     "units": 5,
+     "source_url": "https://delcode.delaware.gov/title11/c089/index.html",
+     "sha256": "caf5464c59449880d8c64303f9a822f4112eb72bc31afdba908327fa613767a6"
+    }
+   ]
+  },
+  {
+   "slug": "title-11-chapter-090",
+   "short": "11 Del. C. ch. 90",
+   "title": "Delaware Code, Title 11, Chapter 90: Victims of Crimes",
+   "url": "https://delcode.delaware.gov/title11/c090/index.html",
+   "versions": [
+    {
+     "from": "2026-10-01",
+     "units": 25,
+     "source_url": "https://delcode.delaware.gov/title11/c090/index.html",
+     "sha256": "2969992900ea1a218358885a4bf96b776c09e6292e1d1cd1df3772db4b85e640"
+    }
+   ]
+  },
+  {
+   "slug": "title-11-chapter-091",
+   "short": "11 Del. C. ch. 91",
+   "title": "Delaware Code, Title 11, Chapter 91: Victims of Crimes",
+   "url": "https://delcode.delaware.gov/title11/c091/index.html",
+   "versions": [
+    {
+     "from": "2026-10-01",
+     "units": 6,
+     "source_url": "https://delcode.delaware.gov/title11/c091/index.html",
+     "sha256": "6b290a527bd89049a8c741bc242017fea524dd69a98eeda5f6e31d60ef6bad68"
+    }
+   ]
+  },
+  {
+   "slug": "title-11-chapter-092",
+   "short": "11 Del. C. ch. 92",
+   "title": "Delaware Code, Title 11, Chapter 92: Victims of Crimes",
+   "url": "https://delcode.delaware.gov/title11/c092/index.html",
+   "versions": [
+    {
+     "from": "2026-10-01",
+     "units": 12,
+     "source_url": "https://delcode.delaware.gov/title11/c092/index.html",
+     "sha256": "8d4958ae642b73b2431dc5baa2f565dd379f3a8517a02691880e026dd8df5015"
+    }
+   ]
+  },
+  {
+   "slug": "title-11-chapter-093",
+   "short": "11 Del. C. ch. 93",
+   "title": "Delaware Code, Title 11, Chapter 93: Victims of Crimes",
+   "url": "https://delcode.delaware.gov/title11/c093/index.html",
+   "versions": [
+    {
+     "from": "2026-10-01",
+     "units": 1,
+     "source_url": "https://delcode.delaware.gov/title11/c093/index.html",
+     "sha256": "5dc6e2dcfa6823da6e41261ff6c26aa91fc783080e1756c0a80a47e47d87e9e4"
+    }
+   ]
+  },
+  {
+   "slug": "title-11-chapter-094",
+   "short": "11 Del. C. ch. 94",
+   "title": "Delaware Code, Title 11, Chapter 94: Crime Victims' Bill of Rights",
+   "url": "https://delcode.delaware.gov/title11/c094/index.html",
+   "versions": [
+    {
+     "from": "2026-10-01",
+     "units": 26,
+     "source_url": "https://delcode.delaware.gov/title11/c094/index.html",
+     "sha256": "8c280bb11385e275ecb5f85fbc4901557f20123e2235543ed6a95a20042ec08b"
+    }
+   ]
+  },
+  {
+   "slug": "title-11-chapter-095",
+   "short": "11 Del. C. ch. 95",
+   "title": "Delaware Code, Title 11, Chapter 95: Special Programs",
+   "url": "https://delcode.delaware.gov/title11/c095/index.html",
+   "versions": [
+    {
+     "from": "2026-10-01",
+     "units": 5,
+     "source_url": "https://delcode.delaware.gov/title11/c095/index.html",
+     "sha256": "657a8be10b9c14a99abe52557f62b11c26bc1944252026bd97233659f86d6f35"
+    }
+   ]
+  },
+  {
+   "slug": "title-11-chapter-096",
+   "short": "11 Del. C. ch. 96",
+   "title": "Delaware Code, Title 11, Chapter 96: PROTECTION OF WITNESSES AND CRIME VICTIMS",
+   "url": "https://delcode.delaware.gov/title11/c096/index.html",
+   "versions": [
+    {
+     "from": "2026-10-01",
+     "units": 16,
+     "source_url": "https://delcode.delaware.gov/title11/c096/index.html",
+     "sha256": "af788a3f4bb050e063fad4ad18c8bac90e9e73e51ad94044b6ac567b2dc754ed"
+    }
+   ]
+  },
+  {
+   "slug": "title-11-chapter-097",
+   "short": "11 Del. C. ch. 97",
+   "title": "Delaware Code, Title 11, Chapter 97: Special Programs",
+   "url": "https://delcode.delaware.gov/title11/c097/index.html",
+   "versions": [
+    {
+     "from": "2026-10-01",
+     "units": 3,
+     "source_url": "https://delcode.delaware.gov/title11/c097/index.html",
+     "sha256": "3b961b3ee1547673952f8409b1639b2144d456e7d172701674ac9a5611ba29ed"
+    }
+   ]
+  },
+  {
+   "slug": "title-11-chapter-098",
+   "short": "11 Del. C. ch. 98",
+   "title": "Delaware Code, Title 11, Chapter 98: Special Programs",
+   "url": "https://delcode.delaware.gov/title11/c098/index.html",
+   "versions": [
+    {
+     "from": "2026-10-01",
+     "units": 5,
+     "source_url": "https://delcode.delaware.gov/title11/c098/index.html",
+     "sha256": "9cd95a74b427e620c6912dba970e3e6969ef7980f2a7ae641e03fcc2d2b3bf21"
+    }
+   ]
+  },
+  {
+   "slug": "title-11-chapter-099",
+   "short": "11 Del. C. ch. 99",
+   "title": "Delaware Code, Title 11, Chapter 99: Special Programs",
+   "url": "https://delcode.delaware.gov/title11/c099/index.html",
+   "versions": [
+    {
+     "from": "2026-10-01",
+     "units": 6,
+     "source_url": "https://delcode.delaware.gov/title11/c099/index.html",
+     "sha256": "c12db35b9c13f004762b3ed40cfcae8d7fa35b74ff1094ae0fcba1032200d687"
+    }
+   ]
+  },
+  {
+   "slug": "title-25-chapter-001",
+   "short": "25 Del. C. ch. 1",
+   "title": "Delaware Code, Title 25, Chapter 1: DEEDS",
+   "url": "https://delcode.delaware.gov/title25/c001/index.html",
+   "versions": [
+    {
+     "from": "2026-10-01",
+     "units": 42,
+     "source_url": "https://delcode.delaware.gov/title25/c001/index.html",
+     "sha256": "635338a21a8933139f69f71fb96277844f3d1d00a4a48cc694ef411622a10734"
+    }
+   ]
+  },
+  {
+   "slug": "title-25-chapter-002",
+   "short": "25 Del. C. ch. 2",
+   "title": "Delaware Code, Title 25, Chapter 2: General Provisions",
+   "url": "https://delcode.delaware.gov/title25/c002/index.html",
+   "versions": [
+    {
+     "from": "2026-10-01",
+     "units": 21,
+     "source_url": "https://delcode.delaware.gov/title25/c002/index.html",
+     "sha256": "ce1aff5f4d97bc8bc150610160e5a7931feac8c950b34dc9fa0718a09a43e0f4"
+    }
+   ]
+  },
+  {
+   "slug": "title-25-chapter-003",
+   "short": "25 Del. C. ch. 3",
+   "title": "Delaware Code, Title 25, Chapter 3: General Provisions",
+   "url": "https://delcode.delaware.gov/title25/c003/index.html",
+   "versions": [
+    {
+     "from": "2026-10-01",
+     "units": 20,
+     "source_url": "https://delcode.delaware.gov/title25/c003/index.html",
+     "sha256": "05f06b09f739a42973584a6cf79a0a3ab5ac38b722ad58d0209a68fe1ea9eab4"
+    }
+   ]
+  },
+  {
+   "slug": "title-25-chapter-005",
+   "short": "25 Del. C. ch. 5",
+   "title": "Delaware Code, Title 25, Chapter 5: General Provisions",
+   "url": "https://delcode.delaware.gov/title25/c005/index.html",
+   "versions": [
+    {
+     "from": "2026-10-01",
+     "units": 6,
+     "source_url": "https://delcode.delaware.gov/title25/c005/index.html",
+     "sha256": "9933ed7e131ad5950095d590425e00470ab5fb6c23d300c51554ff1099f918e9"
+    }
+   ]
+  },
+  {
+   "slug": "title-25-chapter-007",
+   "short": "25 Del. C. ch. 7",
+   "title": "Delaware Code, Title 25, Chapter 7: JOINT ESTATES AND PARTITION",
+   "url": "https://delcode.delaware.gov/title25/c007/index.html",
+   "versions": [
+    {
+     "from": "2026-10-01",
+     "units": 33,
+     "source_url": "https://delcode.delaware.gov/title25/c007/index.html",
+     "sha256": "95ba23347255caadaec8d81cd14a9f0031816c7b85aa4dafb6a5163cb39421f3"
+    }
+   ]
+  },
+  {
+   "slug": "title-25-chapter-009",
+   "short": "25 Del. C. ch. 9",
+   "title": "Delaware Code, Title 25, Chapter 9: General Provisions",
+   "url": "https://delcode.delaware.gov/title25/c009/index.html",
+   "versions": [
+    {
+     "from": "2026-10-01",
+     "units": 11,
+     "source_url": "https://delcode.delaware.gov/title25/c009/index.html",
+     "sha256": "634987d3a19dc6e689a5bb7b38e1e032ab2606a0731ead52ed1f7ccc9df7a94d"
+    }
+   ]
+  },
+  {
+   "slug": "title-25-chapter-011",
+   "short": "25 Del. C. ch. 11",
+   "title": "Delaware Code, Title 25, Chapter 11: General Provisions",
+   "url": "https://delcode.delaware.gov/title25/c011/index.html",
+   "versions": [
+    {
+     "from": "2026-10-01",
+     "units": 8,
+     "source_url": "https://delcode.delaware.gov/title25/c011/index.html",
+     "sha256": "31b3583252a95bae602384e9ff4cd0711ef5dad023e050f877c452560dc1fa08"
+    }
+   ]
+  },
+  {
+   "slug": "title-25-chapter-013",
+   "short": "25 Del. C. ch. 13",
+   "title": "Delaware Code, Title 25, Chapter 13: General Provisions",
+   "url": "https://delcode.delaware.gov/title25/c013/index.html",
+   "versions": [
+    {
+     "from": "2026-10-01",
+     "units": 7,
+     "source_url": "https://delcode.delaware.gov/title25/c013/index.html",
+     "sha256": "c37865c7d6f25d1c0e6c51ddc5b34d0ee58672e4c2bfc8570bdafcc4722cbd4b"
+    }
+   ]
+  },
+  {
+   "slug": "title-25-chapter-014",
+   "short": "25 Del. C. ch. 14",
+   "title": "Delaware Code, Title 25, Chapter 14: General Provisions",
+   "url": "https://delcode.delaware.gov/title25/c014/index.html",
+   "versions": [
+    {
+     "from": "2026-10-01",
+     "units": 4,
+     "source_url": "https://delcode.delaware.gov/title25/c014/index.html",
+     "sha256": "01e8ca3d13278ba178b8ca6d7a1c1f8dfa59b5c003b75eb01fa8ef906f72cf5f"
+    }
+   ]
+  },
+  {
+   "slug": "title-25-chapter-015",
+   "short": "25 Del. C. ch. 15",
+   "title": "Delaware Code, Title 25, Chapter 15: General Provisions",
+   "url": "https://delcode.delaware.gov/title25/c015/index.html",
+   "versions": [
+    {
+     "from": "2026-10-01",
+     "units": 1,
+     "source_url": "https://delcode.delaware.gov/title25/c015/index.html",
+     "sha256": "91855edb51d38b1742fba7fbad1f53d5e612fad530171953d67789be135c5d3e"
+    }
+   ]
+  },
+  {
+   "slug": "title-25-chapter-016",
+   "short": "25 Del. C. ch. 16",
+   "title": "Delaware Code, Title 25, Chapter 16: General Provisions",
+   "url": "https://delcode.delaware.gov/title25/c016/index.html",
+   "versions": [
+    {
+     "from": "2026-10-01",
+     "units": 14,
+     "source_url": "https://delcode.delaware.gov/title25/c016/index.html",
+     "sha256": "399da0a55d004c3a8ac060a368bb54a683fd4c89ac653c75708c93f8f6077681"
+    }
+   ]
+  },
+  {
+   "slug": "title-25-chapter-021",
+   "short": "25 Del. C. ch. 21",
+   "title": "Delaware Code, Title 25, Chapter 21: Mortgages and Other Liens",
+   "url": "https://delcode.delaware.gov/title25/c021/index.html",
+   "versions": [
+    {
+     "from": "2026-10-01",
+     "units": 24,
+     "source_url": "https://delcode.delaware.gov/title25/c021/index.html",
+     "sha256": "5ea70ffeca269e56864f43003a760239403007f07cc6b937280bc486d964adf5"
+    }
+   ]
+  },
+  {
+   "slug": "title-25-chapter-022",
+   "short": "25 Del. C. ch. 22",
+   "title": "Delaware Code, Title 25, Chapter 22: UNIT PROPERTIES",
+   "url": "https://delcode.delaware.gov/title25/c022/index.html",
+   "versions": [
+    {
+     "from": "2026-10-01",
+     "units": 46,
+     "source_url": "https://delcode.delaware.gov/title25/c022/index.html",
+     "sha256": "db3e448f70247059355f30df190fd0e54c97ae23506ef8b145d7db7e6e289e29"
+    }
+   ]
+  },
+  {
+   "slug": "title-25-chapter-025",
+   "short": "25 Del. C. ch. 25",
+   "title": "Delaware Code, Title 25, Chapter 25: Mortgages and Other Liens",
+   "url": "https://delcode.delaware.gov/title25/c025/index.html",
+   "versions": [
+    {
+     "from": "2026-10-01",
+     "units": 1,
+     "source_url": "https://delcode.delaware.gov/title25/c025/index.html",
+     "sha256": "3bad10e01749a737361ccba5b2865f1bb70a1da84e5884e98ad74707b389432a"
+    }
+   ]
+  },
+  {
+   "slug": "title-25-chapter-026",
+   "short": "25 Del. C. ch. 26",
+   "title": "Delaware Code, Title 25, Chapter 26: Mortgages and Other Liens",
+   "url": "https://delcode.delaware.gov/title25/c026/index.html",
+   "versions": [
+    {
+     "from": "2026-10-01",
+     "units": 15,
+     "source_url": "https://delcode.delaware.gov/title25/c026/index.html",
+     "sha256": "c99b0cd779a8ae3f27508187d97345a96c31199c54c83379ee56f857bd546be1"
+    }
+   ]
+  },
+  {
+   "slug": "title-25-chapter-027",
+   "short": "25 Del. C. ch. 27",
+   "title": "Delaware Code, Title 25, Chapter 27: Mechanics' Liens",
+   "url": "https://delcode.delaware.gov/title25/c027/index.html",
+   "versions": [
+    {
+     "from": "2026-10-01",
+     "units": 34,
+     "source_url": "https://delcode.delaware.gov/title25/c027/index.html",
+     "sha256": "1a849ea487a3d98ca21d941844c58fa3156be9e218b140be3f63736eee8cea2c"
+    }
+   ]
+  },
+  {
+   "slug": "title-25-chapter-029",
+   "short": "25 Del. C. ch. 29",
+   "title": "Delaware Code, Title 25, Chapter 29: Mortgages and Other Liens",
+   "url": "https://delcode.delaware.gov/title25/c029/index.html",
+   "versions": [
+    {
+     "from": "2026-10-01",
+     "units": 6,
+     "source_url": "https://delcode.delaware.gov/title25/c029/index.html",
+     "sha256": "58459c9e2cae2237f789dfbe216395d5cf4890f14eb4d584d3e78b83344c1c25"
+    }
+   ]
+  },
+  {
+   "slug": "title-25-chapter-031",
+   "short": "25 Del. C. ch. 31",
+   "title": "Delaware Code, Title 25, Chapter 31: Mortgages and Other Liens",
+   "url": "https://delcode.delaware.gov/title25/c031/index.html",
+   "versions": [
+    {
+     "from": "2026-10-01",
+     "units": 5,
+     "source_url": "https://delcode.delaware.gov/title25/c031/index.html",
+     "sha256": "0f2104cb64ceb4442d5e97699a2f8a8cc5d1942fd05222818416b0f349820811"
+    }
+   ]
+  },
+  {
+   "slug": "title-25-chapter-035",
+   "short": "25 Del. C. ch. 35",
+   "title": "Delaware Code, Title 25, Chapter 35: Mortgages and Other Liens",
+   "url": "https://delcode.delaware.gov/title25/c035/index.html",
+   "versions": [
+    {
+     "from": "2026-10-01",
+     "units": 3,
+     "source_url": "https://delcode.delaware.gov/title25/c035/index.html",
+     "sha256": "a5e9f720fb6e2f7b947b5dc3b2e81496cdb2c112a6b303aca8841d0c284a28d1"
+    }
+   ]
+  },
+  {
+   "slug": "title-25-chapter-037",
+   "short": "25 Del. C. ch. 37",
+   "title": "Delaware Code, Title 25, Chapter 37: Mortgages and Other Liens",
+   "url": "https://delcode.delaware.gov/title25/c037/index.html",
+   "versions": [
+    {
+     "from": "2026-10-01",
+     "units": 3,
+     "source_url": "https://delcode.delaware.gov/title25/c037/index.html",
+     "sha256": "93920b93feb669a2ad3cf2442277f2f1398a056c4df97c9a2eac7c0f4ef80258"
+    }
+   ]
+  },
+  {
+   "slug": "title-25-chapter-039",
+   "short": "25 Del. C. ch. 39",
+   "title": "Delaware Code, Title 25, Chapter 39: Mortgages and Other Liens",
+   "url": "https://delcode.delaware.gov/title25/c039/index.html",
+   "versions": [
+    {
+     "from": "2026-10-01",
+     "units": 10,
+     "source_url": "https://delcode.delaware.gov/title25/c039/index.html",
+     "sha256": "baa9fb986bcef29301587ea8c0ccfa44cfe879297e4784eeb3f507b853ce134f"
+    }
+   ]
+  },
+  {
+   "slug": "title-25-chapter-040",
+   "short": "25 Del. C. ch. 40",
+   "title": "Delaware Code, Title 25, Chapter 40: Mortgages and Other Liens",
+   "url": "https://delcode.delaware.gov/title25/c040/index.html",
+   "versions": [
+    {
+     "from": "2026-10-01",
+     "units": 8,
+     "source_url": "https://delcode.delaware.gov/title25/c040/index.html",
+     "sha256": "b27703bd0d1bff28b14ce54152f1ce722336d73bb47bbf9d351eb73920e30f90"
+    }
+   ]
+  },
+  {
+   "slug": "title-25-chapter-041",
+   "short": "25 Del. C. ch. 41",
+   "title": "Delaware Code, Title 25, Chapter 41: Mortgages and Other Liens",
+   "url": "https://delcode.delaware.gov/title25/c041/index.html",
+   "versions": [
+    {
+     "from": "2026-10-01",
+     "units": 3,
+     "source_url": "https://delcode.delaware.gov/title25/c041/index.html",
+     "sha256": "39334359adec8818fabb42e47d7eaaf6feb57462e364de1ecff68f5390dcc798"
+    }
+   ]
+  },
+  {
+   "slug": "title-25-chapter-043",
+   "short": "25 Del. C. ch. 43",
+   "title": "Delaware Code, Title 25, Chapter 43: Mortgages and Other Liens",
+   "url": "https://delcode.delaware.gov/title25/c043/index.html",
+   "versions": [
+    {
+     "from": "2026-10-01",
+     "units": 6,
+     "source_url": "https://delcode.delaware.gov/title25/c043/index.html",
+     "sha256": "e83d242e4cb5edebb290fa0d7e60b39276575abee8b72636ef417d92aad62c85"
+    }
+   ]
+  },
+  {
+   "slug": "title-25-chapter-045",
+   "short": "25 Del. C. ch. 45",
+   "title": "Delaware Code, Title 25, Chapter 45: Mortgages and Other Liens",
+   "url": "https://delcode.delaware.gov/title25/c045/index.html",
+   "versions": [
+    {
+     "from": "2026-10-01",
+     "units": 2,
+     "source_url": "https://delcode.delaware.gov/title25/c045/index.html",
+     "sha256": "d1a3cd0286a75af03f8d46e689e731fdfa1a70d9f075e52970cd71a08b3170a2"
+    }
+   ]
+  },
+  {
+   "slug": "title-25-chapter-046",
+   "short": "25 Del. C. ch. 46",
+   "title": "Delaware Code, Title 25, Chapter 46: Mortgages and Other Liens",
+   "url": "https://delcode.delaware.gov/title25/c046/index.html",
+   "versions": [
+    {
+     "from": "2026-10-01",
+     "units": 4,
+     "source_url": "https://delcode.delaware.gov/title25/c046/index.html",
+     "sha256": "b774dbe32df25f5c3d0e578709ccdc8e5d4218efed644db694d1b6205488cff7"
+    }
+   ]
+  },
+  {
+   "slug": "title-25-chapter-047",
+   "short": "25 Del. C. ch. 47",
+   "title": "Delaware Code, Title 25, Chapter 47: Mortgages and Other Liens",
+   "url": "https://delcode.delaware.gov/title25/c047/index.html",
+   "versions": [
+    {
+     "from": "2026-10-01",
+     "units": 2,
+     "source_url": "https://delcode.delaware.gov/title25/c047/index.html",
+     "sha256": "3d482415b94d2e3964fb8366ab13eef881f5b18b387ad2be94591f788bbe00be"
+    }
+   ]
+  },
+  {
+   "slug": "title-25-chapter-048",
+   "short": "25 Del. C. ch. 48",
+   "title": "Delaware Code, Title 25, Chapter 48: Mortgages and Other Liens",
+   "url": "https://delcode.delaware.gov/title25/c048/index.html",
+   "versions": [
+    {
+     "from": "2026-10-01",
+     "units": 1,
+     "source_url": "https://delcode.delaware.gov/title25/c048/index.html",
+     "sha256": "dff6b13ebc4141e55ac35b36f4e955711a41a9f5babae32ee7becfdb23556f39"
+    }
+   ]
+  },
+  {
+   "slug": "title-25-chapter-049",
+   "short": "25 Del. C. ch. 49",
+   "title": "Delaware Code, Title 25, Chapter 49: Mortgages and Other Liens",
+   "url": "https://delcode.delaware.gov/title25/c049/index.html",
+   "versions": [
+    {
+     "from": "2026-10-01",
+     "units": 6,
+     "source_url": "https://delcode.delaware.gov/title25/c049/index.html",
+     "sha256": "382146a7fabfab5d819a7839f65634263dad9a5138427eb3e01cdcc919432804"
+    }
+   ]
+  },
+  {
+   "slug": "title-25-chapter-050",
+   "short": "25 Del. C. ch. 50",
+   "title": "Delaware Code, Title 25, Chapter 50: Mortgages and Other Liens",
+   "url": "https://delcode.delaware.gov/title25/c050/index.html",
+   "versions": [
+    {
+     "from": "2026-10-01",
+     "units": 6,
+     "source_url": "https://delcode.delaware.gov/title25/c050/index.html",
+     "sha256": "3847dc792f15851e5298041ecea025a2d0b4b22ae9f95399c0258a70ca7c7200"
+    }
+   ]
+  },
+  {
+   "slug": "title-25-chapter-051",
+   "short": "25 Del. C. ch. 51",
+   "title": "Delaware Code, Title 25, Chapter 51: GENERAL PROVISIONS",
+   "url": "https://delcode.delaware.gov/title25/c051/index.html",
+   "versions": [
+    {
+     "from": "2026-10-01",
+     "units": 29,
+     "source_url": "https://delcode.delaware.gov/title25/c051/index.html",
+     "sha256": "51dbe833a1328915c7d81a88baf74d59e682bd6f2018140c871f1576c501bdd6"
+    }
+   ]
+  },
+  {
+   "slug": "title-25-chapter-053",
+   "short": "25 Del. C. ch. 53",
+   "title": "Delaware Code, Title 25, Chapter 53: Residential Landlord-Tenant Code",
+   "url": "https://delcode.delaware.gov/title25/c053/index.html",
+   "versions": [
+    {
+     "from": "2026-10-01",
+     "units": 17,
+     "source_url": "https://delcode.delaware.gov/title25/c053/index.html",
+     "sha256": "8d406215b6c229e2f4361a636b3746eac800713a1af11e40e1ae91e6e1893e23"
+    }
+   ]
+  },
+  {
+   "slug": "title-25-chapter-054",
+   "short": "25 Del. C. ch. 54",
+   "title": "Delaware Code, Title 25, Chapter 54: Residential Landlord-Tenant Code",
+   "url": "https://delcode.delaware.gov/title25/c054/index.html",
+   "versions": [
+    {
+     "from": "2026-10-01",
+     "units": 13,
+     "source_url": "https://delcode.delaware.gov/title25/c054/index.html",
+     "sha256": "d23ef96a7245ccd2bc58f0c781d7ab00e3000a6cfc1161bfef2a2ec8244091df"
+    }
+   ]
+  },
+  {
+   "slug": "title-25-chapter-055",
+   "short": "25 Del. C. ch. 55",
+   "title": "Delaware Code, Title 25, Chapter 55: Residential Landlord-Tenant Code",
+   "url": "https://delcode.delaware.gov/title25/c055/index.html",
+   "versions": [
+    {
+     "from": "2026-10-01",
+     "units": 21,
+     "source_url": "https://delcode.delaware.gov/title25/c055/index.html",
+     "sha256": "d8edbc585bdf12156c87629e21471a0e6d905ae721d5f79ec56a7b86bc3dbaf0"
+    }
+   ]
+  },
+  {
+   "slug": "title-25-chapter-056",
+   "short": "25 Del. C. ch. 56",
+   "title": "Delaware Code, Title 25, Chapter 56: Residential Landlord-Tenant Code",
+   "url": "https://delcode.delaware.gov/title25/c056/index.html",
+   "versions": [
+    {
+     "from": "2026-10-01",
+     "units": 7,
+     "source_url": "https://delcode.delaware.gov/title25/c056/index.html",
+     "sha256": "c5c00dee9cd7bf29c3f38634fc2a1a955882ddcf7cb98dcd1bd5d3b402ce4ff9"
+    }
+   ]
+  },
+  {
+   "slug": "title-25-chapter-057",
+   "short": "25 Del. C. ch. 57",
+   "title": "Delaware Code, Title 25, Chapter 57: Residential Landlord-Tenant Code",
+   "url": "https://delcode.delaware.gov/title25/c057/index.html",
+   "versions": [
+    {
+     "from": "2026-10-01",
+     "units": 25,
+     "source_url": "https://delcode.delaware.gov/title25/c057/index.html",
+     "sha256": "3d89c63c5fc19c510e062fbc4a1aee1896f898bb79ad51e552482dd7e74cf622"
+    }
+   ]
+  },
+  {
+   "slug": "title-25-chapter-059",
+   "short": "25 Del. C. ch. 59",
+   "title": "Delaware Code, Title 25, Chapter 59: Residential Landlord-Tenant Code",
+   "url": "https://delcode.delaware.gov/title25/c059/index.html",
+   "versions": [
+    {
+     "from": "2026-10-01",
+     "units": 7,
+     "source_url": "https://delcode.delaware.gov/title25/c059/index.html",
+     "sha256": "82a5ef534264120cf744d46b933406b2c4fd9957ea3aaf76dfa6c6429857fe4f"
+    }
+   ]
+  },
+  {
+   "slug": "title-25-chapter-061",
+   "short": "25 Del. C. ch. 61",
+   "title": "Delaware Code, Title 25, Chapter 61: Commercial Leases",
+   "url": "https://delcode.delaware.gov/title25/c061/index.html",
+   "versions": [
+    {
+     "from": "2026-10-01",
+     "units": 5,
+     "source_url": "https://delcode.delaware.gov/title25/c061/index.html",
+     "sha256": "125dc186d0d513c6d1d7a7e60d09d17f3bd8cdc93fcd4cbda460db3adf354645"
+    }
+   ]
+  },
+  {
+   "slug": "title-25-chapter-063",
+   "short": "25 Del. C. ch. 63",
+   "title": "Delaware Code, Title 25, Chapter 63: Commercial Leases",
+   "url": "https://delcode.delaware.gov/title25/c063/index.html",
+   "versions": [
+    {
+     "from": "2026-10-01",
+     "units": 10,
+     "source_url": "https://delcode.delaware.gov/title25/c063/index.html",
+     "sha256": "4f22cff5d0332e8cc89e4ac9082ab02923d8ac23a83881f05f2dfdceedb711a9"
+    }
+   ]
+  },
+  {
+   "slug": "title-25-chapter-065",
+   "short": "25 Del. C. ch. 65",
+   "title": "Delaware Code, Title 25, Chapter 65: Commercial Leases",
+   "url": "https://delcode.delaware.gov/title25/c065/index.html",
+   "versions": [
+    {
+     "from": "2026-10-01",
+     "units": 2,
+     "source_url": "https://delcode.delaware.gov/title25/c065/index.html",
+     "sha256": "7659bb7664e5b233a721d41afbf3f53fe9bd26ff32bf1f65ad4c2b6dccba2b61"
+    }
+   ]
+  },
+  {
+   "slug": "title-25-chapter-067",
+   "short": "25 Del. C. ch. 67",
+   "title": "Delaware Code, Title 25, Chapter 67: AGRICULTURAL LEASES",
+   "url": "https://delcode.delaware.gov/title25/c067/index.html",
+   "versions": [
+    {
+     "from": "2026-10-01",
+     "units": 22,
+     "source_url": "https://delcode.delaware.gov/title25/c067/index.html",
+     "sha256": "8fef8ca5345f2310f7b5280b46aa2d3e0e2fa5bc732da33313f30023633d0de9"
+    }
+   ]
+  },
+  {
+   "slug": "title-25-chapter-070",
+   "short": "25 Del. C. ch. 70",
+   "title": "Delaware Code, Title 25, Chapter 70: Manufactured Homes and Manufactured Home Communities Act",
+   "url": "https://delcode.delaware.gov/title25/c070/index.html",
+   "versions": [
+    {
+     "from": "2026-10-01",
+     "units": 65,
+     "source_url": "https://delcode.delaware.gov/title25/c070/index.html",
+     "sha256": "9cab2657484c45f9903c082df0273331b67087bd8e3aae0aa56477071e0575a3"
+    }
+   ]
+  },
+  {
+   "slug": "title-25-chapter-071",
+   "short": "25 Del. C. ch. 71",
+   "title": "Delaware Code, Title 25, Chapter 71: Manufactured Home Communities",
+   "url": "https://delcode.delaware.gov/title25/c071/index.html",
+   "versions": [
+    {
+     "from": "2026-10-01",
+     "units": 14,
+     "source_url": "https://delcode.delaware.gov/title25/c071/index.html",
+     "sha256": "253c3fe1eaf37412d264a46d810d4edaffe6d9b7d5e33df0c1da3753ef3b4d79"
+    }
+   ]
+  },
+  {
+   "slug": "title-25-chapter-081",
+   "short": "25 Del. C. ch. 81",
+   "title": "Delaware Code, Title 25, Chapter 81: DELAWARE UNIFORM COMMON INTEREST OWNERSHIP ACT",
+   "url": "https://delcode.delaware.gov/title25/c081/index.html",
+   "versions": [
+    {
+     "from": "2026-10-01",
+     "units": 100,
+     "source_url": "https://delcode.delaware.gov/title25/c081/index.html",
+     "sha256": "0f9a6b3e62f458852c9a9647855061b67208dd186762dd07f31c239bfd7c5373"
+    }
+   ]
+  },
+  {
+   "slug": "title-08-chapter-001",
+   "short": "8 Del. C. ch. 1",
+   "title": "Delaware Code, Title 8, Chapter 1: GENERAL CORPORATION LAW",
+   "url": "https://delcode.delaware.gov/title8/c001/index.html",
+   "versions": [
+    {
+     "from": "2026-10-01",
+     "units": 204,
+     "source_url": "https://delcode.delaware.gov/title8/c001/index.html",
+     "sha256": "b5ccfd1cf042b4f3607a9949f187ffff8c95126faa2b764fd39716fc3801b8c0"
+    }
+   ]
+  },
+  {
+   "slug": "title-08-chapter-005",
+   "short": "8 Del. C. ch. 5",
+   "title": "Delaware Code, Title 8, Chapter 5",
+   "url": "https://delcode.delaware.gov/title8/c005/index.html",
+   "versions": [
+    {
+     "from": "2026-10-01",
+     "units": 18,
+     "source_url": "https://delcode.delaware.gov/title8/c005/index.html",
+     "sha256": "cb956c4673a360fd673a04128023aa729de2b6bd4a5a4a0e577f831bbd3c8d22"
+    }
+   ]
+  },
+  {
+   "slug": "title-08-chapter-006",
+   "short": "8 Del. C. ch. 6",
+   "title": "Delaware Code, Title 8, Chapter 6",
+   "url": "https://delcode.delaware.gov/title8/c006/index.html",
+   "versions": [
+    {
+     "from": "2026-10-01",
+     "units": 19,
+     "source_url": "https://delcode.delaware.gov/title8/c006/index.html",
+     "sha256": "428c61b9305978d8f075cbd5535bb9eb9f667284d330ea4d04e02a17244f7043"
+    }
+   ]
+  }
+ ]
+}

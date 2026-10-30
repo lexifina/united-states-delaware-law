@@ -1,0 +1,8 @@
+{
+  "path": "us/de",
+  "code": "US-DE",
+  "name": "United States (Delaware)",
+  "level": "state",
+  "repo": "https://github.com/lexifina/united-states-delaware-law",
+  "build": "built"
+}
