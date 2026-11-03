@@ -128,7 +128,7 @@ def main():
                                          'source': SITE},
                'licence_note': 'Statute text is not copyrightable (Georgia v. Public.Resource.Org, 2020). Source: The Delaware Code Online, Delaware General Assembly.'}
     sources = [{'name': 'The Delaware Code Online', 'url': SITE, 'retrieved': RETRIEVED,
-                'licence': 'Statute text carries no copyright (Georgia v. Public.Resource.Org, 2020). The site publishes the Code as the General Assembly\'s official text with a no-warranty disclaimer and no reuse restriction; it has no robots.txt.',
+                'licence': 'Statute text carries no copyright (Georgia v. Public.Resource.Org, 2020). The site publishes the Code as the General Assembly\'s official text with a no-warranty disclaimer and no reuse restriction.',
                 'notes': 'Titles 8, 11 and 25 and the Constitution of 1897 as amended through July 1, 2025.'}]
     decisions = [
         'Each act is a single "oldest version available": the Delaware Code Online publishes only the current text, with no dated history.',

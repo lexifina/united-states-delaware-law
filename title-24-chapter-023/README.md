@@ -1,0 +1,23 @@
+# Delaware Code, Title 24, Chapter 23: PAWNBROKERS, SECONDHAND DEALERS AND SCRAP METAL PROCESSORS
+
+24 Del. C. ch. 23 · 1 versions, from 2026-10-01 (latest in force: 2026-10-01) · <https://delcode.delaware.gov/title24/c023/index.html>
+
+| Provision | File | Changes | Last changed |
+| --- | --- | ---: | --- |
+| § 2301 | [sec-2301.md](sec-2301.md) | 0 |  |
+| § 2302 | [sec-2302.md](sec-2302.md) | 0 |  |
+| § 2303 | [sec-2303.md](sec-2303.md) | 0 |  |
+| § 2304 | [sec-2304.md](sec-2304.md) | 0 |  |
+| § 2305 | [sec-2305.md](sec-2305.md) | 0 |  |
+| § 2306 | [sec-2306.md](sec-2306.md) | 0 |  |
+| § 2307 | [sec-2307.md](sec-2307.md) | 0 |  |
+| § 2308 | [sec-2308.md](sec-2308.md) | 0 |  |
+| § 2309 | [sec-2309.md](sec-2309.md) | 0 |  |
+| § 2310 | [sec-2310.md](sec-2310.md) | 0 |  |
+| § 2311 | [sec-2311.md](sec-2311.md) | 0 |  |
+| § 2312 | [sec-2312.md](sec-2312.md) | 0 |  |
+| § 2313 | [sec-2313.md](sec-2313.md) | 0 |  |
+| § 2314 | [sec-2314.md](sec-2314.md) | 0 |  |
+| § 2315 | [sec-2315.md](sec-2315.md) | 0 |  |
+| § 2316 | [sec-2316.md](sec-2316.md) | 0 |  |
+| § 2317 | [sec-2317.md](sec-2317.md) | 0 |  |

@@ -1,0 +1,63 @@
+# Delaware Code, Title 29, Chapter 59: MERIT SYSTEM OF PERSONNEL ADMINISTRATION
+
+29 Del. C. ch. 59 · 1 versions, from 2026-10-01 (latest in force: 2026-10-01) · <https://delcode.delaware.gov/title29/c059/index.html>
+
+| Provision | File | Changes | Last changed |
+| --- | --- | ---: | --- |
+| § 5901 | [sec-5901.md](sec-5901.md) | 0 |  |
+| § 5902 | [sec-5902.md](sec-5902.md) | 0 |  |
+| § 5903 | [sec-5903.md](sec-5903.md) | 0 |  |
+| § 5904 | [sec-5904.md](sec-5904.md) | 0 |  |
+| § 5904A | [sec-5904a.md](sec-5904a.md) | 0 |  |
+| § 5905 | [sec-5905.md](sec-5905.md) | 0 |  |
+| § 5906 | [sec-5906.md](sec-5906.md) | 0 |  |
+| § 5907 | [sec-5907.md](sec-5907.md) | 0 |  |
+| § 5908 | [sec-5908.md](sec-5908.md) | 0 |  |
+| § 5909 | [sec-5909.md](sec-5909.md) | 0 |  |
+| § 5910 | [sec-5910.md](sec-5910.md) | 0 |  |
+| § 5911 | [sec-5911.md](sec-5911.md) | 0 |  |
+| § 5912 | [sec-5912.md](sec-5912.md) | 0 |  |
+| § 5914 | [sec-5914.md](sec-5914.md) | 0 |  |
+| § 5915 | [sec-5915.md](sec-5915.md) | 0 |  |
+| § 5916 | [sec-5916.md](sec-5916.md) | 0 |  |
+| § 5917 | [sec-5917.md](sec-5917.md) | 0 |  |
+| § 5918 | [sec-5918.md](sec-5918.md) | 0 |  |
+| § 5919 | [sec-5919.md](sec-5919.md) | 0 |  |
+| § 5920 | [sec-5920.md](sec-5920.md) | 0 |  |
+| § 5921 | [sec-5921.md](sec-5921.md) | 0 |  |
+| § 5922 | [sec-5922.md](sec-5922.md) | 0 |  |
+| § 5923 | [sec-5923.md](sec-5923.md) | 0 |  |
+| § 5924 | [sec-5924.md](sec-5924.md) | 0 |  |
+| § 5925 | [sec-5925.md](sec-5925.md) | 0 |  |
+| § 5926 | [sec-5926.md](sec-5926.md) | 0 |  |
+| § 5927 | [sec-5927.md](sec-5927.md) | 0 |  |
+| § 5928 | [sec-5928.md](sec-5928.md) | 0 |  |
+| § 5929 | [sec-5929.md](sec-5929.md) | 0 |  |
+| § 5930 | [sec-5930.md](sec-5930.md) | 0 |  |
+| § 5931 | [sec-5931.md](sec-5931.md) | 0 |  |
+| § 5932 | [sec-5932.md](sec-5932.md) | 0 |  |
+| § 5933 | [sec-5933.md](sec-5933.md) | 0 |  |
+| § 5934 | [sec-5934.md](sec-5934.md) | 0 |  |
+| § 5935 | [sec-5935.md](sec-5935.md) | 0 |  |
+| § 5936 | [sec-5936.md](sec-5936.md) | 0 |  |
+| § 5937 | [sec-5937.md](sec-5937.md) | 0 |  |
+| § 5938 | [sec-5938.md](sec-5938.md) | 0 |  |
+| § 5939 | [sec-5939.md](sec-5939.md) | 0 |  |
+| § 5940 | [sec-5940.md](sec-5940.md) | 0 |  |
+| § 5941 | [sec-5941.md](sec-5941.md) | 0 |  |
+| § 5941A | [sec-5941a.md](sec-5941a.md) | 0 |  |
+| § 5942 | [sec-5942.md](sec-5942.md) | 0 |  |
+| § 5943 | [sec-5943.md](sec-5943.md) | 0 |  |
+| § 5944 | [sec-5944.md](sec-5944.md) | 0 |  |
+| § 5945 | [sec-5945.md](sec-5945.md) | 0 |  |
+| § 5946 | [sec-5946.md](sec-5946.md) | 0 |  |
+| § 5947 | [sec-5947.md](sec-5947.md) | 0 |  |
+| § 5948 | [sec-5948.md](sec-5948.md) | 0 |  |
+| § 5949 | [sec-5949.md](sec-5949.md) | 0 |  |
+| § 5950 | [sec-5950.md](sec-5950.md) | 0 |  |
+| § 5951 | [sec-5951.md](sec-5951.md) | 0 |  |
+| § 5952 | [sec-5952.md](sec-5952.md) | 0 |  |
+| § 5953 | [sec-5953.md](sec-5953.md) | 0 |  |
+| § 5954 | [sec-5954.md](sec-5954.md) | 0 |  |
+| § 5955 | [sec-5955.md](sec-5955.md) | 0 |  |
+| § 5956 | [sec-5956.md](sec-5956.md) | 0 |  |

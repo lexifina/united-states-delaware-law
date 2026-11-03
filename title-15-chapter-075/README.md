@@ -1,0 +1,51 @@
+# Delaware Code, Title 15, Chapter 75: MUNICIPAL ELECTIONS
+
+15 Del. C. ch. 75 · 1 versions, from 2026-10-01 (latest in force: 2026-10-01) · <https://delcode.delaware.gov/title15/c075/index.html>
+
+| Provision | File | Changes | Last changed |
+| --- | --- | ---: | --- |
+| § 7501 | [sec-7501.md](sec-7501.md) | 0 |  |
+| § 7502 | [sec-7502.md](sec-7502.md) | 0 |  |
+| § 7521 | [sec-7521.md](sec-7521.md) | 0 |  |
+| § 7522 | [sec-7522.md](sec-7522.md) | 0 |  |
+| § 7523 | [sec-7523.md](sec-7523.md) | 0 |  |
+| § 7524 | [sec-7524.md](sec-7524.md) | 0 |  |
+| § 7525 | [sec-7525.md](sec-7525.md) | 0 |  |
+| § 7526 | [sec-7526.md](sec-7526.md) | 0 |  |
+| § 7527 | [sec-7527.md](sec-7527.md) | 0 |  |
+| § 7528 | [sec-7528.md](sec-7528.md) | 0 |  |
+| § 7540 | [sec-7540.md](sec-7540.md) | 0 |  |
+| § 7541 | [sec-7541.md](sec-7541.md) | 0 |  |
+| § 7542 | [sec-7542.md](sec-7542.md) | 0 |  |
+| § 7543 | [sec-7543.md](sec-7543.md) | 0 |  |
+| § 7544 | [sec-7544.md](sec-7544.md) | 0 |  |
+| § 7545 | [sec-7545.md](sec-7545.md) | 0 |  |
+| § 7546 | [sec-7546.md](sec-7546.md) | 0 |  |
+| § 7550 | [sec-7550.md](sec-7550.md) | 0 |  |
+| § 7551 | [sec-7551.md](sec-7551.md) | 0 |  |
+| § 7552 | [sec-7552.md](sec-7552.md) | 0 |  |
+| § 7553 | [sec-7553.md](sec-7553.md) | 0 |  |
+| § 7554 | [sec-7554.md](sec-7554.md) | 0 |  |
+| § 7555 | [sec-7555.md](sec-7555.md) | 0 |  |
+| § 7556 | [sec-7556.md](sec-7556.md) | 0 |  |
+| § 7557 | [sec-7557.md](sec-7557.md) | 0 |  |
+| § 7557A | [sec-7557a.md](sec-7557a.md) | 0 |  |
+| § 7558 | [sec-7558.md](sec-7558.md) | 0 |  |
+| § 7559 | [sec-7559.md](sec-7559.md) | 0 |  |
+| § 7560 | [sec-7560.md](sec-7560.md) | 0 |  |
+| § 7570 | [sec-7570.md](sec-7570.md) | 0 |  |
+| § 7571 | [sec-7571.md](sec-7571.md) | 0 |  |
+| § 7572 | [sec-7572.md](sec-7572.md) | 0 |  |
+| § 7573 | [sec-7573.md](sec-7573.md) | 0 |  |
+| § 7574 | [sec-7574.md](sec-7574.md) | 0 |  |
+| § 7575 | [sec-7575.md](sec-7575.md) | 0 |  |
+| § 7576 | [sec-7576.md](sec-7576.md) | 0 |  |
+| § 7577 | [sec-7577.md](sec-7577.md) | 0 |  |
+| § 7578 | [sec-7578.md](sec-7578.md) | 0 |  |
+| § 7579 | [sec-7579.md](sec-7579.md) | 0 |  |
+| § 7580 | [sec-7580.md](sec-7580.md) | 0 |  |
+| § 7581 | [sec-7581.md](sec-7581.md) | 0 |  |
+| § 7582 | [sec-7582.md](sec-7582.md) | 0 |  |
+| § 7583 | [sec-7583.md](sec-7583.md) | 0 |  |
+| § 7584 | [sec-7584.md](sec-7584.md) | 0 |  |
+| § 7585 | [sec-7585.md](sec-7585.md) | 0 |  |

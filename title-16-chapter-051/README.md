@@ -1,0 +1,65 @@
+# Delaware Code, Title 16, Chapter 51: THE DEPARTMENT OF HEALTH AND SOCIAL SERVICES
+
+16 Del. C. ch. 51 · 1 versions, from 2026-10-01 (latest in force: 2026-10-01) · <https://delcode.delaware.gov/title16/c051/index.html>
+
+| Provision | File | Changes | Last changed |
+| --- | --- | ---: | --- |
+| § 5101 | [sec-5101.md](sec-5101.md) | 0 |  |
+| § 5102 | [sec-5102.md](sec-5102.md) | 0 |  |
+| § 5103 | [sec-5103.md](sec-5103.md) | 0 |  |
+| § 5104 | [sec-5104.md](sec-5104.md) | 0 |  |
+| § 5105 | [sec-5105.md](sec-5105.md) | 0 |  |
+| § 5106 | [sec-5106.md](sec-5106.md) | 0 |  |
+| § 5107 | [sec-5107.md](sec-5107.md) | 0 |  |
+| § 5108 | [sec-5108.md](sec-5108.md) | 0 |  |
+| § 5109 | [sec-5109.md](sec-5109.md) | 0 |  |
+| § 5121 | [sec-5121.md](sec-5121.md) | 0 |  |
+| § 5121A | [sec-5121a.md](sec-5121a.md) | 0 |  |
+| § 5122 | [sec-5122.md](sec-5122.md) | 0 |  |
+| § 5123 | [sec-5123.md](sec-5123.md) | 0 |  |
+| § 5124-5126 | [sec-5124-5126.md](sec-5124-5126.md) | 0 |  |
+| § 5127 | [sec-5127.md](sec-5127.md) | 0 |  |
+| § 5128 | [sec-5128.md](sec-5128.md) | 0 |  |
+| § 5129 | [sec-5129.md](sec-5129.md) | 0 |  |
+| § 5130 | [sec-5130.md](sec-5130.md) | 0 |  |
+| § 5131 | [sec-5131.md](sec-5131.md) | 0 |  |
+| § 5132 | [sec-5132.md](sec-5132.md) | 0 |  |
+| § 5133 | [sec-5133.md](sec-5133.md) | 0 |  |
+| § 5134 | [sec-5134.md](sec-5134.md) | 0 |  |
+| § 5135 | [sec-5135.md](sec-5135.md) | 0 |  |
+| § 5136 | [sec-5136.md](sec-5136.md) | 0 |  |
+| § 5137 | [sec-5137.md](sec-5137.md) | 0 |  |
+| § 5138 | [sec-5138.md](sec-5138.md) | 0 |  |
+| § 5139 | [sec-5139.md](sec-5139.md) | 0 |  |
+| § 5141 | [sec-5141.md](sec-5141.md) | 0 |  |
+| § 5142 | [sec-5142.md](sec-5142.md) | 0 |  |
+| § 5151 | [sec-5151.md](sec-5151.md) | 0 |  |
+| § 5152 | [sec-5152.md](sec-5152.md) | 0 |  |
+| § 5153 | [sec-5153.md](sec-5153.md) | 0 |  |
+| § 5154 | [sec-5154.md](sec-5154.md) | 0 |  |
+| § 5161 | [sec-5161.md](sec-5161.md) | 0 |  |
+| § 5162 | [sec-5162.md](sec-5162.md) | 0 |  |
+| § 5163 | [sec-5163.md](sec-5163.md) | 0 |  |
+| § 5171 | [sec-5171.md](sec-5171.md) | 0 |  |
+| § 5172 | [sec-5172.md](sec-5172.md) | 0 |  |
+| § 5173 | [sec-5173.md](sec-5173.md) | 0 |  |
+| § 5174 | [sec-5174.md](sec-5174.md) | 0 |  |
+| § 5175 | [sec-5175.md](sec-5175.md) | 0 |  |
+| § 5176 | [sec-5176.md](sec-5176.md) | 0 |  |
+| § 5181 | [sec-5181.md](sec-5181.md) | 0 |  |
+| § 5182 | [sec-5182.md](sec-5182.md) | 0 |  |
+| § 5183 | [sec-5183.md](sec-5183.md) | 0 |  |
+| § 5184 | [sec-5184.md](sec-5184.md) | 0 |  |
+| § 5185 | [sec-5185.md](sec-5185.md) | 0 |  |
+| § 5186 | [sec-5186.md](sec-5186.md) | 0 |  |
+| § 5191 | [sec-5191.md](sec-5191.md) | 0 |  |
+| § 5192 | [sec-5192.md](sec-5192.md) | 0 |  |
+| § 5193 | [sec-5193.md](sec-5193.md) | 0 |  |
+| § 5194 | [sec-5194.md](sec-5194.md) | 0 |  |
+| § 5195 | [sec-5195.md](sec-5195.md) | 0 |  |
+| § 5195A | [sec-5195a.md](sec-5195a.md) | 0 |  |
+| § 5196 | [sec-5196.md](sec-5196.md) | 0 |  |
+| § 5196A | [sec-5196a.md](sec-5196a.md) | 0 |  |
+| § 5196B | [sec-5196b.md](sec-5196b.md) | 0 |  |
+| § 5197 | [sec-5197.md](sec-5197.md) | 0 |  |
+| § 5198 | [sec-5198.md](sec-5198.md) | 0 |  |

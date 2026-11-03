@@ -1,0 +1,50 @@
+# Delaware Code, Title 15, Chapter 51: CRIMINAL OFFENSES
+
+15 Del. C. ch. 51 · 1 versions, from 2026-10-01 (latest in force: 2026-10-01) · <https://delcode.delaware.gov/title15/c051/index.html>
+
+| Provision | File | Changes | Last changed |
+| --- | --- | ---: | --- |
+| § 5101 | [sec-5101.md](sec-5101.md) | 0 |  |
+| § 5102 | [sec-5102.md](sec-5102.md) | 0 |  |
+| § 5103 | [sec-5103.md](sec-5103.md) | 0 |  |
+| § 5104 | [sec-5104.md](sec-5104.md) | 0 |  |
+| § 5105 | [sec-5105.md](sec-5105.md) | 0 |  |
+| § 5111 | [sec-5111.md](sec-5111.md) | 0 |  |
+| § 5112 | [sec-5112.md](sec-5112.md) | 0 |  |
+| § 5113 | [sec-5113.md](sec-5113.md) | 0 |  |
+| § 5114 | [sec-5114.md](sec-5114.md) | 0 |  |
+| § 5115 | [sec-5115.md](sec-5115.md) | 0 |  |
+| § 5116 | [sec-5116.md](sec-5116.md) | 0 |  |
+| § 5117 | [sec-5117.md](sec-5117.md) | 0 |  |
+| § 5118 | [sec-5118.md](sec-5118.md) | 0 |  |
+| § 5119 | [sec-5119.md](sec-5119.md) | 0 |  |
+| § 5120 | [sec-5120.md](sec-5120.md) | 0 |  |
+| § 5121 | [sec-5121.md](sec-5121.md) | 0 |  |
+| § 5122 | [sec-5122.md](sec-5122.md) | 0 |  |
+| § 5123 | [sec-5123.md](sec-5123.md) | 0 |  |
+| § 5124 | [sec-5124.md](sec-5124.md) | 0 |  |
+| § 5125 | [sec-5125.md](sec-5125.md) | 0 |  |
+| § 5126 | [sec-5126.md](sec-5126.md) | 0 |  |
+| § 5127 | [sec-5127.md](sec-5127.md) | 0 |  |
+| § 5128 | [sec-5128.md](sec-5128.md) | 0 |  |
+| § 5129 | [sec-5129.md](sec-5129.md) | 0 |  |
+| § 5130 | [sec-5130.md](sec-5130.md) | 0 |  |
+| § 5131 | [sec-5131.md](sec-5131.md) | 0 |  |
+| § 5132 | [sec-5132.md](sec-5132.md) | 0 |  |
+| § 5133 | [sec-5133.md](sec-5133.md) | 0 |  |
+| § 5134 | [sec-5134.md](sec-5134.md) | 0 |  |
+| § 5135 | [sec-5135.md](sec-5135.md) | 0 |  |
+| § 5136 | [sec-5136.md](sec-5136.md) | 0 |  |
+| § 5137 | [sec-5137.md](sec-5137.md) | 0 |  |
+| § 5138 | [sec-5138.md](sec-5138.md) | 0 |  |
+| § 5139 | [sec-5139.md](sec-5139.md) | 0 |  |
+| § 5140 | [sec-5140.md](sec-5140.md) | 0 |  |
+| § 5141 | [sec-5141.md](sec-5141.md) | 0 |  |
+| § 5142 | [sec-5142.md](sec-5142.md) | 0 |  |
+| § 5143 | [sec-5143.md](sec-5143.md) | 0 |  |
+| § 5144 | [sec-5144.md](sec-5144.md) | 0 |  |
+| § 5145 | [sec-5145.md](sec-5145.md) | 0 |  |
+| § 5161 | [sec-5161.md](sec-5161.md) | 0 |  |
+| § 5162 | [sec-5162.md](sec-5162.md) | 0 |  |
+| § 5163 | [sec-5163.md](sec-5163.md) | 0 |  |
+| § 5164 | [sec-5164.md](sec-5164.md) | 0 |  |

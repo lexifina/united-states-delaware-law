@@ -1,0 +1,8 @@
+# Delaware Code, Title 29, Chapter 70: Budget, Fiscal, Procurement and Contracting Regulations
+
+29 Del. C. ch. 70 · 1 versions, from 2026-10-01 (latest in force: 2026-10-01) · <https://delcode.delaware.gov/title29/c070/index.html>
+
+| Provision | File | Changes | Last changed |
+| --- | --- | ---: | --- |
+| § 7001 | [sec-7001.md](sec-7001.md) | 0 |  |
+| § 7002 | [sec-7002.md](sec-7002.md) | 0 |  |

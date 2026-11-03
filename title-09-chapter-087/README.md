@@ -1,0 +1,60 @@
+# Delaware Code, Title 9, Chapter 87: COLLECTION OF DELINQUENT TAXES
+
+9 Del. C. ch. 87 · 1 versions, from 2026-10-01 (latest in force: 2026-10-01) · <https://delcode.delaware.gov/title9/c087/index.html>
+
+| Provision | File | Changes | Last changed |
+| --- | --- | ---: | --- |
+| § 8701 | [sec-8701.md](sec-8701.md) | 0 |  |
+| § 8702 | [sec-8702.md](sec-8702.md) | 0 |  |
+| § 8703 | [sec-8703.md](sec-8703.md) | 0 |  |
+| § 8704 | [sec-8704.md](sec-8704.md) | 0 |  |
+| § 8705 | [sec-8705.md](sec-8705.md) | 0 |  |
+| § 8706 | [sec-8706.md](sec-8706.md) | 0 |  |
+| § 8707 | [sec-8707.md](sec-8707.md) | 0 |  |
+| § 8708 | [sec-8708.md](sec-8708.md) | 0 |  |
+| § 8709 | [sec-8709.md](sec-8709.md) | 0 |  |
+| § 8710 | [sec-8710.md](sec-8710.md) | 0 |  |
+| § 8711 | [sec-8711.md](sec-8711.md) | 0 |  |
+| § 8721 | [sec-8721.md](sec-8721.md) | 0 |  |
+| § 8722 | [sec-8722.md](sec-8722.md) | 0 |  |
+| § 8723 | [sec-8723.md](sec-8723.md) | 0 |  |
+| § 8724 | [sec-8724.md](sec-8724.md) | 0 |  |
+| § 8725 | [sec-8725.md](sec-8725.md) | 0 |  |
+| § 8726 | [sec-8726.md](sec-8726.md) | 0 |  |
+| § 8727 | [sec-8727.md](sec-8727.md) | 0 |  |
+| § 8728 | [sec-8728.md](sec-8728.md) | 0 |  |
+| § 8729 | [sec-8729.md](sec-8729.md) | 0 |  |
+| § 8730 | [sec-8730.md](sec-8730.md) | 0 |  |
+| § 8731 | [sec-8731.md](sec-8731.md) | 0 |  |
+| § 8732 | [sec-8732.md](sec-8732.md) | 0 |  |
+| § 8733 | [sec-8733.md](sec-8733.md) | 0 |  |
+| § 8741 | [sec-8741.md](sec-8741.md) | 0 |  |
+| § 8742 | [sec-8742.md](sec-8742.md) | 0 |  |
+| § 8743 | [sec-8743.md](sec-8743.md) | 0 |  |
+| § 8744 | [sec-8744.md](sec-8744.md) | 0 |  |
+| § 8745 | [sec-8745.md](sec-8745.md) | 0 |  |
+| § 8746 | [sec-8746.md](sec-8746.md) | 0 |  |
+| § 8747 | [sec-8747.md](sec-8747.md) | 0 |  |
+| § 8748 | [sec-8748.md](sec-8748.md) | 0 |  |
+| § 8749 | [sec-8749.md](sec-8749.md) | 0 |  |
+| § 8750 | [sec-8750.md](sec-8750.md) | 0 |  |
+| § 8751 | [sec-8751.md](sec-8751.md) | 0 |  |
+| § 8752 | [sec-8752.md](sec-8752.md) | 0 |  |
+| § 8753 | [sec-8753.md](sec-8753.md) | 0 |  |
+| § 8754 | [sec-8754.md](sec-8754.md) | 0 |  |
+| § 8755 | [sec-8755.md](sec-8755.md) | 0 |  |
+| § 8756 | [sec-8756.md](sec-8756.md) | 0 |  |
+| § 8757 | [sec-8757.md](sec-8757.md) | 0 |  |
+| § 8758 | [sec-8758.md](sec-8758.md) | 0 |  |
+| § 8759 | [sec-8759.md](sec-8759.md) | 0 |  |
+| § 8760 | [sec-8760.md](sec-8760.md) | 0 |  |
+| § 8761 | [sec-8761.md](sec-8761.md) | 0 |  |
+| § 8771 | [sec-8771.md](sec-8771.md) | 0 |  |
+| § 8772 | [sec-8772.md](sec-8772.md) | 0 |  |
+| § 8773 | [sec-8773.md](sec-8773.md) | 0 |  |
+| § 8774 | [sec-8774.md](sec-8774.md) | 0 |  |
+| § 8775 | [sec-8775.md](sec-8775.md) | 0 |  |
+| § 8776 | [sec-8776.md](sec-8776.md) | 0 |  |
+| § 8777 | [sec-8777.md](sec-8777.md) | 0 |  |
+| § 8778 | [sec-8778.md](sec-8778.md) | 0 |  |
+| § 8779 | [sec-8779.md](sec-8779.md) | 0 |  |
