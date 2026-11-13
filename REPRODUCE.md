@@ -1,12 +1,13 @@
 # How this repository was made (United States (Delaware))
 
-This file is written by the build on 2026-11-03, the day the source data was retrieved.
+This file is written by the build on 2026-11-13, the day the source data was retrieved.
 
 ## Sources
 
 | Source | Address | Retrieved | Licence |
 | --- | --- | --- | --- |
 | The Delaware Code Online | <https://delcode.delaware.gov/> | 2026-10-30 | Statute text carries no copyright (Georgia v. Public.Resource.Org, 2020). The site publishes the Code as the General Assembly's official text with a no-warranty disclaimer and no reuse restriction. |
+| The Delaware Code Online | <https://delcode.delaware.gov/> | 2026-11-03 | Statute text carries no copyright (Georgia v. Public.Resource.Org, 2020). The site publishes the Code as the General Assembly's official text with a no-warranty disclaimer and no reuse restriction. |
 
 Every word of law in this repository comes from these sources. Lexifina reads them and records each act's dated versions, and the laws that made each change, in one corpus file. This repository is built from that file.
 
@@ -1334,20 +1335,27 @@ Every word of law in this repository comes from these sources. Lexifina reads th
 | `title-31-chapter-040` | Delaware Code, Title 31, Chapter 40: THE DELAWARE STATE HOUSING AUTHORITY | 1 | 2026-10-01 to 2026-10-01 |
 | `title-31-chapter-041` | Delaware Code, Title 31, Chapter 41: DELAWARE STATE HOUSING CODE | 1 | 2026-10-01 to 2026-10-01 |
 | `title-31-chapter-052` | Delaware Code, Title 31, Chapter 52: INTERSTATE COMPACT ON JUVENILES | 1 | 2026-10-01 to 2026-10-01 |
+| `title-11-chapter-084a` | Delaware Code, Title 11, CHAPTER 84A. Body-Worn Cameras for Law-Enforcement Officers | 1 | 2026-10-01 to 2026-10-01 |
+| `title-11-chapter-084b` | Delaware Code, Title 11, CHAPTER 84B. Prohibited Police Practices | 1 | 2026-10-01 to 2026-10-01 |
+| `title-11-chapter-087a` | Delaware Code, Title 11, CHAPTER 87A. Reporting and Review of Deaths of Individuals in Custody of Law Enforcement Agencies | 1 | 2026-10-01 to 2026-10-01 |
+| `title-11-chapter-089a` | Delaware Code, Title 11, CHAPTER 89A. The Delaware Sentencing Guidelines and Accountability Commission | 1 | 2026-10-01 to 2026-10-01 |
+| `title-11-chapter-089b` | Delaware Code, Title 11, CHAPTER 89B. Call Location Information | 1 | 2026-10-01 to 2026-10-01 |
 
-The build made 1320 commits:
+The build made 1325 commits:
 
 | Commits | Kind |
 | ---: | --- |
-| 1320 | first version of an act |
-| 0 | one law on its in-force day |
+| 1325 | baseline texts where the record starts |
+| 0 | named laws, court decisions and treaties |
 | 0 | changes no amendment note explains, credited to the publisher |
+| 0 | corrections to the existing record |
+| 0 | printing or layout changes |
 
 Other counts:
-- 0 commits on the branch `future`: laws not yet in force on 2026-11-03.
+- 0 commits on the branch `future`: laws not yet in force on 2026-11-13.
 - 0 commits dated 1 January 1970: in force before 1970, with the real day in their `In-force` trailer.
 - 0 laws in the record.
-- 1320 tags.
+- 1325 tags.
 
 ## Dates
 
@@ -1359,8 +1367,8 @@ When a law gives no date of its own, the default rule applies: No dated history 
 
 `tools/build.py` turns the corpus into this history in one pass: one commit per law, on the day it took effect. The same corpus always gives the same commit hashes. `tools/check_repo.py` reads every version back from git and compares it with the corpus. `tools/on.py` shows the law as it stood on any date. The corpus format is described in `tools/SCHEMA.md`.
 
-- Corpus: sha256 `4c1e0f02f96bbaafc15e9ec487ef5a98887ddd234873b3fe0b0f4097e94257d5` (44772039 bytes).
-- Builder blob hashes (`git hash-object`): `build.py` `a4faa25af85facb64b956b372f6b528aafdd7ec1`, `check.py` `3d00541d258745461ab52b1b0cb4e1716a27a95d`, `on.py` `644a6c0857fbcc72562032b58d57aa113fee0641`.
+- Corpus: sha256 `ff6672257c9a1b4f78d0b68fe99e38513302ff61a15795a4f9815f5119d2b26b` (44809592 bytes).
+- Builder blob hashes (`git hash-object`): `build.py` `63170edd89e92292ac248dae17d79e486e4e9f19`, `check.py` `e340718c28cd5b0edbe37bdeab1aac31427ada66`, `on.py` `4a8aa1c9a5e6bd8cc831b90a6e68c5a6f448a13c`.
 - Python 3.12.10; git version 2.46.0.windows.1.
 
 ## Checks
@@ -1377,10 +1385,11 @@ No second build of this corpus has been compared yet.
 - The line after each section that cites the Delaware Code and the session laws (for example "58 Del. Laws, c. 497, § 1") is kept as the last line of the section; it is the Code's own source note, not an annotation.
 - Sections the Code prints as ranges ("608-610") or lists ("623, 624") stay one unit under the range.
 - Wave 3 (2026-11-03): every other title of the Code was added, one act per chapter, by the same rules and the same date (the site's currency notice still read "as of October 01, 2026, up to and including 85 Del. Laws, c. 550" on 2026-11-03). Reserved or repealed chapters with no section text are left out.
+- Additional Title 11 chapters are current consolidated text, first_law null, dated by the official Code currency statement of October 1, 2026. The printed section source citations are retained; no historical wording or amendment attribution is inferred.
 
 ## What AI did and did not do
 
-The scripts that read the sources and build this repository were written by Claude Code running Claude Opus 5.5 (`claude-opus-5-5`) under Lexifina's direction.
+The source readers and builders were developed under Lexifina's direction with coding assistants, including Claude Code and Codex.
 
 No model wrote, translated or corrected legal text. No model runs at build time. Every word of law in this repository comes from the official sources above.
 
@@ -1388,3 +1397,4 @@ The commit messages are written by `build.py` from the source data.
 
 Model use at data-build time:
 - none
+- A model wrote extraction and verification code; all law text and punctuation come from the official HTML.
