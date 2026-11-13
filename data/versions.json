@@ -1,0 +1,73 @@
+{
+ "country": "US-DE",
+ "acts": [
+  {
+   "slug": "session-law-085-chapter-044",
+   "short": "85 Del. Laws, c. 44",
+   "title": "AN ACT TO AMEND TITLE 26 OF THE DELAWARE CODE RELATING TO PUBLIC UTILITIES.",
+   "url": "https://legis.delaware.gov/SessionLaws/Chapter?id=42206",
+   "versions": [
+    {
+     "from": "2025-06-30",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": "2025-06-30",
+     "units": 1,
+     "source_url": "https://legis.delaware.gov/SessionLaws/Chapter?id=42206",
+     "sha256": "e96d04c8300fd07f961a5ef7a225c19cb5a311da916ebc57ee92f6fa6309af72"
+    }
+   ]
+  },
+  {
+   "slug": "session-law-085-chapter-050",
+   "short": "85 Del. Laws, c. 50",
+   "title": "AN ACT TO AMEND TITLE 14 OF THE DELAWARE CODE RELATING TO SCHOOL BOARD MEMBERS.",
+   "url": "https://legis.delaware.gov/SessionLaws/Chapter?id=42212",
+   "versions": [
+    {
+     "from": "2025-06-30",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": "2025-06-30",
+     "units": 1,
+     "source_url": "https://legis.delaware.gov/SessionLaws/Chapter?id=42212",
+     "sha256": "0cb09c1831604e0f37d66697b3e2cceab8605589b27bb668ff0d92e2cabbe4bb"
+    }
+   ]
+  },
+  {
+   "slug": "session-law-085-chapter-084",
+   "short": "85 Del. Laws, c. 84",
+   "title": "AN ACT TO AMEND TITLES 3, 7, AND 16 OF THE DELAWARE CODE RELATING TO THE ENVIRONMENT. WHEREAS, the Delaware General Assembly seeks to modernize penalties imposed on commercial polluters; and WHEREAS, the General Assembly sees the need to divert a higher percentage of fines collected to impacted communities; and WHEREAS, some commercial heavy industrial polluters are chronic violators who engage in a pattern of wilful neglect or reckless disregard of the permits or regulatory programs of the Delaware Department of Natural Resources and Environmental Control. NOW, THEREFORE:",
+   "url": "https://legis.delaware.gov/SessionLaws/Chapter?id=42246",
+   "versions": [
+    {
+     "from": "2025-07-16",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": "2025-07-16",
+     "units": 1,
+     "source_url": "https://legis.delaware.gov/SessionLaws/Chapter?id=42246",
+     "sha256": "9ddc8361a0cd2c2e0a1bfb6bd47c04ddd7a939f142b60a29e9bf392f5c06b01f"
+    }
+   ]
+  },
+  {
+   "slug": "session-law-085-chapter-097",
+   "short": "85 Del. Laws, c. 97",
+   "title": "AN ACT TO AMEND TITLE 24 OF THE DELAWARE CODE RELATING TO PHARMACY.",
+   "url": "https://legis.delaware.gov/SessionLaws/Chapter?id=42259",
+   "versions": [
+    {
+     "from": "2025-07-21",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": "2025-07-21",
+     "units": 1,
+     "source_url": "https://legis.delaware.gov/SessionLaws/Chapter?id=42259",
+     "sha256": "bf36492e69c28118760665518a472564884eb2d3bf69f1d720e0c26f32ce69c4"
+    }
+   ]
+  }
+ ]
+}
