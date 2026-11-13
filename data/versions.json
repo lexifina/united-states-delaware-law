@@ -22525,6 +22525,1740 @@
      "sha256": "996b3c98c8e812cbc4a7ca88877db816e976c7890e0806f06f4b270457ad4cd6"
     }
    ]
+  },
+  {
+   "slug": "session-law-085-chapter-001",
+   "short": "85 Del. Laws, c. 1",
+   "title": "AN ACT TO AMEND CHAPTER 459, VOLUME 84 OF THE LAWS OF DELAWARE AND TITLES 6, 29, AND 30 OF THE DELAWARE CODE RELATING TO THE REGISTRATION OF TRADE NAMES.",
+   "url": "https://legis.delaware.gov/SessionLaws/Chapter?id=42163",
+   "versions": [
+    {
+     "from": "2025-02-07",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": "2025-02-07",
+     "units": 1,
+     "source_url": "https://legis.delaware.gov/SessionLaws/Chapter?id=42163",
+     "sha256": "3ab7ca43c4863d752d69b27be9affb3288058879e7e71a960f9e8bc6824a0778"
+    }
+   ]
+  },
+  {
+   "slug": "session-law-085-chapter-002",
+   "short": "85 Del. Laws, c. 2",
+   "title": "AN ACT TO AMEND TITLE 29 OF THE DELAWARE CODE AND CHAPTER 446 OF VOLUME 84 OF THE LAWS OF DELAWARE RELATING TO PENSIONS FOR THE STATE JUDICIARY.",
+   "url": "https://legis.delaware.gov/SessionLaws/Chapter?id=42164",
+   "versions": [
+    {
+     "from": "2025-02-07",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": "2025-02-07",
+     "units": 1,
+     "source_url": "https://legis.delaware.gov/SessionLaws/Chapter?id=42164",
+     "sha256": "f5e91ae57cd889325605c2f5734b45a741856d98d7c4f6d87cd905d2eb9b70e4"
+    }
+   ]
+  },
+  {
+   "slug": "session-law-085-chapter-004",
+   "short": "85 Del. Laws, c. 4",
+   "title": "AN ACT TO AMEND CHAPTER 299, VOLUME 84 OF THE LAWS OF DELAWARE RELATING TO THE AFFORDABLE HOUSING PRODUCTION TASK FORCE.",
+   "url": "https://legis.delaware.gov/SessionLaws/Chapter?id=42166",
+   "versions": [
+    {
+     "from": "2025-02-27",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": "2025-02-27",
+     "units": 1,
+     "source_url": "https://legis.delaware.gov/SessionLaws/Chapter?id=42166",
+     "sha256": "0b16931d5dcf25b58af73d908d6885daca43a2fd1ef3ea0dbad084df02208b92"
+    }
+   ]
+  },
+  {
+   "slug": "session-law-085-chapter-005",
+   "short": "85 Del. Laws, c. 5",
+   "title": "AN ACT CONCURRING IN PROPOSED AMENDMENTS TO THE DELAWARE CONSTITUTION RELATING TO TECHNICAL CORRECTIONS. WHEREAS, an amendment to the Delaware Constitution was proposed in the 152 nd General Assembly, being Chapter 281 of Volume 84 of the Laws of Delaware (“proposed amendment”); and WHEREAS, the proposed amendment was adopted by two-thirds of all members elected to each house of the 152 nd General Assembly; and WHEREAS, following adoption by the General Assembly, the proposed amendment was publicized in accordance with the Delaware Constitution; and WHEREAS, when the 153 rd General Assembly concurs in the proposed amendment, the amendment will become part of the Delaware Constitution. NOW, THEREFORE:",
+   "url": "https://legis.delaware.gov/SessionLaws/Chapter?id=42167",
+   "versions": [
+    {
+     "from": "2025-03-25",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": "2025-03-25",
+     "units": 1,
+     "source_url": "https://legis.delaware.gov/SessionLaws/Chapter?id=42167",
+     "sha256": "dfbfdafe62e32524bb1bf01c6b36819bb40639ce3babc91b01f6192d54bbee6e"
+    }
+   ]
+  },
+  {
+   "slug": "session-law-085-chapter-006",
+   "short": "85 Del. Laws, c. 6",
+   "title": "AN ACT TO AMEND TITLE 8 OF THE DELAWARE CODE RELATING TO THE GENERAL CORPORATION LAW.",
+   "url": "https://legis.delaware.gov/SessionLaws/Chapter?id=42168",
+   "versions": [
+    {
+     "from": "2025-03-25",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": "2025-03-25",
+     "units": 1,
+     "source_url": "https://legis.delaware.gov/SessionLaws/Chapter?id=42168",
+     "sha256": "b99c0179dd7023c553f54bf13b7bc8425d56844505c65ed83a8ae64ba70da26f"
+    }
+   ]
+  },
+  {
+   "slug": "session-law-085-chapter-007",
+   "short": "85 Del. Laws, c. 7",
+   "title": "AN ACT TO AMEND TITLE 18 OF THE DELAWARE CODE RELATING TO TAXES.",
+   "url": "https://legis.delaware.gov/SessionLaws/Chapter?id=42169",
+   "versions": [
+    {
+     "from": "2025-04-14",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": "2025-04-14",
+     "units": 1,
+     "source_url": "https://legis.delaware.gov/SessionLaws/Chapter?id=42169",
+     "sha256": "9395f35cad3de07ce8180d3f0b57273ce41bb10d0709cea326866b561894c10b"
+    }
+   ]
+  },
+  {
+   "slug": "session-law-085-chapter-008",
+   "short": "85 Del. Laws, c. 8",
+   "title": "AN ACT TO AMEND TITLE 14 OF THE DELAWARE CODE RELATING TO SPECIAL EDUCATION RECORDS.",
+   "url": "https://legis.delaware.gov/SessionLaws/Chapter?id=42170",
+   "versions": [
+    {
+     "from": "2025-04-14",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": "2025-04-14",
+     "units": 1,
+     "source_url": "https://legis.delaware.gov/SessionLaws/Chapter?id=42170",
+     "sha256": "20b521fa295211760da53aba343a5e634918602e05a41928d499bfe9b15904cf"
+    }
+   ]
+  },
+  {
+   "slug": "session-law-085-chapter-009",
+   "short": "85 Del. Laws, c. 9",
+   "title": "AN ACT TO AMEND TITLE 21 AND TITLE 24 OF THE DELAWARE CODE RELATING TO CONSTABLES.",
+   "url": "https://legis.delaware.gov/SessionLaws/Chapter?id=42171",
+   "versions": [
+    {
+     "from": "2025-04-14",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": "2025-04-14",
+     "units": 1,
+     "source_url": "https://legis.delaware.gov/SessionLaws/Chapter?id=42171",
+     "sha256": "07e2ab39ceb7d8851998b7a8ab6be3f959b4a4a874075c8198b8062a22bb51fd"
+    }
+   ]
+  },
+  {
+   "slug": "session-law-085-chapter-010",
+   "short": "85 Del. Laws, c. 10",
+   "title": "AN ACT TO AMEND TITLE 16 OF THE DELAWARE CODE RELATED TO CONTROLLED SUBSTANCES IN THE CITY OF NEWARK.",
+   "url": "https://legis.delaware.gov/SessionLaws/Chapter?id=42172",
+   "versions": [
+    {
+     "from": "2025-04-14",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": "2025-04-14",
+     "units": 1,
+     "source_url": "https://legis.delaware.gov/SessionLaws/Chapter?id=42172",
+     "sha256": "147dd9afac859b986369bbe51af62be0b0ddbc984124333f3a1a07ece377f5dd"
+    }
+   ]
+  },
+  {
+   "slug": "session-law-085-chapter-011",
+   "short": "85 Del. Laws, c. 11",
+   "title": "AN ACT TO AMEND TITLE 4 OF THE DELAWARE CODE RELATING TO THE DELAWARE MARIJUANA CONTROL ACT.",
+   "url": "https://legis.delaware.gov/SessionLaws/Chapter?id=42173",
+   "versions": [
+    {
+     "from": "2025-04-24",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": "2025-04-24",
+     "units": 1,
+     "source_url": "https://legis.delaware.gov/SessionLaws/Chapter?id=42173",
+     "sha256": "a84ba85937e53f139759ebed4f8486322202799331daf695562dcc0fbb0876b5"
+    }
+   ]
+  },
+  {
+   "slug": "session-law-085-chapter-012",
+   "short": "85 Del. Laws, c. 12",
+   "title": "AN ACT TO AMEND TITLE 18 OF THE DELAWARE CODE RELATING TO LICENSING FEES AND DEPARTMENT OF INSURANCE FUNDING.",
+   "url": "https://legis.delaware.gov/SessionLaws/Chapter?id=42174",
+   "versions": [
+    {
+     "from": "2025-05-07",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": "2025-05-07",
+     "units": 1,
+     "source_url": "https://legis.delaware.gov/SessionLaws/Chapter?id=42174",
+     "sha256": "0622b46aef50c5a283ac8d11f453f7b9c209a406224596959cbc34803589bc82"
+    }
+   ]
+  },
+  {
+   "slug": "session-law-085-chapter-013",
+   "short": "85 Del. Laws, c. 13",
+   "title": "AN ACT TO AMEND TITLE 10 AND TITLE 11 OF THE DELAWARE CODE RELATING TO HUMAN TRAFFICKING.",
+   "url": "https://legis.delaware.gov/SessionLaws/Chapter?id=42175",
+   "versions": [
+    {
+     "from": "2025-05-07",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": "2025-05-07",
+     "units": 1,
+     "source_url": "https://legis.delaware.gov/SessionLaws/Chapter?id=42175",
+     "sha256": "6ced295f6a30cd361b4dcc39b0a9bcb86afc77e03bdb59a21d580edbf50480c0"
+    }
+   ]
+  },
+  {
+   "slug": "session-law-085-chapter-014",
+   "short": "85 Del. Laws, c. 14",
+   "title": "AN ACT TO AMEND THE CHARTER OF THE TOWN OF MILLSBORO RELATING TO TOWN OF MILLSBORO ELECTION DISTRICTS, VACANCIES, AND THE TOWN SECRETARY.",
+   "url": "https://legis.delaware.gov/SessionLaws/Chapter?id=42176",
+   "versions": [
+    {
+     "from": "2025-05-07",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": "2025-05-07",
+     "units": 1,
+     "source_url": "https://legis.delaware.gov/SessionLaws/Chapter?id=42176",
+     "sha256": "fb4b26033b76560406bd4f870fbdcf97ed95322a8535d6463b51fd17c78cd698"
+    }
+   ]
+  },
+  {
+   "slug": "session-law-085-chapter-015",
+   "short": "85 Del. Laws, c. 15",
+   "title": "AN ACT TO AMEND TITLE 11 OF THE DELAWARE CODE RELATING TO THE DELAWARE ANTI-TRAFFICKING ACTION COUNCIL.",
+   "url": "https://legis.delaware.gov/SessionLaws/Chapter?id=42177",
+   "versions": [
+    {
+     "from": "2025-05-07",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": "2025-05-07",
+     "units": 1,
+     "source_url": "https://legis.delaware.gov/SessionLaws/Chapter?id=42177",
+     "sha256": "d3fc314e6017604e7445d61f58388b27d565c12173a171af8b61b45f7b32fd4c"
+    }
+   ]
+  },
+  {
+   "slug": "session-law-085-chapter-016",
+   "short": "85 Del. Laws, c. 16",
+   "title": "AN ACT TO AMEND TITLE 23 OF THE DELAWARE CODE RELATING TO PILOTAGE RATES.",
+   "url": "https://legis.delaware.gov/SessionLaws/Chapter?id=42178",
+   "versions": [
+    {
+     "from": "2025-05-07",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": "2025-05-07",
+     "units": 1,
+     "source_url": "https://legis.delaware.gov/SessionLaws/Chapter?id=42178",
+     "sha256": "03fa6370b420a38a13687064f20505a0f545bb07c0c5c15de6423f11c98d590f"
+    }
+   ]
+  },
+  {
+   "slug": "session-law-085-chapter-017",
+   "short": "85 Del. Laws, c. 17",
+   "title": "AN ACT TO AMEND TITLE 29 OF THE DELAWARE CODE RELATING TO THE ARTIFICIAL INTELLIGENCE COMMISSION.",
+   "url": "https://legis.delaware.gov/SessionLaws/Chapter?id=42179",
+   "versions": [
+    {
+     "from": "2025-05-13",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": "2025-05-13",
+     "units": 1,
+     "source_url": "https://legis.delaware.gov/SessionLaws/Chapter?id=42179",
+     "sha256": "61d44bd3061d3e272c6677697d5a8df90d7482addfa3ebdefee9c097a1e14db9"
+    }
+   ]
+  },
+  {
+   "slug": "session-law-085-chapter-018",
+   "short": "85 Del. Laws, c. 18",
+   "title": "AN ACT DIRECTING THE STATE REGISTRAR OF VITAL STATISTICS TO ISSUE A BIRTH CERTIFICATE WITH THE NAME OF THE FATHER OF LEVI RYAN MURRAY. WHEREAS, under § 3121(h)(1) of Title 16, if the mother was married at the time of either conception or birth, the name of the husband shall be entered on the birth certificate as the father of the child unless paternity has been determined otherwise by Family Court; and WHEREAS, assisted reproduction allows for conception to occur through in vitro fertilization; and WHEREAS, under § 3121(h)(1) of Title 16, if the parents were married at the time of in vitro fertilization, the name of the husband should be entered on the birth certificate of a child born as a result of this assisted reproduction; and WHEREAS, the 2000 version of the Uniform Parentage Act (“UPA”) provides under § 8-707 that if an individual who consented in a record to be a parent by assisted reproduction dies before placement of eggs, sperm, or embryos, the deceased individual is not a parent of the resulting child unless the deceased individual consented in a record that if assisted reproduction were to occur after death, the deceased individual would be a parent of the child; and WHEREAS, the 2017 update to the UPA revises § 8-707 so that if the individual who intends to be a parent of a child conceived by assisted reproduction dies during the period between the creation of the embryo and placement of the embryo, the individual’s death does not preclude the establishment of the individual’s parentage of the child if (1) the individual consented in a record that if assisted reproduction were to occur after death, the deceased individual would be a parent of the child or (2) the individual’s intent to be a parent of the child is established by clear and convincing evidence and the embryo is in utero not later than 36 months after the individual’s death or the child is born not later than 45 months after the individual’s death; and WHEREAS, Delaware adopted the 2000 version of the UPA in 2003 as Chapter 8 of Title 13 but has not adopted the 2017 updates to the UPA; and WHEREAS, the General Assembly finds that there is a conflict in the law that determines whether the name of the husband who dies during the period between the creation of the embryo and placement of the embryo should or can be entered on the birth certificate as the father of the child conceived; and WHEREAS, there is a conflict because under § 3121(h)(1) of Title 16, the name of the husband must be entered on the child’s birth certificate as the father but under § 8-707 of Title 13, the name of the husband can only be entered on the child’s birth certificate as the father if the deceased individual consented in a record that if assisted reproduction were to occur after death, the deceased individual would be a parent of the child; and WHEREAS, this conflict has impacted 1 family. Specifically, in January 2020, Megan Murray (“Mrs. Murray”) and Ryan Murray (“Mr. Murray”) were married and conceived embryos through in vitro fertilization. Mrs. Murray was scheduled for an embryo transfer in February 2020. One day before the embryo transfer, Mr. Murray died suddenly. The embryos were then frozen. In March 2022, Mrs. Murray underwent an embryo transfer and a child, Levi Ryan Murray (“Levi”), was born; and WHEREAS, the General Assembly finds a conflict exists as § 3121(h)(1) of Title 16 requires that Mr. Murray’s name must be entered on Levi’s birth certificate, but § 8-707 of Title 13 does not permit entering Mr. Murray’s name on Levi’s birth certificate, and therefore, the State Registrar of Vital Statistics does not have clear authority to enter Mr. Murray’s name on Levi’s birth certificate and Family Court does not have the authority to determine that Mr. Murray is Levi’s father; and WHEREAS, the General Assembly finds that because of this conflict in the Delaware Code the General Assembly should act to resolve this situation for Levi’s birth certificate immediately while the General Assembly considers how to resolve the conflict. NOW, THEREFORE:",
+   "url": "https://legis.delaware.gov/SessionLaws/Chapter?id=42180",
+   "versions": [
+    {
+     "from": "2025-05-16",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": "2025-05-16",
+     "units": 1,
+     "source_url": "https://legis.delaware.gov/SessionLaws/Chapter?id=42180",
+     "sha256": "3283e24a4d02bd6cf40c7333383ab59bd7f51777adb995fc16755620fe3e0efb"
+    }
+   ]
+  },
+  {
+   "slug": "session-law-085-chapter-019",
+   "short": "85 Del. Laws, c. 19",
+   "title": "AN ACT TO AMEND TITLE 16 OF THE DELAWARE CODE RELATING TO END OF LIFE OPTIONS. WHEREAS, Delaware has long recognized that adult, terminally ill individuals have a fundamental right to determine their own medical treatment options as they near the end of life, free from coercion, and in accordance with their own values, beliefs, or personal preferences; and WHEREAS, Delaware wants to promote both the highest standard of medical care for patients and a wide range of options appropriate for each individual at the end of life; and WHEREAS, in other jurisdictions, the integration of medical aid in dying into the standard for end of life care has improved quality of services by providing an additional palliative care option to terminally ill individuals; and WHEREAS, terminally ill patients may undergo unremitting pain, discomfort, and a sudden, continuing, and irreversible reduction in their quality of life in their final days and only the patient can determine if the patient’s suffering is unbearable; and WHEREAS, under this Act, a mental illness or mental health condition is not a qualifying condition because it does not meet the definition of a terminal illness; and WHEREAS, a mental illness or mental health condition may be the reason that an individual does not have decision-making capacity; and WHEREAS, under this Act, the attending physician or attending Advanced Practice Registered Nurse must determine that an individual requesting medication to end their life in a humane and dignified manner has the decision-making capacity to make an informed decision before prescribing this medication; and WHEREAS, participation in the practice of medical aid in dying by willing medical providers for terminally ill patients who request this end of life option, respects and honors each patient’s values and priorities for their own death, and puts the patient at the center of care. NOW, THEREFORE:",
+   "url": "https://legis.delaware.gov/SessionLaws/Chapter?id=42181",
+   "versions": [
+    {
+     "from": "2025-05-20",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": "2025-05-20",
+     "units": 1,
+     "source_url": "https://legis.delaware.gov/SessionLaws/Chapter?id=42181",
+     "sha256": "06f094328552b554e819daa036f781e5a93e3c0a6f5949d3f2c22d116d96fc1a"
+    }
+   ]
+  },
+  {
+   "slug": "session-law-085-chapter-020",
+   "short": "85 Del. Laws, c. 20",
+   "title": "AN ACT TO AMEND TITLE 29 OF THE DELAWARE CODE RELATING TO GOVERNMENTAL COMPENSATION POLICY.",
+   "url": "https://legis.delaware.gov/SessionLaws/Chapter?id=42182",
+   "versions": [
+    {
+     "from": "2025-05-22",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": "2025-05-22",
+     "units": 1,
+     "source_url": "https://legis.delaware.gov/SessionLaws/Chapter?id=42182",
+     "sha256": "de47707fd5f8efd1958c7ebf4380a4195d12c9980784cbd293b62548cf6480b5"
+    }
+   ]
+  },
+  {
+   "slug": "session-law-085-chapter-021",
+   "short": "85 Del. Laws, c. 21",
+   "title": "AN ACT TO AMEND TITLE 29 OF THE DELAWARE CODE RELATING TO REQUIRING INSTITUTIONS OF HIGHER EDUCATION TO KEEP AND PROVIDE RECORDS AS PART OF THE GOVERNMENTAL COMPENSATION POLICY SUBCHAPTER.",
+   "url": "https://legis.delaware.gov/SessionLaws/Chapter?id=42183",
+   "versions": [
+    {
+     "from": "2025-05-22",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": "2025-05-22",
+     "units": 1,
+     "source_url": "https://legis.delaware.gov/SessionLaws/Chapter?id=42183",
+     "sha256": "0e02e4d357599658609c709d826bee85fa04ab15c22273ca59870b2b5a0c6b63"
+    }
+   ]
+  },
+  {
+   "slug": "session-law-085-chapter-022",
+   "short": "85 Del. Laws, c. 22",
+   "title": "AN ACT TO AMEND THE CHARTER OF THE TOWN OF MILLSBORO RELATING TO ANNEXATION OF TERRITORY AND THE APPOINTMENT OF COMMITTEES.",
+   "url": "https://legis.delaware.gov/SessionLaws/Chapter?id=42184",
+   "versions": [
+    {
+     "from": "2025-05-22",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": "2025-05-22",
+     "units": 1,
+     "source_url": "https://legis.delaware.gov/SessionLaws/Chapter?id=42184",
+     "sha256": "32ead910e325902a58f027bd62b21d40967208d92882e1c6e9593606c95a348d"
+    }
+   ]
+  },
+  {
+   "slug": "session-law-085-chapter-023",
+   "short": "85 Del. Laws, c. 23",
+   "title": "AN ACT TO AMEND TITLE 10 OF THE DELAWARE CODE RELATING TO APPEALS.",
+   "url": "https://legis.delaware.gov/SessionLaws/Chapter?id=42185",
+   "versions": [
+    {
+     "from": "2025-05-22",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": "2025-05-22",
+     "units": 1,
+     "source_url": "https://legis.delaware.gov/SessionLaws/Chapter?id=42185",
+     "sha256": "54e18e79c1cdd759efdd62c0a711a0f925669827c6b80aa07f7ba33f338f2f3c"
+    }
+   ]
+  },
+  {
+   "slug": "session-law-085-chapter-024",
+   "short": "85 Del. Laws, c. 24",
+   "title": "AN ACT TO AMEND TITLES 22 AND 26 OF THE DELAWARE CODE RELATING TO THE TERMINATION OF UTILITY SERVICES.",
+   "url": "https://legis.delaware.gov/SessionLaws/Chapter?id=42186",
+   "versions": [
+    {
+     "from": "2025-05-22",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": "2025-05-22",
+     "units": 1,
+     "source_url": "https://legis.delaware.gov/SessionLaws/Chapter?id=42186",
+     "sha256": "5ec6ec2d85662851718e6dbef145dcaec4769aee84ebed5457573cbdea0027dc"
+    }
+   ]
+  },
+  {
+   "slug": "session-law-085-chapter-025",
+   "short": "85 Del. Laws, c. 25",
+   "title": "AN ACT TO AMEND TITLE 20 AND TITLE 21 OF THE DELAWARE CODE RELATING TO DRIVING RESTRICTIONS DURING A STATE OF EMERGENCY.",
+   "url": "https://legis.delaware.gov/SessionLaws/Chapter?id=42187",
+   "versions": [
+    {
+     "from": "2025-05-22",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": "2025-05-22",
+     "units": 1,
+     "source_url": "https://legis.delaware.gov/SessionLaws/Chapter?id=42187",
+     "sha256": "2f1ac96037f92afb9fc8869653bae4c1edaf9002b5b71e1ff9b960f1a198bcc0"
+    }
+   ]
+  },
+  {
+   "slug": "session-law-085-chapter-026",
+   "short": "85 Del. Laws, c. 26",
+   "title": "AN ACT TO AMEND TITLE 29 OF THE DELAWARE CODE RELATING TO THE JOINT LEGISLATIVE AND OVERSIGHT COMMITTEE.",
+   "url": "https://legis.delaware.gov/SessionLaws/Chapter?id=42188",
+   "versions": [
+    {
+     "from": "2025-05-22",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": "2025-05-22",
+     "units": 1,
+     "source_url": "https://legis.delaware.gov/SessionLaws/Chapter?id=42188",
+     "sha256": "0b3cb5bfdfc59772d3a1d307e999bb5b7e7fab6e8aafff7e2fc78ebae1050b50"
+    }
+   ]
+  },
+  {
+   "slug": "session-law-085-chapter-027",
+   "short": "85 Del. Laws, c. 27",
+   "title": "AN ACT TO AMEND TITLE 14 OF THE DELAWARE CODE RELATING TO FOODS AND BEVERAGES IN SCHOOLS.",
+   "url": "https://legis.delaware.gov/SessionLaws/Chapter?id=42189",
+   "versions": [
+    {
+     "from": "2025-05-22",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": "2025-05-22",
+     "units": 1,
+     "source_url": "https://legis.delaware.gov/SessionLaws/Chapter?id=42189",
+     "sha256": "5687b421f6c76c3a03905e8ce1ad8ff085d842ddb7359e10ec7483fdbde25917"
+    }
+   ]
+  },
+  {
+   "slug": "session-law-085-chapter-028",
+   "short": "85 Del. Laws, c. 28",
+   "title": "AN ACT TO AMEND CHAPTER 76, TITLE 6 OF THE DELAWARE CODE RELATING TO THE DELAWARE LEASE-PURCHASE AGREEMENT ACT.",
+   "url": "https://legis.delaware.gov/SessionLaws/Chapter?id=42190",
+   "versions": [
+    {
+     "from": "2025-05-22",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": "2025-05-22",
+     "units": 1,
+     "source_url": "https://legis.delaware.gov/SessionLaws/Chapter?id=42190",
+     "sha256": "c564b226a042fa0d37d21207a17aca4f5a0a189dce67b5ed50827d5a4c530ac3"
+    }
+   ]
+  },
+  {
+   "slug": "session-law-085-chapter-029",
+   "short": "85 Del. Laws, c. 29",
+   "title": "AN ACT TO AMEND TITLE 10 OF THE DELAWARE CODE RELATING TO PROVIDING FOR AN ADDITIONAL FAMILY COURT JUDGE IN SUSSEX COUNTY.",
+   "url": "https://legis.delaware.gov/SessionLaws/Chapter?id=42191",
+   "versions": [
+    {
+     "from": "2025-05-27",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": "2025-05-27",
+     "units": 1,
+     "source_url": "https://legis.delaware.gov/SessionLaws/Chapter?id=42191",
+     "sha256": "67c38577bd492fedd5943af9e0eb2507cc304d6cec1086fd1a74d282e7fd6cb6"
+    }
+   ]
+  },
+  {
+   "slug": "session-law-085-chapter-030",
+   "short": "85 Del. Laws, c. 30",
+   "title": "AN ACT TO AMEND CHAPTER 459, VOLUME 84 OF THE LAWS OF DELAWARE, AND CHAPTER 1, VOLUME 85 OF THE LAWS OF DELAWARE, RELATING TO THE REGISTRATION OF TRADE NAMES.",
+   "url": "https://legis.delaware.gov/SessionLaws/Chapter?id=42192",
+   "versions": [
+    {
+     "from": "2025-05-27",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": "2025-05-27",
+     "units": 1,
+     "source_url": "https://legis.delaware.gov/SessionLaws/Chapter?id=42192",
+     "sha256": "05aa1a30e6a2490019de13570e5dc85eede48b1716965f2066acdff90853f470"
+    }
+   ]
+  },
+  {
+   "slug": "session-law-085-chapter-031",
+   "short": "85 Del. Laws, c. 31",
+   "title": "AN ACT TO AMEND TITLE 14 OF THE DELAWARE CODE RELATING TO SCHOOL PROPERTY TAX EXEMPTIONS.",
+   "url": "https://legis.delaware.gov/SessionLaws/Chapter?id=42193",
+   "versions": [
+    {
+     "from": "2025-06-13",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": "2025-06-13",
+     "units": 1,
+     "source_url": "https://legis.delaware.gov/SessionLaws/Chapter?id=42193",
+     "sha256": "2c6424ed2c2dd54c1fed877a50406f6aacb8f44885492a59da4192623f9b4873"
+    }
+   ]
+  },
+  {
+   "slug": "session-law-085-chapter-032",
+   "short": "85 Del. Laws, c. 32",
+   "title": "AN ACT TO AMEND TITLE 29 OF THE DELAWARE CODE RELATING TO THE DEPARTMENT OF FINANCE AND CRIMINAL BACKGROUND CHECKS.",
+   "url": "https://legis.delaware.gov/SessionLaws/Chapter?id=42194",
+   "versions": [
+    {
+     "from": "2025-06-24",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": "2025-06-24",
+     "units": 1,
+     "source_url": "https://legis.delaware.gov/SessionLaws/Chapter?id=42194",
+     "sha256": "ab5654f7f07e57cd4cdae9ff9bd95a63329423d9e0cbab5ed9278893a67687bb"
+    }
+   ]
+  },
+  {
+   "slug": "session-law-085-chapter-033",
+   "short": "85 Del. Laws, c. 33",
+   "title": "AN ACT TO AMEND TITLE 19 OF THE DELAWARE CODE RELATED TO CRIMINAL BACKGROUND CHECKS FOR DEPARTMENT OF LABOR EMPLOYEES, CONTRACTORS, AND SUBCONTRACTORS WITH ACCESS TO CONFIDENTIAL OR SENSITIVE INFORMATION.",
+   "url": "https://legis.delaware.gov/SessionLaws/Chapter?id=42195",
+   "versions": [
+    {
+     "from": "2025-06-24",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": "2025-06-24",
+     "units": 1,
+     "source_url": "https://legis.delaware.gov/SessionLaws/Chapter?id=42195",
+     "sha256": "51f7259e2e819863c992611b33eb69f9c505f0ee2fe21225494d79a782a28272"
+    }
+   ]
+  },
+  {
+   "slug": "session-law-085-chapter-034",
+   "short": "85 Del. Laws, c. 34",
+   "title": "AN ACT TO AMEND THE CHARTER OF THE CITY OF NEWARK AUTHORIZING THE CITY OF NEWARK TO LEVY A TAX ON COLLEGES AND UNIVERSITIES WITHIN THE CITY OF NEWARK.",
+   "url": "https://legis.delaware.gov/SessionLaws/Chapter?id=42196",
+   "versions": [
+    {
+     "from": "2025-06-24",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": "2025-06-24",
+     "units": 1,
+     "source_url": "https://legis.delaware.gov/SessionLaws/Chapter?id=42196",
+     "sha256": "dfa545cc4592bbaf0d1c21bf233322f52cda31a5f6df70c45686fe537c280039"
+    }
+   ]
+  },
+  {
+   "slug": "session-law-085-chapter-035",
+   "short": "85 Del. Laws, c. 35",
+   "title": "AN ACT TO AMEND THE CHARTER OF THE TOWN OF SELBYVILLE RELATING TO ELECTIONS.",
+   "url": "https://legis.delaware.gov/SessionLaws/Chapter?id=42197",
+   "versions": [
+    {
+     "from": "2025-06-24",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": "2025-06-24",
+     "units": 1,
+     "source_url": "https://legis.delaware.gov/SessionLaws/Chapter?id=42197",
+     "sha256": "fd800f5bc351bbedc17eab03ff6a6c20fca8ebb340a71c0496ee1e70cc5cfd66"
+    }
+   ]
+  },
+  {
+   "slug": "session-law-085-chapter-036",
+   "short": "85 Del. Laws, c. 36",
+   "title": "AN ACT TO AMEND TITLE 21 OF THE DELAWARE CODE RELATING TO VETERAN DESIGNATION ON DRIVER LICENSES.",
+   "url": "https://legis.delaware.gov/SessionLaws/Chapter?id=42198",
+   "versions": [
+    {
+     "from": "2025-06-24",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": "2025-06-24",
+     "units": 1,
+     "source_url": "https://legis.delaware.gov/SessionLaws/Chapter?id=42198",
+     "sha256": "3738346edc987a3354fdcbff7490803da568cd11f88c83020bd1e7e437465053"
+    }
+   ]
+  },
+  {
+   "slug": "session-law-085-chapter-037",
+   "short": "85 Del. Laws, c. 37",
+   "title": "AN ACT TO AMEND TITLE 21 OF THE DELAWARE CODE RELATING TO RULES OF THE ROAD.",
+   "url": "https://legis.delaware.gov/SessionLaws/Chapter?id=42199",
+   "versions": [
+    {
+     "from": "2025-06-24",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": "2025-06-24",
+     "units": 1,
+     "source_url": "https://legis.delaware.gov/SessionLaws/Chapter?id=42199",
+     "sha256": "0469d3913336b0de1ddb677c4f83b3bbdf94d684ee90e87eb9656a94be0936db"
+    }
+   ]
+  },
+  {
+   "slug": "session-law-085-chapter-038",
+   "short": "85 Del. Laws, c. 38",
+   "title": "AN ACT TO AMEND THE CHARTER OF THE TOWN OF ODESSA.",
+   "url": "https://legis.delaware.gov/SessionLaws/Chapter?id=42200",
+   "versions": [
+    {
+     "from": "2025-06-24",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": "2025-06-24",
+     "units": 1,
+     "source_url": "https://legis.delaware.gov/SessionLaws/Chapter?id=42200",
+     "sha256": "5ce8a8916b271c49fa7d2abd5098b4189c3330e976ded7e34e1ffa3e1758c6e6"
+    }
+   ]
+  },
+  {
+   "slug": "session-law-085-chapter-039",
+   "short": "85 Del. Laws, c. 39",
+   "title": "AN ACT TO AMEND TITLE 24 OF THE DELAWARE CODE RELATING TO THE MANUFACTURED HOME INSTALLATION BOARD.",
+   "url": "https://legis.delaware.gov/SessionLaws/Chapter?id=42201",
+   "versions": [
+    {
+     "from": "2025-06-24",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": "2025-06-24",
+     "units": 1,
+     "source_url": "https://legis.delaware.gov/SessionLaws/Chapter?id=42201",
+     "sha256": "c03c1313afb6d54b7556a299fdc173a4cf3bd8652bfd22c3d6d53bae5f0b74ca"
+    }
+   ]
+  },
+  {
+   "slug": "session-law-085-chapter-040",
+   "short": "85 Del. Laws, c. 40",
+   "title": "AN ACT TO AMEND TITLES 21 AND 30 OF THE DELAWARE CODE RELATING TO MOTOR VEHICLES.",
+   "url": "https://legis.delaware.gov/SessionLaws/Chapter?id=42202",
+   "versions": [
+    {
+     "from": "2025-06-24",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": "2025-06-24",
+     "units": 1,
+     "source_url": "https://legis.delaware.gov/SessionLaws/Chapter?id=42202",
+     "sha256": "354885d6b0ef1abf213f89e9c06d57667732af3e9994c3735dfb6dad207845e9"
+    }
+   ]
+  },
+  {
+   "slug": "session-law-085-chapter-041",
+   "short": "85 Del. Laws, c. 41",
+   "title": "AN ACT TO AMEND TITLE 4 OF THE DELAWARE CODE RELATING TO MICROBREWERIES.",
+   "url": "https://legis.delaware.gov/SessionLaws/Chapter?id=42203",
+   "versions": [
+    {
+     "from": "2025-06-24",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": "2025-06-24",
+     "units": 1,
+     "source_url": "https://legis.delaware.gov/SessionLaws/Chapter?id=42203",
+     "sha256": "1e4a79e0a0b6bb382d3be4a13b90957510066ac84b3005417f02fbf9b0841ac7"
+    }
+   ]
+  },
+  {
+   "slug": "session-law-085-chapter-042",
+   "short": "85 Del. Laws, c. 42",
+   "title": "AN ACT TO AMEND TITLE 7 OF THE DELAWARE CODE RELATING TO THE DEPARTMENT OF NATURAL RESOURCES AND ENVIRONMENTAL CONTROL FEES AND ASSESSMENT AND TO AUTHORIZE AND APPROVE VARIOUS DNREC FEES AND ASSESSMENTS. WHEREAS, in Fiscal Year 2024, funding for seventy-six percent (76%) of operating costs for the Department of Natural Resources and Environmental Control (DNREC) came from assessments, fees, federal funds, and other revenue raised in DNREC operations, with only twenty-four percent (24%) of its funding from the General Fund; and WHEREAS, fees associated with certain permits and licensing programs operated by DNREC have not been raised since 1991, when many fees were increased in Delaware Laws Volume 68, Chapter 86 (House Bill 360); and WHEREAS, more than half of the salaries of DNREC employees are paid through Appropriated Special Funds derived mainly from fees, and legislated salary increases for those employees must be funded out of existing program revenues; and WHEREAS, other costs associated with regulatory programs, such as technology, administrative costs, and new responsibilities, have also increased significantly since 1991; and WHEREAS, federal grants and funds that support environmental regulatory programs are expected to decrease, creating even more of a gap between revenues and expenditures in these areas; and WHEREAS, DNREC regulatory programs have been and will continue to engage in process and procedural improvements to improve efficiency and reduce costs; and WHEREAS, DNREC regulatory programs are at a point where additional resources are needed to fill positions, make technological improvements, improve response time, and fulfill statutory responsibilities. NOW, THEREFORE:",
+   "url": "https://legis.delaware.gov/SessionLaws/Chapter?id=42204",
+   "versions": [
+    {
+     "from": "2025-06-24",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": "2025-06-24",
+     "units": 1,
+     "source_url": "https://legis.delaware.gov/SessionLaws/Chapter?id=42204",
+     "sha256": "67449f733483d735bf248267869b9e38135bb7468bed62d60f09370f9fee6fe0"
+    }
+   ]
+  },
+  {
+   "slug": "session-law-085-chapter-043",
+   "short": "85 Del. Laws, c. 43",
+   "title": "AN ACT CONCURRING IN A PROPOSED AMENDMENT TO ARTICLE III OF THE DELAWARE CONSTITUTION RELATING TO MEMBERS OF THE GOVERNOR'S CABINET. WHEREAS, an amendment to the Delaware Constitution was proposed in the 152 nd General Assembly, being Chapter 278 of Volume 84 of the Laws of Delaware (“proposed amendment”); and WHEREAS, the proposed amendment was adopted by two-thirds of all members elected to each house of the 152 nd General Assembly; and WHEREAS, following adoption by the General Assembly, the proposed amendment was publicized in accordance with the Delaware Constitution; and WHEREAS, when the 153 rd General Assembly concurs in the proposed amendment, the amendment will become part of the Delaware Constitution. NOW, THEREFORE:",
+   "url": "https://legis.delaware.gov/SessionLaws/Chapter?id=42205",
+   "versions": [
+    {
+     "from": "2025-06-26",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": "2025-06-26",
+     "units": 1,
+     "source_url": "https://legis.delaware.gov/SessionLaws/Chapter?id=42205",
+     "sha256": "796219d5b73009ddfaf78f4d526951f4f1843ae689eaff11720795334fe08880"
+    }
+   ]
+  },
+  {
+   "slug": "session-law-085-chapter-045",
+   "short": "85 Del. Laws, c. 45",
+   "title": "AN ACT TO AMEND TITLE 6 OF THE DELAWARE CODE RELATING TO THE DELAWARE REVISED UNIFORM PARTNERSHIP ACT.",
+   "url": "https://legis.delaware.gov/SessionLaws/Chapter?id=42207",
+   "versions": [
+    {
+     "from": "2025-06-30",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": "2025-06-30",
+     "units": 1,
+     "source_url": "https://legis.delaware.gov/SessionLaws/Chapter?id=42207",
+     "sha256": "60589f2ea9e713e150fb32c05a39e38cf22fc70f9ad0d5de82e00e7c0af9ad19"
+    }
+   ]
+  },
+  {
+   "slug": "session-law-085-chapter-046",
+   "short": "85 Del. Laws, c. 46",
+   "title": "AN ACT TO AMEND TITLE 6 OF THE DELAWARE CODE RELATING TO THE DELAWARE REVISED UNIFORM LIMITED PARTNERSHIP ACT.",
+   "url": "https://legis.delaware.gov/SessionLaws/Chapter?id=42208",
+   "versions": [
+    {
+     "from": "2025-06-30",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": "2025-06-30",
+     "units": 1,
+     "source_url": "https://legis.delaware.gov/SessionLaws/Chapter?id=42208",
+     "sha256": "5a883793e0957f563c190f8f1d529d5e69ccac29bc4981d70b08d505240eb4bf"
+    }
+   ]
+  },
+  {
+   "slug": "session-law-085-chapter-047",
+   "short": "85 Del. Laws, c. 47",
+   "title": "AN ACT TO AMEND TITLE 6 OF THE DELAWARE CODE RELATING TO THE DELAWARE LIMITED LIABILITY COMPANY ACT.",
+   "url": "https://legis.delaware.gov/SessionLaws/Chapter?id=42209",
+   "versions": [
+    {
+     "from": "2025-06-30",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": "2025-06-30",
+     "units": 1,
+     "source_url": "https://legis.delaware.gov/SessionLaws/Chapter?id=42209",
+     "sha256": "c10a1e5d9b7ee1ba19f48b8eaf7fd106c2ad9aca415dc4840516773aa4010ce8"
+    }
+   ]
+  },
+  {
+   "slug": "session-law-085-chapter-048",
+   "short": "85 Del. Laws, c. 48",
+   "title": "AN ACT TO AMEND TITLE 8 OF THE DELAWARE CODE RELATING TO THE GENERAL CORPORATION LAW.",
+   "url": "https://legis.delaware.gov/SessionLaws/Chapter?id=42210",
+   "versions": [
+    {
+     "from": "2025-06-30",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": "2025-06-30",
+     "units": 1,
+     "source_url": "https://legis.delaware.gov/SessionLaws/Chapter?id=42210",
+     "sha256": "eb9fa4349513cdaf57cb2b7c38ff52f2354cc7f052b9014dce7d8f2c7a0f3361"
+    }
+   ]
+  },
+  {
+   "slug": "session-law-085-chapter-049",
+   "short": "85 Del. Laws, c. 49",
+   "title": "AN ACT TO AMEND CHAPTER 25, TITLE 24 OF THE DELAWARE CODE RELATING TO THE BOARD OF PHARMACY.",
+   "url": "https://legis.delaware.gov/SessionLaws/Chapter?id=42211",
+   "versions": [
+    {
+     "from": "2025-06-30",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": "2025-06-30",
+     "units": 1,
+     "source_url": "https://legis.delaware.gov/SessionLaws/Chapter?id=42211",
+     "sha256": "3c5b9176fe87e4ed4b2866ac176e04504b170c4938d9df50be17d1a7db527eb5"
+    }
+   ]
+  },
+  {
+   "slug": "session-law-085-chapter-051",
+   "short": "85 Del. Laws, c. 51",
+   "title": "AN ACT TO AMEND THE CHARTER OF THE TOWN OF DEWEY BEACH.",
+   "url": "https://legis.delaware.gov/SessionLaws/Chapter?id=42213",
+   "versions": [
+    {
+     "from": "2025-06-30",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": "2025-06-30",
+     "units": 1,
+     "source_url": "https://legis.delaware.gov/SessionLaws/Chapter?id=42213",
+     "sha256": "5f4b05e99666ab9207ed616605c1be62ecb9fcc297878f76d5269f894228ab74"
+    }
+   ]
+  },
+  {
+   "slug": "session-law-085-chapter-052",
+   "short": "85 Del. Laws, c. 52",
+   "title": "AN ACT TO AMEND THE CHARTER OF THE TOWN OF HOUSTON.",
+   "url": "https://legis.delaware.gov/SessionLaws/Chapter?id=42214",
+   "versions": [
+    {
+     "from": "2025-06-30",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": "2025-06-30",
+     "units": 1,
+     "source_url": "https://legis.delaware.gov/SessionLaws/Chapter?id=42214",
+     "sha256": "9179fc4ce18b73f4e51891cab9cad1e7b7eb97253389fb97485dfc70d0c79245"
+    }
+   ]
+  },
+  {
+   "slug": "session-law-085-chapter-053",
+   "short": "85 Del. Laws, c. 53",
+   "title": "AN ACT TO AMEND THE CHARTER OF THE TOWN OF DELMAR RELATING TO NOMINATIONS AND ELECTIONS AND THE POWER TO BORROW MONEY AND ISSUE BONDS.",
+   "url": "https://legis.delaware.gov/SessionLaws/Chapter?id=42215",
+   "versions": [
+    {
+     "from": "2025-06-30",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": "2025-06-30",
+     "units": 1,
+     "source_url": "https://legis.delaware.gov/SessionLaws/Chapter?id=42215",
+     "sha256": "e3c082b0c13b31792cd5b11c9faf7e8e5694d5ad71bdbcf8e1a4c1a873f666ca"
+    }
+   ]
+  },
+  {
+   "slug": "session-law-085-chapter-054",
+   "short": "85 Del. Laws, c. 54",
+   "title": "AN ACT TO AMEND THE CHARTER OF THE CITY OF HARRINGTON RELATING TO TERM LIMITS, BANKING, BUDGET AND AUDIT DEADLINES, SUCCESSION OF AUTHORITY, AND SIGNING CHECKS.",
+   "url": "https://legis.delaware.gov/SessionLaws/Chapter?id=42216",
+   "versions": [
+    {
+     "from": "2025-06-30",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": "2025-06-30",
+     "units": 1,
+     "source_url": "https://legis.delaware.gov/SessionLaws/Chapter?id=42216",
+     "sha256": "f7bc183ed01dabe7d9790788c822238e208252f31e88bec393c3b3855cca7648"
+    }
+   ]
+  },
+  {
+   "slug": "session-law-085-chapter-055",
+   "short": "85 Del. Laws, c. 55",
+   "title": "AN ACT TO AMEND TITLE 29 OF THE DELAWARE CODE RELATING TO THE AUDITOR OF ACCOUNTS.",
+   "url": "https://legis.delaware.gov/SessionLaws/Chapter?id=42217",
+   "versions": [
+    {
+     "from": "2025-06-30",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": "2025-06-30",
+     "units": 1,
+     "source_url": "https://legis.delaware.gov/SessionLaws/Chapter?id=42217",
+     "sha256": "a74699b5552802c04ed623a55d18a158e1956a80e61dd58bdab46d8ad1af55f8"
+    }
+   ]
+  },
+  {
+   "slug": "session-law-085-chapter-056",
+   "short": "85 Del. Laws, c. 56",
+   "title": "AN ACT TO AMEND TITLE 14 OF THE DELAWARE CODE RELATING TO EDUCATOR AND SCHOOL-BASED MENTAL HEALTH PRACTITIONERS SUPPORT PROGRAMS.",
+   "url": "https://legis.delaware.gov/SessionLaws/Chapter?id=42218",
+   "versions": [
+    {
+     "from": "2025-06-30",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": "2025-06-30",
+     "units": 1,
+     "source_url": "https://legis.delaware.gov/SessionLaws/Chapter?id=42218",
+     "sha256": "88287120c1a7003110251264dee32f856ef8de974be9556d525f2e356f4aa283"
+    }
+   ]
+  },
+  {
+   "slug": "session-law-085-chapter-057",
+   "short": "85 Del. Laws, c. 57",
+   "title": "AN ACT TO AMEND TITLE 19 OF THE DELAWARE CODE RELATING TO WORKERS’ COMPENSATION.",
+   "url": "https://legis.delaware.gov/SessionLaws/Chapter?id=42219",
+   "versions": [
+    {
+     "from": "2025-06-30",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": "2025-06-30",
+     "units": 1,
+     "source_url": "https://legis.delaware.gov/SessionLaws/Chapter?id=42219",
+     "sha256": "5ef8542720532845c59d4e3ba598578b9514d923f07a4e87f48267ec822ed9b3"
+    }
+   ]
+  },
+  {
+   "slug": "session-law-085-chapter-058",
+   "short": "85 Del. Laws, c. 58",
+   "title": "AN ACT TO AMEND TITLE 19 OF THE DELAWARE CODE RELATING TO WORKERS' COMPENSATION PAYMENTS.",
+   "url": "https://legis.delaware.gov/SessionLaws/Chapter?id=42220",
+   "versions": [
+    {
+     "from": "2025-06-30",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": "2025-06-30",
+     "units": 1,
+     "source_url": "https://legis.delaware.gov/SessionLaws/Chapter?id=42220",
+     "sha256": "443200b8f09bad75026bd4f326be8be16e35828f48a079f9d68741237e3099cd"
+    }
+   ]
+  },
+  {
+   "slug": "session-law-085-chapter-059",
+   "short": "85 Del. Laws, c. 59",
+   "title": "AN ACT TO AMEND TITLE 26 OF THE DELAWARE CODE AND CHAPTER 44 OF VOLUME 85 OF THE LAWS OF DELAWARE RELATING TO PUBLIC UTILITIES.",
+   "url": "https://legis.delaware.gov/SessionLaws/Chapter?id=42221",
+   "versions": [
+    {
+     "from": "2025-06-30",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": "2025-06-30",
+     "units": 1,
+     "source_url": "https://legis.delaware.gov/SessionLaws/Chapter?id=42221",
+     "sha256": "f36b2d483d9cc3437d34311943cb9379379587548fa8d59a154c88be9216f032"
+    }
+   ]
+  },
+  {
+   "slug": "session-law-085-chapter-061",
+   "short": "85 Del. Laws, c. 61",
+   "title": "AN ACT CONCURRING IN A PROPOSED AMENDMENT TO ARTICLE I OF THE DELAWARE CONSTITUTION RELATING TO CRIMINAL PROCEDURES. WHEREAS, an amendment to the Delaware Constitution was proposed in the 152 nd General Assembly, being Chapter 283 of Volume 84 of the Laws of Delaware (“proposed amendment”); and WHEREAS, the proposed amendment was adopted by two-thirds of all members elected to each house of the 152 nd General Assembly; and WHEREAS, following adoption by the General Assembly, the proposed amendment was publicized in accordance with the Delaware Constitution; and WHEREAS, when the 153 rd General Assembly concurs in the proposed amendment, the amendment will become part of the Delaware Constitution. NOW, THEREFORE:",
+   "url": "https://legis.delaware.gov/SessionLaws/Chapter?id=42223",
+   "versions": [
+    {
+     "from": "2025-07-01",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": "2025-07-01",
+     "units": 1,
+     "source_url": "https://legis.delaware.gov/SessionLaws/Chapter?id=42223",
+     "sha256": "cab73f0a87029e978bfbf9fadad3dc57ca5b9d56b4baec35ff4c74e401f84276"
+    }
+   ]
+  },
+  {
+   "slug": "session-law-085-chapter-063",
+   "short": "85 Del. Laws, c. 63",
+   "title": "AN ACT MAKING A ONE-TIME SUPPLEMENTAL APPROPRIATION FOR THE FISCAL YEAR ENDING JUNE 30, 2026, TO THE OFFICE OF MANAGEMENT AND BUDGET.",
+   "url": "https://legis.delaware.gov/SessionLaws/Chapter?id=42225",
+   "versions": [
+    {
+     "from": "2025-07-01",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": "2025-07-01",
+     "units": 1,
+     "source_url": "https://legis.delaware.gov/SessionLaws/Chapter?id=42225",
+     "sha256": "7b3a0f9e8dbe1d3105d1dc54da4de7137a77389a41f11d553a4c8c97ab2aa873"
+    }
+   ]
+  },
+  {
+   "slug": "session-law-085-chapter-065",
+   "short": "85 Del. Laws, c. 65",
+   "title": "AN ACT MAKING APPROPRIATIONS FOR CERTAIN GRANTS-IN-AID FOR THE FISCAL YEAR ENDING JUNE 30, 2026; SPECIFYING CERTAIN PROCEDURES, CONDITIONS AND LIMITATIONS FOR THE EXPENDITURE OF SUCH FUNDS; AMENDING THE FISCAL YEAR 2026 APPROPRIATIONS ACT; AMENDING THE FISCAL YEAR 2026 ONE-TIME SUPPLEMENTAL APPROPRIATIONS ACT; AND AMENDING CERTAIN STATUTORY PROVISIONS.",
+   "url": "https://legis.delaware.gov/SessionLaws/Chapter?id=42227",
+   "versions": [
+    {
+     "from": "2025-07-01",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": "2025-07-01",
+     "units": 1,
+     "source_url": "https://legis.delaware.gov/SessionLaws/Chapter?id=42227",
+     "sha256": "eec96f71b219aed0028504cdcd77495ef6482feb4daf52098c9dad2f9e62d027"
+    }
+   ]
+  },
+  {
+   "slug": "session-law-085-chapter-066",
+   "short": "85 Del. Laws, c. 66",
+   "title": "AN ACT TO AMEND TITLE 16 OF THE DELAWARE CODE RELATING TO THE USE OF POLYSTYRENE FOAM FOOD SERVICE PACKAGING IN LEVEL IV AND LEVEL V DEPARTMENT OF CORRECTION FACILITIES.",
+   "url": "https://legis.delaware.gov/SessionLaws/Chapter?id=42228",
+   "versions": [
+    {
+     "from": "2025-07-01",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": "2025-07-01",
+     "units": 1,
+     "source_url": "https://legis.delaware.gov/SessionLaws/Chapter?id=42228",
+     "sha256": "595478b2bd3bf925dfeb3a26af0ab65ed32eadc08e7d16f15d4baa7b2cba337e"
+    }
+   ]
+  },
+  {
+   "slug": "session-law-085-chapter-067",
+   "short": "85 Del. Laws, c. 67",
+   "title": "AN ACT TO AMEND TITLE 11 AND TITLE 13 OF THE DELAWARE CODE RELATING TO THE CRIMINAL JUSTICE SYSTEM, INCLUDING PROBATION.",
+   "url": "https://legis.delaware.gov/SessionLaws/Chapter?id=42229",
+   "versions": [
+    {
+     "from": "2025-07-01",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": "2025-07-01",
+     "units": 1,
+     "source_url": "https://legis.delaware.gov/SessionLaws/Chapter?id=42229",
+     "sha256": "9410d718189a16cc118aea74e894d483d5daa9c9f27e444dd4c3783124310b4f"
+    }
+   ]
+  },
+  {
+   "slug": "session-law-085-chapter-068",
+   "short": "85 Del. Laws, c. 68",
+   "title": "AN ACT TO AMEND TITLE 3, TITLE 6, TITLE 9, TITLE 10, TITLE 11, TITLE 14, TITLE 16, TITLE 19, TITLE 21, TITLE 24, TITLE 26, TITLE 29, TITLE 30, AND TITLE 31 OF THE DELAWARE CODE, AND THE CHARTER OF THE TOWN OF NEWPORT, RELATING TO TECHNICAL CORRECTIONS.",
+   "url": "https://legis.delaware.gov/SessionLaws/Chapter?id=42230",
+   "versions": [
+    {
+     "from": "2025-07-01",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": "2025-07-01",
+     "units": 1,
+     "source_url": "https://legis.delaware.gov/SessionLaws/Chapter?id=42230",
+     "sha256": "c65f5a39f03aa8bd25a2651cf09db04f3d8e39ee2f66fd78742b4f9ff70dfa1f"
+    }
+   ]
+  },
+  {
+   "slug": "session-law-085-chapter-069",
+   "short": "85 Del. Laws, c. 69",
+   "title": "AN ACT TO AMEND THE CHARTER OF THE CITY OF MILFORD RELATING TO ENUMERATED POWERS AND CITY COUNCIL GOVERNMENT.",
+   "url": "https://legis.delaware.gov/SessionLaws/Chapter?id=42231",
+   "versions": [
+    {
+     "from": "2025-07-01",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": "2025-07-01",
+     "units": 1,
+     "source_url": "https://legis.delaware.gov/SessionLaws/Chapter?id=42231",
+     "sha256": "6836c4258ff0b2f4f7b92d2ef42d2990029d1282ad1a81db656e5a54f66ced39"
+    }
+   ]
+  },
+  {
+   "slug": "session-law-085-chapter-070",
+   "short": "85 Del. Laws, c. 70",
+   "title": "AN ACT TO AMEND TITLE 14 OF THE DELAWARE CODE RELATING TO THE INTERAGENCY RESOURCE MANAGEMENT COMMITTEE.",
+   "url": "https://legis.delaware.gov/SessionLaws/Chapter?id=42232",
+   "versions": [
+    {
+     "from": "2025-07-01",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": "2025-07-01",
+     "units": 1,
+     "source_url": "https://legis.delaware.gov/SessionLaws/Chapter?id=42232",
+     "sha256": "318dc7c4f0f51c7e2e151e58e92ad18fd344f656f1354a8a6002569405ccf91c"
+    }
+   ]
+  },
+  {
+   "slug": "session-law-085-chapter-071",
+   "short": "85 Del. Laws, c. 71",
+   "title": "AN ACT TO AMEND TITLE 18 OF THE DELAWARE CODE RELATING TO SPECIAL FUNDS.",
+   "url": "https://legis.delaware.gov/SessionLaws/Chapter?id=42233",
+   "versions": [
+    {
+     "from": "2025-07-01",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": "2025-07-01",
+     "units": 1,
+     "source_url": "https://legis.delaware.gov/SessionLaws/Chapter?id=42233",
+     "sha256": "49e00835c8acdd8e03d207d26ce2df1c8ab2019c6bb304b4e6b5f31efb494c1c"
+    }
+   ]
+  },
+  {
+   "slug": "session-law-085-chapter-072",
+   "short": "85 Del. Laws, c. 72",
+   "title": "AN ACT TO AMEND TITLE 11 OF THE DELAWARE CODE RELATING TO ARRESTS.",
+   "url": "https://legis.delaware.gov/SessionLaws/Chapter?id=42234",
+   "versions": [
+    {
+     "from": "2025-07-14",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": "2025-07-14",
+     "units": 1,
+     "source_url": "https://legis.delaware.gov/SessionLaws/Chapter?id=42234",
+     "sha256": "3eab404770165a077cf0aa81d0f71b2bff0a9ddd17dba354fabdb151bf2aef84"
+    }
+   ]
+  },
+  {
+   "slug": "session-law-085-chapter-073",
+   "short": "85 Del. Laws, c. 73",
+   "title": "AN ACT TO AMEND TITLE 11 OF THE DELAWARE CODE RELATING TO CRIMINAL IMPERSONATION.",
+   "url": "https://legis.delaware.gov/SessionLaws/Chapter?id=42235",
+   "versions": [
+    {
+     "from": "2025-07-14",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": "2025-07-14",
+     "units": 1,
+     "source_url": "https://legis.delaware.gov/SessionLaws/Chapter?id=42235",
+     "sha256": "0b444d838fc9a620a09c79323f1181a9f854187d11ab1aa022e967d9e9c24012"
+    }
+   ]
+  },
+  {
+   "slug": "session-law-085-chapter-074",
+   "short": "85 Del. Laws, c. 74",
+   "title": "AN ACT TO AMEND TITLE 11 OF THE DELAWARE CODE RELATING TO ARREST AND DETENTION.",
+   "url": "https://legis.delaware.gov/SessionLaws/Chapter?id=42236",
+   "versions": [
+    {
+     "from": "2025-07-14",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": "2025-07-14",
+     "units": 1,
+     "source_url": "https://legis.delaware.gov/SessionLaws/Chapter?id=42236",
+     "sha256": "6fb4b145c1a12faf3c773d4ee1036ee0e25ad4381c56470aa093bbec311540f0"
+    }
+   ]
+  },
+  {
+   "slug": "session-law-085-chapter-075",
+   "short": "85 Del. Laws, c. 75",
+   "title": "AN ACT TO AMEND TITLE 11 OF THE DELAWARE CODE RELATING TO LAW ENFORCEMENT AGENCY AGREEMENTS.",
+   "url": "https://legis.delaware.gov/SessionLaws/Chapter?id=42237",
+   "versions": [
+    {
+     "from": "2025-07-14",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": "2025-07-14",
+     "units": 1,
+     "source_url": "https://legis.delaware.gov/SessionLaws/Chapter?id=42237",
+     "sha256": "a1856f701941507610fb5e6289e120e3f3f1b2b6082f7d5196153d2d4c589326"
+    }
+   ]
+  },
+  {
+   "slug": "session-law-085-chapter-076",
+   "short": "85 Del. Laws, c. 76",
+   "title": "AN ACT TO AMEND TITLE 11 AND TITLE 29 OF THE DELAWARE CODE RELATING TO MODIFICATION OF SENTENCES OF INCARCERATION.",
+   "url": "https://legis.delaware.gov/SessionLaws/Chapter?id=42238",
+   "versions": [
+    {
+     "from": "2025-07-14",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": "2025-07-14",
+     "units": 1,
+     "source_url": "https://legis.delaware.gov/SessionLaws/Chapter?id=42238",
+     "sha256": "6040eba98c70e50f17492b7d346aa7fb30b4e781851a93df50ebfaff8368d923"
+    }
+   ]
+  },
+  {
+   "slug": "session-law-085-chapter-077",
+   "short": "85 Del. Laws, c. 77",
+   "title": "AN ACT TO AMEND TITLE 29 OF THE DELAWARE CODE RELATING TO PAYMENTS TO GOVERNMENT VENDORS.",
+   "url": "https://legis.delaware.gov/SessionLaws/Chapter?id=42239",
+   "versions": [
+    {
+     "from": "2025-07-14",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": "2025-07-14",
+     "units": 1,
+     "source_url": "https://legis.delaware.gov/SessionLaws/Chapter?id=42239",
+     "sha256": "6cf7905626c49ac8935176d032c847401504154fb1dc9faabdcd472ac672e16e"
+    }
+   ]
+  },
+  {
+   "slug": "session-law-085-chapter-078",
+   "short": "85 Del. Laws, c. 78",
+   "title": "AN ACT TO AMEND TITLE 26 OF THE DELAWARE CODE RELATING TO PUBLIC UTILITIES AND UTILITY RATES.",
+   "url": "https://legis.delaware.gov/SessionLaws/Chapter?id=42240",
+   "versions": [
+    {
+     "from": "2025-07-16",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": "2025-07-16",
+     "units": 1,
+     "source_url": "https://legis.delaware.gov/SessionLaws/Chapter?id=42240",
+     "sha256": "8e698cac54cb87f7093df431655289dd47dd2a90b329d49f249684b0f09c313c"
+    }
+   ]
+  },
+  {
+   "slug": "session-law-085-chapter-079",
+   "short": "85 Del. Laws, c. 79",
+   "title": "AN ACT TO AMEND TITLE 26 OF THE DELAWARE CODE RELATING TO PUBLIC UTILITIES AND UTILITY RATES.",
+   "url": "https://legis.delaware.gov/SessionLaws/Chapter?id=42241",
+   "versions": [
+    {
+     "from": "2025-07-16",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": "2025-07-16",
+     "units": 1,
+     "source_url": "https://legis.delaware.gov/SessionLaws/Chapter?id=42241",
+     "sha256": "9411de4e2eb47cd07ee593dc31106ebe82abeaadd4e543501c6d85c3833e7ac7"
+    }
+   ]
+  },
+  {
+   "slug": "session-law-085-chapter-080",
+   "short": "85 Del. Laws, c. 80",
+   "title": "AN ACT TO AMEND TITLE 26 OF THE DELAWARE CODE RELATING TO PUBLIC UTILITIES AND VOTING BY MEMBERS OF THE PJM INTERCONNECTION REGIONAL TRANSMISSION ORGANIZATION.",
+   "url": "https://legis.delaware.gov/SessionLaws/Chapter?id=42242",
+   "versions": [
+    {
+     "from": "2025-07-16",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": "2025-07-16",
+     "units": 1,
+     "source_url": "https://legis.delaware.gov/SessionLaws/Chapter?id=42242",
+     "sha256": "f49d2ebae4b6caeb7e7aae060b5cd9526b3914cf0cde8d1d40e89e5489ceb05e"
+    }
+   ]
+  },
+  {
+   "slug": "session-law-085-chapter-081",
+   "short": "85 Del. Laws, c. 81",
+   "title": "AN ACT TO AMEND TITLES 7 AND 29 OF THE DELAWARE CODE RELATING TO ENERGY ASSISTANCE.",
+   "url": "https://legis.delaware.gov/SessionLaws/Chapter?id=42243",
+   "versions": [
+    {
+     "from": "2025-07-16",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": "2025-07-16",
+     "units": 1,
+     "source_url": "https://legis.delaware.gov/SessionLaws/Chapter?id=42243",
+     "sha256": "d2ab600b70fefa4c534faef4ef62fa16cd35c387e96e1a2dc719526fc44adcbc"
+    }
+   ]
+  },
+  {
+   "slug": "session-law-085-chapter-082",
+   "short": "85 Del. Laws, c. 82",
+   "title": "AN ACT TO AMEND TITLE 26 OF THE DELAWARE CODE RELATING TO PUBLIC UTILITY RATES.",
+   "url": "https://legis.delaware.gov/SessionLaws/Chapter?id=42244",
+   "versions": [
+    {
+     "from": "2025-07-16",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": "2025-07-16",
+     "units": 1,
+     "source_url": "https://legis.delaware.gov/SessionLaws/Chapter?id=42244",
+     "sha256": "309703ff63af8c4eff5cd6b74e77a5daa7affe0a326a09580c7743ec90aa05c1"
+    }
+   ]
+  },
+  {
+   "slug": "session-law-085-chapter-083",
+   "short": "85 Del. Laws, c. 83",
+   "title": "AN ACT TO AMEND TITLE 26 OF THE DELAWARE CODE RELATING TO NET ENERGY METERING.",
+   "url": "https://legis.delaware.gov/SessionLaws/Chapter?id=42245",
+   "versions": [
+    {
+     "from": "2025-07-16",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": "2025-07-16",
+     "units": 1,
+     "source_url": "https://legis.delaware.gov/SessionLaws/Chapter?id=42245",
+     "sha256": "f7920f6041d4452f7fd7319558a1c2ce4d14777b25590443f436921a262d51db"
+    }
+   ]
+  },
+  {
+   "slug": "session-law-085-chapter-085",
+   "short": "85 Del. Laws, c. 85",
+   "title": "AN ACT TO AMEND TITLE 29 OF THE DELAWARE CODE RELATING TO THE DESIGNATION OF A STATE DRAGONFLY. WHEREAS, dragonflies play a vital role in maintaining the health and balance of the ecosystem as a top insect predator, even though they do not bite or sting humans; and WHEREAS, dragonflies are nonselective and eat anything that flies in their visual field including insects up to their own size, capturing over 95% of the prey they pursue; and WHEREAS, dragonflies are beneficial in balancing prey populations, like mosquitoes and agricultural pests, and they rely on healthy aquatic ecosystems for a large portion of their life cycle; and WHEREAS, dragonflies lay their eggs in water and their larvae live in water, and the only dragonflies in the world that lay their eggs in salt water, Seaside Dragonlets, are abundant in Delaware saltmarshes; and WHEREAS, major threats to dragonflies in Delaware include habitat destruction, introduced predatory fish, agricultural runoff, and use of pesticides; and WHEREAS, dragonflies are Odonates, members of the insect order Odonata, an order of predatory flying insects which also includes damselflies; and WHEREAS, approximately 136 Odonate species can be found in Delaware; and WHEREAS, the Delaware Department of Natural Resources (DNREC) is in the process of finalizing the 2025 Delaware Wildlife Action Plan (DEWAP); and WHEREAS, 76 species of dragonflies and damselflies have been included as candidates for the DEWAP list of Species of Greatest Conservation Need; and WHEREAS, the Delaware Dragonfly Project aimed to further the environmental education of Delaware students in all grades throughout the State about the life and habitat of dragonflies in Delaware, specifically studying six species: the Blue Dasher, Blue-Faced Meadowhawk, Calico Pennant, Common Green Darner, Dragonhunter, and Tiger Spiketail; and WHEREAS, nearly 900 students throughout Delaware participated in these activities and voted to designate the Blue Dasher as the official State dragonfly; and WHEREAS, the Blue Dasher is one of the most common and widespread dragonflies, not just in Delaware but across North America, found at almost everybody of water and growing 0.98–1.69 inches long; and WHEREAS, Blue Dashers are members of the Skimmer family and live near still, calm bodies of water, such as ponds, marshes, slow-moving waterways, and ditches, in warm areas typically at low elevations, with adult Blue Dashers roosting in trees at night; and WHEREAS, Blue Dashers are often found a long way from water when feeding, hunting small flying insects from perches, keeping still and darting to catch suitable prey when it comes within range; and WHEREAS, as wetlands and other various habitats for dragonflies decrease due to habitat destruction, so do the populations of dragonflies; and WHEREAS, as temperature has a large effect on the evolution of the Blue Dasher’s wing coloration, with darker wing coloration helping with thermoregulation, flight performance, and territory securement, and populations in hotter regions tending to lack this darker coloration compared to those present in cooler regions, Blue Dashers are vulnerable to warming climate; and WHEREAS, dragonflies are indicators of a healthy ecosystem and at the forefront of conservation movements; and WHEREAS, the preservation of our waterways is critical to their survival. NOW, THEREFORE:",
+   "url": "https://legis.delaware.gov/SessionLaws/Chapter?id=42247",
+   "versions": [
+    {
+     "from": "2025-07-16",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": "2025-07-16",
+     "units": 1,
+     "source_url": "https://legis.delaware.gov/SessionLaws/Chapter?id=42247",
+     "sha256": "1cbb37149b7fae6be1cac8d7f2218f4f8407d1c95745f37d2ab0809495630088"
+    }
+   ]
+  },
+  {
+   "slug": "session-law-085-chapter-086",
+   "short": "85 Del. Laws, c. 86",
+   "title": "AN ACT TO AMEND TITLE 29 OF THE DELAWARE CODE RELATING TO THE STATE MIGRATORY BIRD. WHEREAS, Red Knots are a sandpiper with an unmistakable red plumage on its chest; and WHEREAS, Red Knots are migratory birds, traveling up to 9000 miles per year; and WHEREAS, the Delaware bays are a critical stop on the annual migration of Red Knots; and WHEREAS, up to 90 percent of the Red Knot subspecies Rufa can be found along the Delaware bays in a single day during the spring migration; and WHEREAS, horseshoe crab eggs are an important food source for Red Knots; and WHEREAS, the Red Knots are synonymous with Delaware’s bays and wetlands during the Spring; and WHEREAS, Red Knots are an important part of Delaware’s history and ecology. NOW, THEREFORE:",
+   "url": "https://legis.delaware.gov/SessionLaws/Chapter?id=42248",
+   "versions": [
+    {
+     "from": "2025-07-16",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": "2025-07-16",
+     "units": 1,
+     "source_url": "https://legis.delaware.gov/SessionLaws/Chapter?id=42248",
+     "sha256": "f14d9644bd475046f0a554e0c554ab1882590a1880121fdc8de51f2d5be52d0d"
+    }
+   ]
+  },
+  {
+   "slug": "session-law-085-chapter-087",
+   "short": "85 Del. Laws, c. 87",
+   "title": "AN ACT TO AMEND TITLE 16 OF THE DELAWARE CODE RELATING TO TIANEPTINE.",
+   "url": "https://legis.delaware.gov/SessionLaws/Chapter?id=42249",
+   "versions": [
+    {
+     "from": "2025-07-21",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": "2025-07-21",
+     "units": 1,
+     "source_url": "https://legis.delaware.gov/SessionLaws/Chapter?id=42249",
+     "sha256": "4545c46e206a1ff019ad3cb1c3b0e1ef668b81ac35c7c3502da3f130ce79067b"
+    }
+   ]
+  },
+  {
+   "slug": "session-law-085-chapter-088",
+   "short": "85 Del. Laws, c. 88",
+   "title": "AN ACT TO AMEND TITLES 18, 29, AND 31 OF THE DELAWARE CODE RELATING TO COVERAGE FOR REMOVAL OF EXCESS SKIN AND SUBCUTANEOUS TISSUE.",
+   "url": "https://legis.delaware.gov/SessionLaws/Chapter?id=42250",
+   "versions": [
+    {
+     "from": "2025-07-21",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": "2025-07-21",
+     "units": 1,
+     "source_url": "https://legis.delaware.gov/SessionLaws/Chapter?id=42250",
+     "sha256": "fa6a3e0039eb9dfef4ae631faf6dc7271357f5652251a5b23bd360be52eaa516"
+    }
+   ]
+  },
+  {
+   "slug": "session-law-085-chapter-089",
+   "short": "85 Del. Laws, c. 89",
+   "title": "AN ACT TO AMEND TITLE 18 OF THE DELAWARE CODE RELATING TO HEALTH CARE AND THE PATIENT PROTECTION AND AFFORDABLE CARE ACT.",
+   "url": "https://legis.delaware.gov/SessionLaws/Chapter?id=42251",
+   "versions": [
+    {
+     "from": "2025-07-21",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": "2025-07-21",
+     "units": 1,
+     "source_url": "https://legis.delaware.gov/SessionLaws/Chapter?id=42251",
+     "sha256": "8d911c115cc78e6246dfab75c8767d3815a837213ff3f1b24e10fd2da3a4e2c7"
+    }
+   ]
+  },
+  {
+   "slug": "session-law-085-chapter-090",
+   "short": "85 Del. Laws, c. 90",
+   "title": "AN ACT TO AMEND TITLE 16 OF THE DELAWARE CODE RELATING TO THE UNIFORM HEALTH-CARE DECISIONS ACT.",
+   "url": "https://legis.delaware.gov/SessionLaws/Chapter?id=42252",
+   "versions": [
+    {
+     "from": "2025-07-21",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": "2025-07-21",
+     "units": 1,
+     "source_url": "https://legis.delaware.gov/SessionLaws/Chapter?id=42252",
+     "sha256": "d88b42dfc4703da71c77630f6ed3871aab34cabfa3ecd8982eb76cee44adb0a5"
+    }
+   ]
+  },
+  {
+   "slug": "session-law-085-chapter-091",
+   "short": "85 Del. Laws, c. 91",
+   "title": "AN ACT TO AMEND TITLE 12, TITLE 16, TITLE 21, AND TITLE 31 OF THE DELAWARE CODE RELATING TO THIRD-PARTY DECISION MAKING.",
+   "url": "https://legis.delaware.gov/SessionLaws/Chapter?id=42253",
+   "versions": [
+    {
+     "from": "2025-07-21",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": "2025-07-21",
+     "units": 1,
+     "source_url": "https://legis.delaware.gov/SessionLaws/Chapter?id=42253",
+     "sha256": "8bebc2347bb3f831736bc70e4c4618dfed6ce90720ca9ee0ea1832b4265fb40a"
+    }
+   ]
+  },
+  {
+   "slug": "session-law-085-chapter-092",
+   "short": "85 Del. Laws, c. 92",
+   "title": "AN ACT TO AMEND TITLE 16 OF THE DELAWARE CODE RELATING TO THE DEFINITION OF THE PATIENT-PRACTITIONER RELATIONSHIP.",
+   "url": "https://legis.delaware.gov/SessionLaws/Chapter?id=42254",
+   "versions": [
+    {
+     "from": "2025-07-21",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": "2025-07-21",
+     "units": 1,
+     "source_url": "https://legis.delaware.gov/SessionLaws/Chapter?id=42254",
+     "sha256": "d0bc6568f05f3cf91d09d14d2d077d09eb7903fb359b86e5109d36459d292966"
+    }
+   ]
+  },
+  {
+   "slug": "session-law-085-chapter-093",
+   "short": "85 Del. Laws, c. 93",
+   "title": "AN ACT TO AMEND TITLE 29 OF THE DELAWARE CODE RELATING TO REVERSE AUCTIONS.",
+   "url": "https://legis.delaware.gov/SessionLaws/Chapter?id=42255",
+   "versions": [
+    {
+     "from": "2025-07-21",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": "2025-07-21",
+     "units": 1,
+     "source_url": "https://legis.delaware.gov/SessionLaws/Chapter?id=42255",
+     "sha256": "2d2284260c920f942c1b7b688dc52b69c88d4d7092f1de340a27f2f07ce2a3e1"
+    }
+   ]
+  },
+  {
+   "slug": "session-law-085-chapter-094",
+   "short": "85 Del. Laws, c. 94",
+   "title": "AN ACT TO AMEND TITLE 16 OF THE DELAWARE CODE RELATING TO THE DELAWARE HEALTH INFORMATION NETWORK.",
+   "url": "https://legis.delaware.gov/SessionLaws/Chapter?id=42256",
+   "versions": [
+    {
+     "from": "2025-07-21",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": "2025-07-21",
+     "units": 1,
+     "source_url": "https://legis.delaware.gov/SessionLaws/Chapter?id=42256",
+     "sha256": "4b7a68b32365c4cbcf213226cd38d8d0a24d89f75879fb0b5cb2f7ac2439eb25"
+    }
+   ]
+  },
+  {
+   "slug": "session-law-085-chapter-095",
+   "short": "85 Del. Laws, c. 95",
+   "title": "AN ACT TO AMEND TITLE 16 OF THE DELAWARE CODE RELATING TO VOLUNTARY ADMISSIONS.",
+   "url": "https://legis.delaware.gov/SessionLaws/Chapter?id=42257",
+   "versions": [
+    {
+     "from": "2025-07-21",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": "2025-07-21",
+     "units": 1,
+     "source_url": "https://legis.delaware.gov/SessionLaws/Chapter?id=42257",
+     "sha256": "024ed9e91ff607fc960eda38a7e8a3ce55aa39e878b664d82026b8ed309558cb"
+    }
+   ]
+  },
+  {
+   "slug": "session-law-085-chapter-096",
+   "short": "85 Del. Laws, c. 96",
+   "title": "AN ACT TO AMEND TITLE 14 OF THE DELAWARE CODE RELATING TO PROVIDING INFORMATION ON TYPE 1 DIABETES.",
+   "url": "https://legis.delaware.gov/SessionLaws/Chapter?id=42258",
+   "versions": [
+    {
+     "from": "2025-07-21",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": "2025-07-21",
+     "units": 1,
+     "source_url": "https://legis.delaware.gov/SessionLaws/Chapter?id=42258",
+     "sha256": "fd63618e38c4f6b01337226f5e666f269751e509678a4e0495dd69add9cd9b8b"
+    }
+   ]
+  },
+  {
+   "slug": "session-law-085-chapter-098",
+   "short": "85 Del. Laws, c. 98",
+   "title": "AN ACT TO AMEND TITLES 16 AND 25 OF THE DELAWARE CODE RELATING TO LEAD-BASED PAINT.",
+   "url": "https://legis.delaware.gov/SessionLaws/Chapter?id=42260",
+   "versions": [
+    {
+     "from": "2025-07-21",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": "2025-07-21",
+     "units": 1,
+     "source_url": "https://legis.delaware.gov/SessionLaws/Chapter?id=42260",
+     "sha256": "339e1f5e097f9df2990c7e0cbe0e8114049df5b4efb7797753b9009df63bb6e7"
+    }
+   ]
+  },
+  {
+   "slug": "session-law-085-chapter-099",
+   "short": "85 Del. Laws, c. 99",
+   "title": "AN ACT TO AMEND TITLE 16 OF THE DELAWARE CODE RELATING TO PRESCRIPTION OPIOID FUNDS AND LITIGATION AUTHORITY.",
+   "url": "https://legis.delaware.gov/SessionLaws/Chapter?id=42261",
+   "versions": [
+    {
+     "from": "2025-07-21",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": "2025-07-21",
+     "units": 1,
+     "source_url": "https://legis.delaware.gov/SessionLaws/Chapter?id=42261",
+     "sha256": "14d07c4c37f403754ec74230032e410674617ab01714217797738c0b5bba0dcb"
+    }
+   ]
+  },
+  {
+   "slug": "session-law-085-chapter-100",
+   "short": "85 Del. Laws, c. 100",
+   "title": "AN ACT TO AMEND TITLE 11 OF THE DELAWARE CODE RELATING TO BREASTFEEDING.",
+   "url": "https://legis.delaware.gov/SessionLaws/Chapter?id=42262",
+   "versions": [
+    {
+     "from": "2025-07-21",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": "2025-07-21",
+     "units": 1,
+     "source_url": "https://legis.delaware.gov/SessionLaws/Chapter?id=42262",
+     "sha256": "df3ce916eed4ba842e94cf4b5616a2c27ca3318ae27f51440f78a4ffbeeddd09"
+    }
+   ]
+  },
+  {
+   "slug": "session-law-085-chapter-101",
+   "short": "85 Del. Laws, c. 101",
+   "title": "AN ACT TO AMEND TITLE 26 OF THE DELAWARE CODE RELATING TO TELECOMMUNICATIONS SERVICE AND DEVICES FOR PERSONS WHO HAVE DEAFNESS, HEARING LOSS, OR SPEECH DISABILITIES.",
+   "url": "https://legis.delaware.gov/SessionLaws/Chapter?id=42263",
+   "versions": [
+    {
+     "from": "2025-07-21",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": "2025-07-21",
+     "units": 1,
+     "source_url": "https://legis.delaware.gov/SessionLaws/Chapter?id=42263",
+     "sha256": "103dcca900c1a3c9cc1ccaf5cdd32f64a109cfa950b5208744c2e7cfa63b9fab"
+    }
+   ]
+  },
+  {
+   "slug": "session-law-085-chapter-102",
+   "short": "85 Del. Laws, c. 102",
+   "title": "AN ACT TO AMEND TITLES 10, 11, 18, 24, AND 29 OF THE DELAWARE CODE RELATING TO HEALTHCARE SERVICES.",
+   "url": "https://legis.delaware.gov/SessionLaws/Chapter?id=42264",
+   "versions": [
+    {
+     "from": "2025-07-21",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": "2025-07-21",
+     "units": 1,
+     "source_url": "https://legis.delaware.gov/SessionLaws/Chapter?id=42264",
+     "sha256": "131b9eb942181c60531a33e935d7028e924c01977a3f8da961a937cf1510752c"
+    }
+   ]
+  },
+  {
+   "slug": "session-law-085-chapter-103",
+   "short": "85 Del. Laws, c. 103",
+   "title": "AN ACT TO AMEND TITLE 14 OF THE DELAWARE CODE RELATED TO DELAWARE NATIONAL GUARD EDUCATION BENEFITS.",
+   "url": "https://legis.delaware.gov/SessionLaws/Chapter?id=42265",
+   "versions": [
+    {
+     "from": "2025-07-23",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": "2025-07-23",
+     "units": 1,
+     "source_url": "https://legis.delaware.gov/SessionLaws/Chapter?id=42265",
+     "sha256": "9c20beb155a50d33ee05570ac0a999018e63b34467da53a4075ff538cbea202a"
+    }
+   ]
+  },
+  {
+   "slug": "session-law-085-chapter-104",
+   "short": "85 Del. Laws, c. 104",
+   "title": "AN ACT TO AMEND THE DELAWARE CODE RELATING TO PROHIBITED DISCRIMINATION ON THE BASIS OF MILITARY STATUS.",
+   "url": "https://legis.delaware.gov/SessionLaws/Chapter?id=42266",
+   "versions": [
+    {
+     "from": "2025-07-23",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": "2025-07-23",
+     "units": 1,
+     "source_url": "https://legis.delaware.gov/SessionLaws/Chapter?id=42266",
+     "sha256": "aa8ad4dcf86d2768a601fdcc97e5e584eda33d020bf2ac9778ff947c8aa21785"
+    }
+   ]
+  },
+  {
+   "slug": "session-law-085-chapter-105",
+   "short": "85 Del. Laws, c. 105",
+   "title": "AN ACT TO AMEND TITLE 14 OF THE DELAWARE CODE RELATING TO CHILD CARE LICENSING.",
+   "url": "https://legis.delaware.gov/SessionLaws/Chapter?id=42267",
+   "versions": [
+    {
+     "from": "2025-07-23",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": "2025-07-23",
+     "units": 1,
+     "source_url": "https://legis.delaware.gov/SessionLaws/Chapter?id=42267",
+     "sha256": "4d639b5352b4cce5905adee3e2feeb9e4d69e2ad9a52f7b206f9945efb83d408"
+    }
+   ]
+  },
+  {
+   "slug": "session-law-085-chapter-106",
+   "short": "85 Del. Laws, c. 106",
+   "title": "AN ACT TO AMEND TITLE 25 OF THE DELAWARE CODE RELATING TO SUMMARY POSSESSION.",
+   "url": "https://legis.delaware.gov/SessionLaws/Chapter?id=42268",
+   "versions": [
+    {
+     "from": "2025-07-29",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": "2025-07-29",
+     "units": 1,
+     "source_url": "https://legis.delaware.gov/SessionLaws/Chapter?id=42268",
+     "sha256": "d88218a16e1f08ea2def37e6bae192c87b228c640bff0248f8f08fd2b24d8b10"
+    }
+   ]
+  },
+  {
+   "slug": "session-law-085-chapter-107",
+   "short": "85 Del. Laws, c. 107",
+   "title": "AN ACT TO AMEND TITLE 6 OF THE DELAWARE CODE RELATING TO THE MEDICAL DEBT PROTECTION ACT.",
+   "url": "https://legis.delaware.gov/SessionLaws/Chapter?id=42269",
+   "versions": [
+    {
+     "from": "2025-07-29",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": "2025-07-29",
+     "units": 1,
+     "source_url": "https://legis.delaware.gov/SessionLaws/Chapter?id=42269",
+     "sha256": "cc4ce217bf8e7d1a3874ed40ad259637a83ac4884eeba93c0c58f770f2ccd57a"
+    }
+   ]
+  },
+  {
+   "slug": "session-law-085-chapter-108",
+   "short": "85 Del. Laws, c. 108",
+   "title": "AN ACT TO AMEND TITLE 14 RELATING TO INTERSCHOLASTIC ATHLETICS.",
+   "url": "https://legis.delaware.gov/SessionLaws/Chapter?id=42270",
+   "versions": [
+    {
+     "from": "2025-07-30",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": "2025-07-30",
+     "units": 1,
+     "source_url": "https://legis.delaware.gov/SessionLaws/Chapter?id=42270",
+     "sha256": "739dc134d27a9d23870c6b860b41d640f4cbfa3f5768b7f31a79aa800889ac02"
+    }
+   ]
+  },
+  {
+   "slug": "session-law-085-chapter-109",
+   "short": "85 Del. Laws, c. 109",
+   "title": "AN ACT TO AMEND TITLE 21 OF THE DELAWARE CODE RELATING TO SPECIAL LICENSE PLATES.",
+   "url": "https://legis.delaware.gov/SessionLaws/Chapter?id=42271",
+   "versions": [
+    {
+     "from": "2025-07-30",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": "2025-07-30",
+     "units": 1,
+     "source_url": "https://legis.delaware.gov/SessionLaws/Chapter?id=42271",
+     "sha256": "2e3dcb47511ec51d5bca49a54ee275e0a678f26ad38a8aef4c06335ef18bf2a6"
+    }
+   ]
+  },
+  {
+   "slug": "session-law-085-chapter-110",
+   "short": "85 Del. Laws, c. 110",
+   "title": "AN ACT TO AMEND TITLE 14 OF THE DELAWARE CODE RELATING TO SCHOOL MEALS.",
+   "url": "https://legis.delaware.gov/SessionLaws/Chapter?id=42272",
+   "versions": [
+    {
+     "from": "2025-07-30",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": "2025-07-30",
+     "units": 1,
+     "source_url": "https://legis.delaware.gov/SessionLaws/Chapter?id=42272",
+     "sha256": "1b2e6b5601ec221c8a33773fbc7033fe1d8f26acbc00f8347920c1f92bc42968"
+    }
+   ]
   }
  ]
 }
