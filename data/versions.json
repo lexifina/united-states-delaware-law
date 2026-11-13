@@ -1,0 +1,90 @@
+{
+ "country": "US-DE",
+ "acts": [
+  {
+   "slug": "title-11-chapter-084a",
+   "short": "11 Del. C. ch. 84A",
+   "title": "Delaware Code, Title 11, CHAPTER 84A. Body-Worn Cameras for Law-Enforcement Officers",
+   "url": "https://delcode.delaware.gov/title11/c084a/index.html",
+   "versions": [
+    {
+     "from": "2026-10-01",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 2,
+     "source_url": "https://delcode.delaware.gov/title11/c084a/index.html",
+     "sha256": "7d7e442a847f75791db363b816f705779bf32face7494ff3d2a21f48284fe866"
+    }
+   ]
+  },
+  {
+   "slug": "title-11-chapter-084b",
+   "short": "11 Del. C. ch. 84B",
+   "title": "Delaware Code, Title 11, CHAPTER 84B. Prohibited Police Practices",
+   "url": "https://delcode.delaware.gov/title11/c084b/index.html",
+   "versions": [
+    {
+     "from": "2026-10-01",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 8,
+     "source_url": "https://delcode.delaware.gov/title11/c084b/index.html",
+     "sha256": "2c8524fb9ca2d782579ba0dac9c34ddde2ed7565731bf96398085bb906cb3268"
+    }
+   ]
+  },
+  {
+   "slug": "title-11-chapter-087a",
+   "short": "11 Del. C. ch. 87A",
+   "title": "Delaware Code, Title 11, CHAPTER 87A. Reporting and Review of Deaths of Individuals in Custody of Law Enforcement Agencies",
+   "url": "https://delcode.delaware.gov/title11/c087a/index.html",
+   "versions": [
+    {
+     "from": "2026-10-01",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 7,
+     "source_url": "https://delcode.delaware.gov/title11/c087a/index.html",
+     "sha256": "a5c89c44874c187facf1541aedb10c12d998ce9e4105f441eb723854b4ec5206"
+    }
+   ]
+  },
+  {
+   "slug": "title-11-chapter-089a",
+   "short": "11 Del. C. ch. 89A",
+   "title": "Delaware Code, Title 11, CHAPTER 89A. The Delaware Sentencing Guidelines and Accountability Commission",
+   "url": "https://delcode.delaware.gov/title11/c089a/index.html",
+   "versions": [
+    {
+     "from": "2026-10-01",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 6,
+     "source_url": "https://delcode.delaware.gov/title11/c089a/index.html",
+     "sha256": "44d4afbc301825d7f6949454cad4e562c0c51c744d37ece16c34eed21a84f721"
+    }
+   ]
+  },
+  {
+   "slug": "title-11-chapter-089b",
+   "short": "11 Del. C. ch. 89B",
+   "title": "Delaware Code, Title 11, CHAPTER 89B. Call Location Information",
+   "url": "https://delcode.delaware.gov/title11/c089b/index.html",
+   "versions": [
+    {
+     "from": "2026-10-01",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 2,
+     "source_url": "https://delcode.delaware.gov/title11/c089b/index.html",
+     "sha256": "996b3c98c8e812cbc4a7ca88877db816e976c7890e0806f06f4b270457ad4cd6"
+    }
+   ]
+  }
+ ]
+}
