@@ -5,5 +5,14 @@
  "level": "state",
  "repo": "https://github.com/lexifina/united-states-delaware-law",
  "build": "built",
+ "coverage": {
+  "code": "Constitution and all 31 Delaware Code titles; single consolidated versions",
+  "session_laws": "Partial Volume 85 as-enacted instruments with source commencement or labelled approval records",
+  "excluded": [
+   "Administrative Code",
+   "municipal charters",
+   "unrepresented session-law instruments and earlier history"
+  ]
+ },
  "parent": "united-states"
 }
