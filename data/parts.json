@@ -1,0 +1,15 @@
+{
+ "parts": {
+  "1303-depth-title11-gaps-source-faithful.json": {
+   "acts": [
+    "title-11-chapter-084a",
+    "title-11-chapter-084b",
+    "title-11-chapter-087a",
+    "title-11-chapter-089a",
+    "title-11-chapter-089b"
+   ],
+   "sha256": "0f7cf1a3bd71c7d716d5a860aaf7fe8d657c72de2665892b192326d13511a5ae"
+  }
+ },
+ "schema": 1
+}

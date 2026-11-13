@@ -1,0 +1,21 @@
+{
+ "corpus": "us/delaware/acts",
+ "path": "united-states/delaware/acts",
+ "scope": "selected-acts",
+ "acts": 1325,
+ "future_branch": "future",
+ "publisher": "The Delaware Code Online (Delaware General Assembly)",
+ "name": "United States (Delaware)",
+ "language": "en",
+ "coverage": "1325 acts of United States (Delaware), the current text of each as of 2026-11-03",
+ "history": "current-only",
+ "history_from": "2025-07-01",
+ "record_to": "2026-11-03",
+ "checked_on": "2026-11-13",
+ "record_note": "Texts from The Delaware Code Online (Delaware General Assembly).",
+ "in_force_trailer": "In-force",
+ "citation": {
+  "file": "([^/]+)/sec-0*([0-9]+[a-z]?)\\.md",
+  "cites": "([Ss]ection|s\\.|§) ?{n}([^0-9a-zA-Z]|$)"
+ }
+}
